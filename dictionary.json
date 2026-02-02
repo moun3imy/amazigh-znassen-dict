@@ -4393,5402 +4393,5552 @@
   },
   {
     "id": "733",
-    "romanized": "ajdou",
-    "tifinagh": "ⴰⵊⴷⵓ",
-    "arabic": "ابريق"
-  },
-  {
-    "id": "734",
     "romanized": "ajrtil",
     "tifinagh": "ⴰⵊⵔⵜⵉⵍ",
     "arabic": "حصيرة"
   },
   {
-    "id": "735",
+    "id": "734",
     "romanized": "al9am",
     "tifinagh": "ⴰⵍⵇⴰⵎ",
     "arabic": "مغناطيس"
   },
   {
-    "id": "736",
+    "id": "735",
     "romanized": "gougou",
     "tifinagh": "ⴳⵓⴳⵓ",
     "arabic": "عقل"
   },
   {
-    "id": "737",
+    "id": "736",
     "romanized": "andou",
     "tifinagh": "ⴰⵏⴷⵓ",
     "arabic": "طبق من الحلفاء"
   },
   {
-    "id": "738",
+    "id": "737",
     "romanized": "anchab",
     "tifinagh": "ⴰⵏⵛⴰⴱ",
     "arabic": "رمح"
   },
   {
-    "id": "739",
+    "id": "738",
     "romanized": "anfous",
     "tifinagh": "ⴰⵏⴼⵓⵙ",
     "arabic": "كم"
   },
   {
-    "id": "740",
+    "id": "739",
     "romanized": "arba",
     "tifinagh": "ⴰⵔⴱⴰ",
     "arabic": "ولد"
   },
   {
-    "id": "741",
+    "id": "740",
     "romanized": "ardouz",
     "tifinagh": "ⴰⵔⴷⵓⵣ",
     "arabic": "خنفساء"
   },
   {
-    "id": "742",
+    "id": "741",
     "romanized": "achlif",
     "tifinagh": "ⴰⵛⵍⵉⴼ",
     "arabic": "حذاء من خشب"
   },
   {
-    "id": "743",
+    "id": "742",
     "romanized": "takhri9t",
     "tifinagh": "ⵜⴰⵅⵔⵉⵇⵜ",
     "arabic": "تهمة"
   },
   {
-    "id": "744",
+    "id": "743",
     "romanized": "azar",
     "tifinagh": "ⴰⵣⴰⵔ",
     "arabic": "نبق"
   },
   {
-    "id": "745",
+    "id": "744",
     "romanized": "azir",
     "tifinagh": "ⴰⵣⵉⵔ",
     "arabic": "اكليل الجبل"
   },
   {
-    "id": "746",
+    "id": "745",
     "romanized": "azwar",
     "tifinagh": "ⴰⵣⵡⴰⵔ",
     "arabic": "فضيحة"
   },
   {
-    "id": "747",
+    "id": "746",
     "romanized": "ilellay",
     "tifinagh": "ⵉⵍⴻⵍⵍⴰⵢ",
     "arabic": "مقلع"
   },
   {
-    "id": "748",
+    "id": "747",
     "romanized": "aylis",
     "tifinagh": "ⴰⵢⵍⵉⵙ",
     "arabic": "دخان"
   },
   {
-    "id": "749",
+    "id": "748",
     "romanized": "iri",
     "tifinagh": "ⵉⵔⵉ",
     "arabic": "رقبة"
   },
   {
-    "id": "750",
+    "id": "749",
     "romanized": "ichr",
     "tifinagh": "ⵉⵛⵔ",
     "arabic": "ظفر"
   },
   {
-    "id": "751",
+    "id": "750",
     "romanized": "izri/izran",
     "tifinagh": "ⵉⵣⵔⵉ/ⵉⵣⵔⴰⵏ",
     "arabic": "شعر جمع اشعار"
   },
   {
-    "id": "752",
+    "id": "751",
     "romanized": "tirt/tiriwin",
     "tifinagh": "ⵜⵉⵔⵜ/ⵜⵉⵔⵉⵡⵉⵏ",
     "arabic": "واد بين الجبال"
   },
   {
-    "id": "753",
+    "id": "752",
     "romanized": "tmala",
     "tifinagh": "ⵜⵎⴰⵍⴰ",
     "arabic": "طائر يشبه الحمام"
   },
   {
-    "id": "754",
+    "id": "753",
     "romanized": "tasghda",
     "tifinagh": "ⵜⴰⵙⵖⴷⴰ",
     "arabic": "اداة للخياطة (كروشي)"
   },
   {
-    "id": "755",
+    "id": "754",
     "romanized": "tadrṣa",
     "tifinagh": "ⵜⴰⴷⵔⵚⴰ",
     "arabic": "حبل من حلفاء"
   },
   {
-    "id": "756",
+    "id": "755",
     "romanized": "tadout",
     "tifinagh": "ⵜⴰⴷⵓⵜ",
     "arabic": "حبر"
   },
   {
-    "id": "757",
+    "id": "756",
     "romanized": "tata",
     "tifinagh": "ⵜⴰⵜⴰ",
     "arabic": "حرباء"
   },
   {
-    "id": "758",
+    "id": "757",
     "romanized": "tafrawt",
     "tifinagh": "ⵜⴰⴼⵔⴰⵡⵜ",
     "arabic": "لوحة"
   },
   {
-    "id": "759",
+    "id": "758",
     "romanized": "taghrawt",
     "tifinagh": "ⵜⴰⵖⵔⴰⵡⵜ",
     "arabic": "حزام للاكمام"
   },
   {
-    "id": "760",
+    "id": "759",
     "romanized": "taghrot",
     "tifinagh": "ⵜⴰⵖⵔⵓⵜ",
     "arabic": "كتف"
   },
   {
-    "id": "761",
+    "id": "760",
     "romanized": "taltchint",
     "tifinagh": "ⵜⴰⵍⵜⵛⵉⵏⵜ",
     "arabic": "تلتشينت"
   },
   {
-    "id": "762",
+    "id": "761",
     "romanized": "tamda",
     "tifinagh": "ⵜⴰⵎⴷⴰ",
     "arabic": "بحيرة"
   },
   {
-    "id": "763",
+    "id": "762",
     "romanized": "tamllalt",
     "tifinagh": "ⵜⴰⵎⵍⵍⴰⵍⵜ",
     "arabic": "بيضة"
   },
   {
-    "id": "764",
+    "id": "763",
     "romanized": "amsl",
     "tifinagh": "ⴰⵎⵙⵍ",
     "arabic": "رجل الخلفية للحيوان"
   },
   {
-    "id": "765",
+    "id": "764",
     "romanized": "ta9a",
     "tifinagh": "ⵜⴰⵇⴰ",
     "arabic": "فتات الحبوب"
   },
   {
-    "id": "766",
+    "id": "765",
     "romanized": "miḍra",
     "tifinagh": "ⵎⵉⴹⵔⴰ",
     "arabic": "نخلة"
   },
   {
-    "id": "767",
+    "id": "766",
     "romanized": "tasrmt",
     "tifinagh": "ⵜⴰⵙⵔⵎⵜ",
     "arabic": "لجام"
   },
   {
-    "id": "768",
+    "id": "767",
     "romanized": "achbou",
     "tifinagh": "ⴰⵛⴱⵓ",
     "arabic": "قنينة من جلد"
   },
   {
-    "id": "769",
+    "id": "768",
     "romanized": "tawla",
     "tifinagh": "ⵜⴰⵡⵍⴰ",
     "arabic": "قطع فلاحية في الجبل"
   },
   {
-    "id": "770",
+    "id": "769",
     "romanized": "idr",
     "tifinagh": "ⵉⴷⵔ",
     "arabic": "سنبلة"
   },
   {
-    "id": "771",
+    "id": "770",
     "romanized": "ayous",
     "tifinagh": "ⴰⵢⵓⵙ",
     "arabic": "حجر البناء"
   },
   {
-    "id": "772",
+    "id": "771",
     "romanized": "tazdlt",
     "tifinagh": "ⵜⴰⵣⴷⵍⵜ",
     "arabic": "وشاح"
   },
   {
-    "id": "773",
+    "id": "772",
     "romanized": "ghirdm",
     "tifinagh": "ⵖⵉⵔⴷⵎ",
     "arabic": "عقرب"
   },
   {
-    "id": "774",
+    "id": "773",
     "romanized": "tibrint",
     "tifinagh": "ⵜⵉⴱⵔⵉⵏⵜ",
     "arabic": "حايك (لباس)"
   },
   {
-    "id": "775",
+    "id": "774",
     "romanized": "tiflillst",
     "tifinagh": "ⵜⵉⴼⵍⵉⵍⵍⵙⵜ",
     "arabic": "سنونو"
   },
   {
-    "id": "776",
+    "id": "775",
     "romanized": "tikti",
     "tifinagh": "ⵜⵉⴽⵜⵉ",
     "arabic": "ضرب"
   },
   {
-    "id": "777",
+    "id": "776",
     "romanized": "infis",
     "tifinagh": "ⵉⵏⴼⵉⵙ",
     "arabic": "غبار"
   },
   {
-    "id": "778",
+    "id": "777",
     "romanized": "iski",
     "tifinagh": "ⵉⵙⴽⵉ",
     "arabic": "روث الحيوان جاف"
   },
   {
-    "id": "779",
+    "id": "778",
     "romanized": "tichrt",
     "tifinagh": "ⵜⵉⵛⵔⵜ",
     "arabic": "وشم"
   },
   {
-    "id": "780",
+    "id": "779",
     "romanized": "tikhsi",
     "tifinagh": "ⵜⵉⵅⵙⵉ",
     "arabic": "نعحة"
   },
   {
-    "id": "781",
+    "id": "780",
     "romanized": "ariṣ",
     "tifinagh": "ⴰⵔⵉⵚ",
     "arabic": "سرج"
   },
   {
-    "id": "782",
+    "id": "781",
     "romanized": "oudim",
     "tifinagh": "ⵓⴷⵉⵎ",
     "arabic": "وجه أو الشأن"
   },
   {
-    "id": "783",
+    "id": "782",
     "romanized": "aghmay",
     "tifinagh": "ⴰⵖⵎⴰⵢ",
     "arabic": "برعم"
   },
   {
-    "id": "784",
+    "id": "783",
     "romanized": "amalou",
     "tifinagh": "ⴰⵎⴰⵍⵓ",
     "arabic": "مياه ذوبان الثلج"
   },
   {
-    "id": "785",
+    "id": "784",
     "romanized": "amrad",
     "tifinagh": "ⴰⵎⵔⴰⴷ",
     "arabic": "جرادة"
   },
   {
-    "id": "786",
+    "id": "785",
     "romanized": "arbou",
     "tifinagh": "ⴰⵔⴱⵓ",
     "arabic": "حرارة الجو"
   },
   {
-    "id": "787",
+    "id": "786",
     "romanized": "kerkday",
     "tifinagh": "ⴽⴻⵔⴽⴷⴰⵢ",
     "arabic": "حيوان الايل"
   },
   {
-    "id": "788",
+    "id": "787",
     "romanized": "asfnas",
     "tifinagh": "ⴰⵙⴼⵏⴰⵙ",
     "arabic": "نوع من الحلي"
   },
   {
-    "id": "789",
+    "id": "788",
     "romanized": "asmnyoud",
     "tifinagh": "ⴰⵙⵎⵏⵢⵓⴷ",
     "arabic": "جمع"
   },
   {
-    "id": "790",
+    "id": "789",
     "romanized": "asounswi",
     "tifinagh": "ⴰⵙⵓⵏⵙⵡⵉ",
     "arabic": "تجسس"
   },
   {
-    "id": "791",
+    "id": "790",
     "romanized": "agmmaz",
     "tifinagh": "ⴰⴳⵎⵎⴰⵣ",
     "arabic": "حك"
   },
   {
-    "id": "792",
+    "id": "791",
     "romanized": "iminigh",
     "tifinagh": "ⵉⵎⵉⵏⵉⵖ",
     "arabic": "اقول لكي"
   },
   {
-    "id": "793",
+    "id": "792",
     "romanized": "arwal",
     "tifinagh": "ⴰⵔⵡⴰⵍ",
     "arabic": "حرب"
   },
   {
-    "id": "794",
+    "id": "793",
     "romanized": "agoug",
     "tifinagh": "ⴰⴳⵓⴳ",
     "arabic": "حاجز لتغيير جريان الماء"
   },
   {
-    "id": "795",
+    "id": "794",
     "romanized": "malou",
     "tifinagh": "ⵎⴰⵍⵓ",
     "arabic": "واجهة الجبل فيها ظل"
   },
   {
-    "id": "796",
+    "id": "795",
     "romanized": "abḍi",
     "tifinagh": "ⴰⴱⴹⵉ",
     "arabic": "تقسيم"
   },
   {
-    "id": "797",
+    "id": "796",
     "romanized": "alwat",
     "tifinagh": "ⴰⵍⵡⴰⵜ",
     "arabic": "قنينة زجاج صغيرة"
   },
   {
-    "id": "798",
+    "id": "797",
     "romanized": "tama",
     "tifinagh": "ⵜⴰⵎⴰ",
     "arabic": "طرف"
   },
   {
-    "id": "799",
+    "id": "798",
     "romanized": "ouzan",
     "tifinagh": "ⵓⵣⴰⵏ",
     "arabic": "سميد الشعير"
   },
   {
-    "id": "800",
+    "id": "799",
     "romanized": "abram",
     "tifinagh": "ⴰⴱⵔⴰⵎ",
     "arabic": "اعراض"
   },
   {
-    "id": "801",
+    "id": "800",
     "romanized": "timghi",
     "tifinagh": "ⵜⵉⵎⵖⵉ",
     "arabic": "كبر"
   },
   {
-    "id": "802",
+    "id": "801",
     "romanized": "aghri",
     "tifinagh": "ⴰⵖⵔⵉ",
     "arabic": "نيئ"
   },
   {
-    "id": "803",
+    "id": "802",
     "romanized": "ajoumi",
     "tifinagh": "ⴰⵊⵓⵎⵉ",
     "arabic": "بور"
   },
   {
-    "id": "804",
+    "id": "803",
     "romanized": "agoumrd",
     "tifinagh": "ⴰⴳⵓⵎⵔⴷ",
     "arabic": "ضريبة"
   },
   {
-    "id": "805",
+    "id": "804",
     "romanized": "imoulay",
     "tifinagh": "ⵉⵎⵓⵍⴰⵢ",
     "arabic": "خطوبة"
   },
   {
-    "id": "806",
+    "id": "805",
     "romanized": "azli",
     "tifinagh": "ⴰⵣⵍⵉ",
     "arabic": "كلام غير مغهوم"
   },
   {
-    "id": "807",
+    "id": "806",
     "romanized": "lagoum",
     "tifinagh": "ⵍⴰⴳⵓⵎ",
     "arabic": "تبوريدة"
   },
   {
-    "id": "808",
+    "id": "807",
     "romanized": "afousir",
     "tifinagh": "ⴰⴼⵓⵙⵉⵔ",
     "arabic": "قدم (قياس)"
   },
   {
-    "id": "809",
+    "id": "808",
     "romanized": "tawllit",
     "tifinagh": "ⵜⴰⵡⵍⵍⵉⵜ",
     "arabic": "عنكبوت"
   },
   {
-    "id": "810",
+    "id": "809",
     "romanized": "anbḍor",
     "tifinagh": "ⴰⵏⴱⴹⵓⵔ",
     "arabic": "عتبة"
   },
   {
-    "id": "811",
+    "id": "810",
     "romanized": "i9ich",
     "tifinagh": "ⵉⵇⵉⵛ",
     "arabic": "بوق"
   },
   {
-    "id": "812",
+    "id": "811",
     "romanized": "a9sloul",
     "tifinagh": "ⴰⵇⵙⵍⵓⵍ",
     "arabic": "قالب"
   },
   {
-    "id": "813",
+    "id": "812",
     "romanized": "taswwart/tiswarin",
     "tifinagh": "ⵜⴰⵙⵡⵡⴰⵔⵜ/ⵜⵉⵙⵡⴰⵔⵉⵏ",
     "arabic": "غطاء النوم"
   },
   {
-    "id": "814",
+    "id": "813",
     "romanized": "tajra",
     "tifinagh": "ⵜⴰⵊⵔⴰ",
     "arabic": "صحن ممتلئ"
   },
   {
-    "id": "815",
+    "id": "814",
     "romanized": "zatgui",
     "tifinagh": "ⵣⴰⵜⴳⵉ",
     "arabic": "غابة"
   },
   {
-    "id": "816",
+    "id": "815",
     "romanized": "tasmtsnt",
     "tifinagh": "ⵜⴰⵙⵎⵜⵙⵏⵜ",
     "arabic": "موت"
   },
   {
-    "id": "817",
+    "id": "816",
     "romanized": "asṭl",
     "tifinagh": "ⴰⵙⵟⵍ",
     "arabic": "حلاق"
   },
   {
-    "id": "818",
+    "id": "817",
     "romanized": "amsi",
     "tifinagh": "ⴰⵎⵙⵉ",
     "arabic": "محو"
   },
   {
-    "id": "819",
+    "id": "818",
     "romanized": "alaghri",
     "tifinagh": "ⴰⵍⴰⵖⵔⵉ",
     "arabic": "اعتقاد"
   },
   {
-    "id": "820",
+    "id": "819",
     "romanized": "alou",
     "tifinagh": "ⴰⵍⵓ",
     "arabic": "فيل"
   },
   {
-    "id": "821",
+    "id": "820",
     "romanized": "adfa",
     "tifinagh": "ⴰⴷⴼⴰ",
     "arabic": "تفاح"
   },
   {
-    "id": "822",
+    "id": "821",
     "romanized": "tilchkhmt",
     "tifinagh": "ⵜⵉⵍⵛⵅⵎⵜ",
     "arabic": "لون رمادي"
   },
   {
-    "id": "823",
+    "id": "822",
     "romanized": "madoun",
     "tifinagh": "ⵎⴰⴷⵓⵏ",
     "arabic": "كسكاس"
   },
   {
-    "id": "824",
+    "id": "823",
     "romanized": "tinwachin",
     "tifinagh": "ⵜⵉⵏⵡⴰⵛⵉⵏ",
     "arabic": "ازهار"
   },
   {
-    "id": "825",
+    "id": "824",
     "romanized": "ifri",
     "tifinagh": "ⵉⴼⵔⵉ",
     "arabic": "كهف"
   },
   {
-    "id": "826",
+    "id": "825",
     "romanized": "afoundr",
     "tifinagh": "ⴰⴼⵓⵏⴷⵔ",
     "arabic": "تكبر"
   },
   {
-    "id": "827",
+    "id": "826",
     "romanized": "arghn",
     "tifinagh": "ⴰⵔⵖⵏ",
     "arabic": "اشعال"
   },
   {
-    "id": "828",
+    "id": "827",
     "romanized": "aray",
     "tifinagh": "ⴰⵔⴰⵢ",
     "arabic": "وقاية"
   },
   {
-    "id": "829",
+    "id": "828",
     "romanized": "ajlouw/ijlwiwn",
     "tifinagh": "ⴰⵊⵍⵓⵡ/ⵉⵊⵍⵡⵉⵡⵏ",
     "arabic": "كف"
   },
   {
-    "id": "830",
+    "id": "829",
     "romanized": "tazoult",
     "tifinagh": "ⵜⴰⵣⵓⵍⵜ",
     "arabic": "كحل التزيين"
   },
   {
-    "id": "831",
+    "id": "830",
     "romanized": "tratcha",
     "tifinagh": "ⵜⵔⴰⵜⵛⴰ",
     "arabic": "شبكة"
   },
   {
-    "id": "832",
+    "id": "831",
     "romanized": "wfigh",
     "tifinagh": "ⵡⴼⵉⵖ",
     "arabic": "وجدت"
   },
   {
-    "id": "833",
+    "id": "832",
     "romanized": "sersgh",
     "tifinagh": "ⵙⵔⵙⵖ",
     "arabic": "ُوضعت"
   },
   {
-    "id": "834",
+    "id": "833",
     "romanized": "a7ounjr",
     "tifinagh": "ⴰⵃⵓⵏⵊⵕ",
     "arabic": "برد القارس"
   },
   {
-    "id": "835",
+    "id": "834",
     "romanized": "77ounjrgh",
     "tifinagh": "ⵃⵃⵓⵏⵊⵕⵖ",
     "arabic": "بردت جدا"
   },
   {
-    "id": "836",
+    "id": "835",
     "romanized": "afray",
     "tifinagh": "ⴰⴼⵔⴰⵢ",
     "arabic": "سياج"
   },
   {
-    "id": "837",
+    "id": "836",
     "romanized": "takmoust",
     "tifinagh": "ⵜⴰⴽⵎⵓⵙⵜ",
     "arabic": "حزمة"
   },
   {
-    "id": "838",
+    "id": "837",
     "romanized": "yoursl",
     "tifinagh": "ⵢⵓⵔⵙⵍ/ⵉⵢⵓⵔⵙⵍⵏ",
     "arabic": "فِطر"
   },
   {
-    "id": "839",
+    "id": "838",
     "romanized": "taslift",
     "tifinagh": "ⵜⴰⵙⵍⵉⴼⵜ",
     "arabic": "أخت الزوجة"
   },
   {
-    "id": "840",
+    "id": "839",
     "romanized": "taydout",
     "tifinagh": "ⵜⴰⵢⴷⵓⵜ",
     "arabic": "قفة"
   },
   {
-    "id": "841",
+    "id": "840",
     "romanized": "tażrout",
     "tifinagh": "ⵜⴰⵥⵕⵓⵜ",
     "arabic": "حجرة"
   },
   {
-    "id": "842",
+    "id": "841",
     "romanized": "ssirdgh",
     "tifinagh": "ⵙⵙⵉⵔⴷⵖ",
     "arabic": "غسلتُ"
   },
   {
-    "id": "843",
+    "id": "842",
     "romanized": "ghrk",
     "tifinagh": "ⵖⵔⴽ!",
     "arabic": "انتبهْ"
   },
   {
-    "id": "844",
+    "id": "843",
     "romanized": "rrigh",
     "tifinagh": "ⵔⵔⵉⵖ",
     "arabic": "أعدتُ"
   },
   {
-    "id": "845",
+    "id": "844",
     "romanized": "trarit",
     "tifinagh": "ⵜⵔⴰⵔⵉⵜ",
     "arabic": "إعادة"
   },
   {
-    "id": "846",
+    "id": "845",
     "romanized": "nak3agh",
     "tifinagh": "ⵏⴰⴽⵄⴰⵖ",
     "arabic": "رضعتُ"
   },
   {
-    "id": "847",
+    "id": "846",
     "romanized": "ssank3agh",
     "tifinagh": "ⵙⵙⴰⵏⴽⵄⴰⵖ",
     "arabic": "أرضعتُ"
   },
   {
-    "id": "848",
+    "id": "847",
     "romanized": "barbragh",
     "tifinagh": "ⴱⴰⵔⴱⵔⴰⵖ",
     "arabic": "تغطيت جيدا"
   },
   {
-    "id": "849",
+    "id": "848",
     "romanized": "inifif",
     "tifinagh": "ⵉⵏⵉⴼⵉⴼ",
     "arabic": "محقن"
   },
   {
-    "id": "850",
+    "id": "849",
     "romanized": "l3afit",
     "tifinagh": "ⵍⵄⴰⴼⵉⵜ",
     "arabic": "نار"
   },
   {
-    "id": "851",
+    "id": "850",
     "romanized": "imnyarn",
     "tifinagh": "ⵉⵎⵏⵢⴰⵕⵏ",
     "arabic": "خصيتين"
   },
   {
-    "id": "852",
+    "id": "851",
     "romanized": "trjijigh",
     "tifinagh": "ⵜⵜⵔⵊⵉⵊⵉⵖ",
     "arabic": "رجفتُ"
   },
   {
-    "id": "853",
+    "id": "852",
     "romanized": "khay9agh",
     "tifinagh": "ⵅⴰⵢⵢⵇⵖ",
     "arabic": "قلِقتُ"
   },
   {
-    "id": "854",
+    "id": "853",
     "romanized": "za3fagh",
     "tifinagh": "ⵣⴰⵄⴼⴰⵖ",
     "arabic": "تعصبتُ"
   },
   {
-    "id": "855",
+    "id": "854",
     "romanized": "sroutgh",
     "tifinagh": "ⵙⵕⵓⵜⵖ",
     "arabic": "حصدت"
   },
   {
-    "id": "856",
+    "id": "855",
     "romanized": "yafragh",
     "tifinagh": "ⵢⴰⴼⵕⴰⵖ",
     "arabic": "معوج"
   },
   {
-    "id": "857",
+    "id": "856",
     "romanized": "tasraft/tisrfin",
     "tifinagh": "ⵜⴰⵙⵔⴰⴼⵜ/ⵜⵉⵙⵔⴼⵉⵏ",
     "arabic": "مخزن/مخازن"
   },
   {
-    "id": "858",
+    "id": "857",
     "romanized": "amouzzr",
     "tifinagh": "ⴰⵎⵓⵣⵣⵔ",
     "arabic": "سعر"
   },
   {
-    "id": "859",
+    "id": "858",
     "romanized": "tgherghert",
     "tifinagh": "ⵜⵖⵕⵖⵕⵜ",
     "arabic": "فقونة"
   },
   {
-    "id": "860",
+    "id": "859",
     "romanized": "taf99ount",
     "tifinagh": "ⵜⴰⴼⵇⵇⵓⵏⵜ",
     "arabic": "فقونة"
   },
   {
-    "id": "861",
+    "id": "860",
     "romanized": "tziwa",
     "tifinagh": "ⵜⵥⵉⵡⴰ",
     "arabic": "قصعة"
   },
   {
-    "id": "862",
+    "id": "861",
     "romanized": "aryti",
     "tifinagh": "ⴰⵔⵢⵜⵉ",
     "arabic": "عجين"
   },
   {
-    "id": "863",
+    "id": "862",
     "romanized": "Tagerst",
     "tifinagh": "ⵜⴰⴳⵔⵙⵜ",
     "arabic": "شتاء"
   },
   {
-    "id": "864",
+    "id": "863",
     "romanized": "Tafsut",
     "tifinagh": "ⵜⴰⴼⵙⵓⵜ",
     "arabic": "ربيع"
   },
   {
-    "id": "865",
+    "id": "864",
     "romanized": "Amawan",
     "tifinagh": "ⴰⵎⴰⵡⴰⵏ",
     "arabic": "خريف"
   },
   {
-    "id": "866",
+    "id": "865",
     "romanized": "AnZar",
     "tifinagh": "ⴰⵏⵥⴰⵕ",
     "arabic": "مطر"
   },
   {
-    "id": "867",
+    "id": "866",
     "romanized": "Ilel",
     "tifinagh": "ⵉⵍⴻⵍ",
     "arabic": "بحر"
   },
   {
-    "id": "868",
+    "id": "867",
     "romanized": "Aftas",
     "tifinagh": "ⴰⴼⵜⴰⵙ",
     "arabic": "ساحل"
   },
   {
-    "id": "869",
+    "id": "868",
     "romanized": "Tabruri",
     "tifinagh": "ⵜⴰⴱⵔⵓⵔⵉ",
     "arabic": "برَد"
   },
   {
-    "id": "870",
+    "id": "869",
     "romanized": "Ajris",
     "tifinagh": "ⴰⵊⵔⵉⵙ",
     "arabic": "صقيع"
   },
   {
-    "id": "871",
+    "id": "870",
     "romanized": "Tayyut",
     "tifinagh": "ⵜⴰⵢⵢⵓⵜ",
     "arabic": "سحاب كثيف"
   },
   {
-    "id": "872",
+    "id": "871",
     "romanized": "Tayyught",
     "tifinagh": "ⵜⴰⵢⵢⵓⵖⵜ",
     "arabic": "موجة"
   },
   {
-    "id": "873",
+    "id": "872",
     "romanized": "TajruDeyt",
     "tifinagh": "ⵜⴰⵊⵔⵓⴷⴻⵢⵜ",
     "arabic": "عاصفة"
   },
   {
-    "id": "874",
+    "id": "873",
     "romanized": "Assemmiḍ",
     "tifinagh": "ⴰⵚⵎⵎⵉⴹ",
     "arabic": "برد"
   },
   {
-    "id": "875",
+    "id": "874",
     "romanized": "Afssay",
     "tifinagh": "ⴰⴼⵙⴰⵢ",
     "arabic": "عين"
   },
   {
-    "id": "876",
+    "id": "875",
     "romanized": "Tanzruft",
     "tifinagh": "ⵜⴰⵏⵣⵔⵓⴼⵜ",
     "arabic": "صحراء"
   },
   {
-    "id": "877",
+    "id": "876",
     "romanized": "Asseddi n Idurar",
     "tifinagh": "ⴰⵙⴻⴷⴷⵉ ⵏ ⵉⴷⵓⵔⴰⵔ",
     "arabic": "سلسلة جبلية"
   },
   {
-    "id": "878",
+    "id": "877",
     "romanized": "Tireft",
     "tifinagh": "ⵜⵉⵔⴼⵜ",
     "arabic": "سلسلة هضاب"
   },
   {
-    "id": "879",
+    "id": "878",
     "romanized": "Tiwrar",
     "tifinagh": "ⵜⵉⵡⵔⴰⵔ",
     "arabic": "هضاب"
   },
   {
-    "id": "880",
+    "id": "879",
     "romanized": "TaZuDa",
     "tifinagh": "ⵜⴰⵣⵓⴷⴰ",
     "arabic": "منبسط"
   },
   {
-    "id": "881",
+    "id": "880",
     "romanized": "Uduz n TDarut",
     "tifinagh": "ⵓⴷⵓⵣ ⵏ ⵜⴷⴰⵔⵓⵜ",
     "arabic": "ضغط جوي"
   },
   {
-    "id": "882",
+    "id": "881",
     "romanized": "mmays",
     "tifinagh": "ⵎⵎⴰⵢⵙ",
     "arabic": "لا أعرف"
   },
   {
-    "id": "883",
+    "id": "882",
     "romanized": "ttalmgh",
     "tifinagh": "ⵜⵜⴰⵍⵎⵖ",
     "arabic": "أنسج"
   },
   {
-    "id": "884",
+    "id": "883",
     "romanized": "azouzr",
     "tifinagh": "ⴰⵣⵓⵣⵔ",
     "arabic": "تصفية القمح بالطريقة التقليدية"
   },
   {
-    "id": "885",
+    "id": "884",
     "romanized": "aghsmir",
     "tifinagh": "ⴰⵖⵙⵎⵉⵔ",
     "arabic": "ذقن"
   },
   {
-    "id": "886",
+    "id": "885",
     "romanized": "ikhf",
     "tifinagh": "ⵉⵅⴼ",
     "arabic": "رأس"
   },
   {
-    "id": "887",
+    "id": "886",
     "romanized": "miżiḍ",
     "tifinagh": "ⵎⵉⵥⵉⴹ",
     "arabic": "حلو/لذيذ"
   },
   {
-    "id": "888",
+    "id": "887",
     "romanized": "amessas",
     "tifinagh": "ⴰⵎⵙⵙⴰⵙ",
     "arabic": "بلا طعم"
   },
   {
-    "id": "889",
+    "id": "888",
     "romanized": "Azbar",
     "tifinagh": "ⴰⵣⴱⴰⵔ",
     "arabic": "وجع شديد"
   },
   {
-    "id": "890",
+    "id": "889",
     "romanized": "Anedder",
     "tifinagh": "ⴰⵏⴻⴷⴷⴻⵔ",
     "arabic": "وجع مستمر"
   },
   {
-    "id": "891",
+    "id": "890",
     "romanized": "Aṣṣater",
     "tifinagh": "ⴰⵚⵚⴰⵜⵔ",
     "arabic": "وجع موضعي مستمر"
   },
   {
-    "id": "892",
+    "id": "891",
     "romanized": "Anżwi",
     "tifinagh": "ⴰⵏⵥⵡⵉ",
     "arabic": "مغص في البطن"
   },
   {
-    "id": "893",
+    "id": "892",
     "romanized": "Izza",
     "tifinagh": "ⵉⵣⵣⴰ",
     "arabic": "قرحة المعدة"
   },
   {
-    "id": "894",
+    "id": "893",
     "romanized": "ssaerwṭagh",
     "tifinagh": "ⵙⵙⴰⵔⵡⵟⴰⵖ",
     "arabic": "أفصل الخش عن الزرع برميه في السماء باستعمال المدرة"
   },
   {
-    "id": "895",
+    "id": "894",
     "romanized": "tazart",
     "tifinagh": "ⵜⴰⵣⴰⵔⵜ",
     "arabic": "مدرة"
   },
   {
-    "id": "896",
+    "id": "895",
     "romanized": "ta399ayt",
     "tifinagh": "ⵜⴰⵄⵇⵇⴰⵢⵜ",
     "arabic": "حبة"
   },
   {
-    "id": "897",
+    "id": "896",
     "romanized": "taghyayt",
     "tifinagh": "ⵜⴰⵖⵢⴰⵢⵜ",
     "arabic": "نواة"
   },
   {
-    "id": "898",
+    "id": "897",
     "romanized": "amkraz",
     "tifinagh": "ⴰⵎⴽⵔⴰⵣ",
     "arabic": "فلاح"
   },
   {
-    "id": "899",
+    "id": "898",
     "romanized": "atig",
     "tifinagh": "ⴰⵜⵉⴳ",
     "arabic": "ثمن"
   },
   {
-    "id": "900",
+    "id": "899",
     "romanized": "khalat",
     "tifinagh": "ⵅⴰⵍⴰⵜ",
     "arabic": "نساء"
   },
   {
-    "id": "901",
+    "id": "900",
     "romanized": "hakhach",
     "tifinagh": "ⵀⴰⵅⴰⵛ",
     "arabic": "خُذ"
   },
   {
-    "id": "902",
+    "id": "901",
     "romanized": "azalim",
     "tifinagh": "ⴰⵣⴰⵍⵉⵎ",
     "arabic": "بصل"
   },
   {
-    "id": "903",
+    "id": "902",
     "romanized": "abrṭiṭ",
     "tifinagh": "ⴰⴱⵔⵟⵉⵟ",
     "arabic": "وحل متشبع بالماء"
   },
   {
-    "id": "904",
+    "id": "903",
     "romanized": "kanoun",
     "tifinagh": "ⴽⴰⵏⵓⵏ",
     "arabic": "مكان إشعال النار ( تقال أيضا للمنزل الذي تجتمع فيه عدة أسر متقاربة)"
   },
   {
-    "id": "905",
+    "id": "904",
     "romanized": "taryazt",
     "tifinagh": "ⵜⴰⵔⵢⴰⵣⵜ",
     "arabic": "رجولة"
   },
   {
-    "id": "906",
+    "id": "905",
     "romanized": "mmounswgh",
     "tifinagh": "ⵎⵎⵓⵏⵙⵡⵖ",
     "arabic": "تعشيتُ"
   },
   {
-    "id": "907",
+    "id": "906",
     "romanized": "tchgh",
     "tifinagh": "ⵜⵛⵖ",
     "arabic": "أكلتُ"
   },
   {
-    "id": "908",
+    "id": "907",
     "romanized": "anli",
     "tifinagh": "ⴰⵏⵍⵉ",
     "arabic": "عقل"
   },
   {
-    "id": "909",
+    "id": "908",
     "romanized": "ddoulgh",
     "tifinagh": "ⴷⴷⵓⵍⵖ",
     "arabic": "رجعتُ"
   },
   {
-    "id": "910",
+    "id": "909",
     "romanized": "3ayrgh",
     "tifinagh": "ⵄⴰⵢⵔⵖ",
     "arabic": "شتمتُ"
   },
   {
-    "id": "911",
+    "id": "910",
     "romanized": "addriz",
     "tifinagh": "ⴰⴷⴷⵔⵉⵣ",
     "arabic": "صداع"
   },
   {
-    "id": "912",
+    "id": "911",
     "romanized": "na99agh",
     "tifinagh": "ⵏⴰⵇⵇⴰⵖ",
     "arabic": "قتلتُ"
   },
   {
-    "id": "913",
+    "id": "912",
     "romanized": "ttasgh",
     "tifinagh": "ⵜⵜⴰⵙⵖ",
     "arabic": "فعل للدلالة على القرابة"
   },
   {
-    "id": "914",
+    "id": "913",
     "romanized": "takna",
     "tifinagh": "ⵜⴰⴽⵏⴰ",
     "arabic": "ضرة"
   },
   {
-    "id": "915",
+    "id": "914",
     "romanized": "tiskkine",
     "tifinagh": "ⵜⵉⵙⴽⴽⵉⵏ",
     "arabic": "فضلات البقر"
   },
   {
-    "id": "916",
+    "id": "915",
     "romanized": "7affagh",
     "tifinagh": "ⵃⴰⴼⴼⴰⵖ",
     "arabic": "حلّقتُ"
   },
   {
-    "id": "917",
+    "id": "916",
     "romanized": "ta3jjajt",
     "tifinagh": "ⵜⴰⵄⵊⵊⴰⵊⵜ",
     "arabic": "غبار"
   },
   {
-    "id": "918",
+    "id": "917",
     "romanized": "tta9t",
     "tifinagh": "ⵜⵜⴰⵇⵜ",
     "arabic": "نافذة"
   },
   {
-    "id": "919",
+    "id": "918",
     "romanized": "rakhsas",
     "tifinagh": "ⵕⴰⵅⵚⴰⵚ",
     "arabic": "فطير من الزرع"
   },
   {
-    "id": "920",
+    "id": "919",
     "romanized": "ntabgh",
     "tifinagh": "ⵏⵜⴰⴱⵖ",
     "arabic": "بدأت"
   },
   {
-    "id": "921",
+    "id": "920",
     "romanized": "anzi",
     "tifinagh": "ⴰⵏⵣⵉ",
     "arabic": "مثل"
   },
   {
-    "id": "922",
+    "id": "921",
     "romanized": "tzra",
     "tifinagh": "ⵜⵣⵔⴰ",
     "arabic": "خيط"
   },
   {
-    "id": "923",
+    "id": "922",
     "romanized": "tirjin",
     "tifinagh": "ⵜⵉⵔⵊⵉⵏ",
     "arabic": "جمر"
   },
   {
-    "id": "924",
+    "id": "923",
     "romanized": "mourdgh",
     "tifinagh": "ⵎⵓⵔⴷⵖ",
     "arabic": "أحبو"
   },
   {
-    "id": "925",
+    "id": "924",
     "romanized": "yighdn",
     "tifinagh": "ⵢⵉⵖⴷⵏ",
     "arabic": "رماد"
   },
   {
-    "id": "926",
+    "id": "925",
     "romanized": "adkhs",
     "tifinagh": "ⴰⴷⵅⵙ",
     "arabic": "لبا ( حليب البقرة بعد ولادتها لعجل )"
   },
   {
-    "id": "927",
+    "id": "926",
     "romanized": "a9rzaz",
     "tifinagh": "ⴰⵇⵔⵣⴰⵣ",
     "arabic": "بخيل"
   },
   {
-    "id": "928",
+    "id": "927",
     "romanized": "ymmour",
     "tifinagh": "ⵢⵎⵎⵓⵔ",
     "arabic": "طاب"
   },
   {
-    "id": "929",
+    "id": "928",
     "romanized": "ażarif",
     "tifinagh": "ⴰⵥⴰⵔⵉⴼ",
     "arabic": "شبة"
   },
   {
-    "id": "930",
+    "id": "929",
     "romanized": "abr9o3",
     "tifinagh": "ⴰⴱⵔⵇⵓⵄ",
     "arabic": "انتفاخ في الجلد بعد إصابة"
   },
   {
-    "id": "931",
+    "id": "930",
     "romanized": "j99imt",
     "tifinagh": "ⵊⵇⵇⵉⵎⵜ",
     "arabic": "شربة صغيرة"
   },
   {
-    "id": "932",
+    "id": "931",
     "romanized": "asymi",
     "tifinagh": "ⴰⵙⵢⵎⵉ",
     "arabic": "تربية"
   },
   {
-    "id": "933",
+    "id": "932",
     "romanized": "tamssawarawt",
     "tifinagh": "ⵜⴰⵎⵙⴰⵔⴰⵡⵜ",
     "arabic": "قابلة"
   },
   {
-    "id": "934",
+    "id": "933",
     "romanized": "imndi",
     "tifinagh": "ⵉⵎⵏⴷⵉ",
     "arabic": "شعير"
   },
   {
-    "id": "935",
+    "id": "934",
     "romanized": "asfri",
     "tifinagh": "ⴰⵙⴼⵔⵉ",
     "arabic": "رمان"
   },
   {
-    "id": "936",
+    "id": "935",
     "romanized": "żabragh",
     "tifinagh": "ⵥⴰⴱⵕⴰⵖ",
     "arabic": "أصبت بشدة"
   },
   {
-    "id": "937",
+    "id": "936",
     "romanized": "agmmṭ",
     "tifinagh": "ⴰⴳⵎⵎⵟ",
     "arabic": "تلوية الرضيع في قماش"
   },
   {
-    "id": "938",
+    "id": "937",
     "romanized": "talwest",
     "tifinagh": "ⵜⴰⵍⵡⵙⵜ",
     "arabic": "أخت الزوج"
   },
   {
-    "id": "939",
+    "id": "938",
     "romanized": "alews",
     "tifinagh": "ⴰⵍⵡⵙ",
     "arabic": "أخ الزوج"
   },
   {
-    "id": "940",
+    "id": "939",
     "romanized": "tawsa",
     "tifinagh": "ⵜⴰⵡⵙⴰ",
     "arabic": "هدية"
   },
   {
-    "id": "941",
+    "id": "940",
     "romanized": "timattin",
     "tifinagh": "ⵜⵉⵎⴰⵜⵜⵉⵏ",
     "arabic": "مشيمة"
   },
   {
-    "id": "942",
+    "id": "941",
     "romanized": "as7onḍr",
     "tifinagh": "ⴰⵙⵃⵓⵏⴹⵕ",
     "arabic": "نهيق الحمار"
   },
   {
-    "id": "943",
+    "id": "942",
     "romanized": "sligh",
     "tifinagh": "ⵙⵍⵉⵖ",
     "arabic": "سمعتُ"
   },
   {
-    "id": "944",
+    "id": "943",
     "romanized": "akhlij",
     "tifinagh": "ⴰⵅⵍⵉⵊ",
     "arabic": "نبات كثيف"
   },
   {
-    "id": "945",
+    "id": "944",
     "romanized": "tazkkart",
     "tifinagh": "ⵜⴰⵣⴽⴽⵯⴰⵔⵜ",
     "arabic": "شوك"
   },
   {
-    "id": "946",
+    "id": "945",
     "romanized": "asttif",
     "tifinagh": "ⴰⵙⵜⵜⵉⴼ",
     "arabic": "نبات شوكي"
   },
   {
-    "id": "947",
+    "id": "946",
     "romanized": "nnoudoumgh",
     "tifinagh": "ⵏⵏⵓⴷⵓⵎⵖ",
     "arabic": "أحس بالنعاس"
   },
   {
-    "id": "948",
+    "id": "947",
     "romanized": "z3fgh",
     "tifinagh": "ⵣⵄⴼⵖ",
     "arabic": "عضضتُ"
   },
   {
-    "id": "949",
+    "id": "948",
     "romanized": "sfsough",
     "tifinagh": "ⵙⴼⵙⵓⵖ",
     "arabic": "أذبتُ"
   },
   {
-    "id": "950",
+    "id": "949",
     "romanized": "amorḍoṣ",
     "tifinagh": "ⴰⵎⵓⵕⴹⵓⵚ",
     "arabic": "جيفة"
   },
   {
-    "id": "951",
+    "id": "950",
     "romanized": "maḍragh",
     "tifinagh": "ⵎⴰⴹⵕⴰⵖ",
     "arabic": "رميتُ"
   },
   {
-    "id": "952",
+    "id": "951",
     "romanized": "amdyaz",
     "tifinagh": "ⴰⵎⴷⵢⴰⵣ",
     "arabic": "شاعر"
   },
   {
-    "id": "953",
+    "id": "952",
     "romanized": "izimr",
     "tifinagh": "ⵉⵣⵉⵔⵎ",
     "arabic": "صغير النعجة"
   },
   {
-    "id": "954",
+    "id": "953",
     "romanized": "taskkourt",
     "tifinagh": "ⵜⴰⵙⴽⴽⵓⵔⵜ",
     "arabic": "حجلة"
   },
   {
-    "id": "955",
+    "id": "954",
     "romanized": "ḍḍanżagh",
     "tifinagh": "ⴹⴰⵏⵏⵥⴰⵖ",
     "arabic": "أمزحُ"
   },
   {
-    "id": "956",
+    "id": "955",
     "romanized": "aslm",
     "tifinagh": "ⴰⵙⵍⵎ",
     "arabic": "سمكة"
   },
   {
-    "id": "957",
+    "id": "956",
     "romanized": "islman",
     "tifinagh": "ⵉⵙⵍⵎⴰⵏ",
     "arabic": "سمك"
   },
   {
-    "id": "958",
+    "id": "957",
     "romanized": "akhdmi",
     "tifinagh": "ⴰⵅⴷⵎⵉ",
     "arabic": "سكين"
   },
   {
-    "id": "959",
+    "id": "958",
     "romanized": "skhsigh",
     "tifinagh": "ⵙⵅⵙⵉⵖ",
     "arabic": "أطفأتُ"
   },
   {
-    "id": "960",
+    "id": "959",
     "romanized": "tibbi",
     "tifinagh": "ⵜⵉⴱⴱⵉ",
     "arabic": "بقولة/خبيزة"
   },
   {
-    "id": "961",
+    "id": "960",
     "romanized": "zrigh",
     "tifinagh": "ⵣⵔⵉⵖ",
     "arabic": "رأيتُ"
   },
   {
-    "id": "962",
+    "id": "961",
     "romanized": "rnigh",
     "tifinagh": "ⵔⵏⵉⵖ",
     "arabic": "زِدتُ"
   },
   {
-    "id": "963",
+    "id": "962",
     "romanized": "adjoun",
     "tifinagh": "ⴰⴷⵊⵓⵏ",
     "arabic": "بندير"
   },
   {
-    "id": "964",
+    "id": "963",
     "romanized": "7digh",
     "tifinagh": "ⵃⴹⵉⵖ",
     "arabic": "راقبتُ"
   },
   {
-    "id": "965",
+    "id": "964",
     "romanized": "9ozz3gh",
     "tifinagh": "ⵇⵓⵣⵣⵄⵖ",
     "arabic": "تغوطتُ"
   },
   {
-    "id": "966",
+    "id": "965",
     "romanized": "chewwef",
     "tifinagh": "ⵛⵡⵡⴼ",
     "arabic": "شعر"
   },
   {
-    "id": "967",
+    "id": "966",
     "romanized": "3dough",
     "tifinagh": "ⵄⴷⵓⵖ",
     "arabic": "مررتُ"
   },
   {
-    "id": "968",
+    "id": "967",
     "romanized": "amwan",
     "tifinagh": "ⴰⵎⵡⴰⵏ",
     "arabic": "فصل الخريف"
   },
   {
-    "id": "969",
+    "id": "968",
     "romanized": "tajrst",
     "tifinagh": "ⵜⴰⵊⵔⵙⵜ",
     "arabic": "فصل الشتاء"
   },
   {
-    "id": "970",
+    "id": "969",
     "romanized": "anfnouf",
     "tifinagh": "ⴰⵏⴼⵏⵓⴼ",
     "arabic": "مطر خفيف"
   },
   {
-    "id": "971",
+    "id": "970",
     "romanized": "ajjaj",
     "tifinagh": "ⴰⵊⵊⴰⵊ",
     "arabic": "برق"
   },
   {
-    "id": "972",
+    "id": "971",
     "romanized": "tignout",
     "tifinagh": "ⵜⵉⴳⵏⵓⵜ",
     "arabic": "عاصفة"
   },
   {
-    "id": "973",
+    "id": "972",
     "romanized": "tasirt",
     "tifinagh": "ⵜⴰⵙⵉⵔⵜ",
     "arabic": "عاصفة بحربة"
   },
   {
-    "id": "974",
+    "id": "973",
     "romanized": "amjjagwaj",
     "tifinagh": "ⴰⵎⵊⵊⴰⴳⵡⴰⵊ",
     "arabic": "إعصار"
   },
   {
-    "id": "975",
+    "id": "974",
     "romanized": "ouzghgh",
     "tifinagh": "ⵓⵣⵖⵖ",
     "arabic": "يبستُ"
   },
   {
-    "id": "976",
+    "id": "975",
     "romanized": "ddrgh",
     "tifinagh": "ⴷⴷⵔⵖ",
     "arabic": "عِشتُ"
   },
   {
-    "id": "977",
+    "id": "976",
     "romanized": "taymegh",
     "tifinagh": "ⵜⴰⵢⵎⴻⵖ",
     "arabic": "أسقي"
   },
   {
-    "id": "978",
+    "id": "977",
     "romanized": "am9yas",
     "tifinagh": "ⴰⵇⵢⴰⵙ",
     "arabic": "سلسلة يدوية"
   },
   {
-    "id": "979",
+    "id": "978",
     "romanized": "tfayen",
     "tifinagh": "ⵜⴼⴰⵢⵏ",
     "arabic": "حِلِي"
   },
   {
-    "id": "980",
+    "id": "979",
     "romanized": "hkkigh",
     "tifinagh": "ⵀⴽⴽⵉⵖ",
     "arabic": "أنزلُ"
   },
   {
-    "id": "981",
+    "id": "980",
     "romanized": "a9boch",
     "tifinagh": "ⴰⵇⴱⵓⵛ",
     "arabic": "إناء ماء طيني"
   },
   {
-    "id": "982",
+    "id": "981",
     "romanized": "a3ror",
     "tifinagh": "ⴰⵄⵔⵓⵔ",
     "arabic": "كتف"
   },
   {
-    "id": "983",
+    "id": "982",
     "romanized": "agzzan",
     "tifinagh": "ⴰⴳⵣⵣⴰⵏ",
     "arabic": "مشعوذ"
   },
   {
-    "id": "984",
+    "id": "983",
     "romanized": "inchouchn",
     "tifinagh": "ⵉⵏⵛⵓⵛⵏ",
     "arabic": "شفاه"
   },
   {
-    "id": "985",
+    "id": "984",
     "romanized": "sifḍagh",
     "tifinagh": "ⵙⵉⴼⴹⴰⵖ",
     "arabic": "أرسلتُ"
   },
   {
-    "id": "986",
+    "id": "985",
     "romanized": "mmanghigh",
     "tifinagh": "ⵎⵎⴰⵏⵖⵉⵖ",
     "arabic": "تشاجرتُ"
   },
   {
-    "id": "987",
+    "id": "986",
     "romanized": "amnghi",
     "tifinagh": "ⴰⵎⵏⵖⵉ",
     "arabic": "شجار"
   },
   {
-    "id": "988",
+    "id": "987",
     "romanized": "ndhgh",
     "tifinagh": "ⵏⴷⵀⵖ",
     "arabic": "بدأتُ"
   },
   {
-    "id": "989",
+    "id": "988",
     "romanized": "frngh",
     "tifinagh": "ⴼⵔⵏⵖ",
     "arabic": "أفرزُ"
   },
   {
-    "id": "990",
+    "id": "989",
     "romanized": "saggmagh",
     "tifinagh": "ⵙⴰⴳⴳⵎⴰⵖ",
     "arabic": "أصلحتُ"
   },
   {
-    "id": "991",
+    "id": "990",
     "romanized": "kksgh",
     "tifinagh": "ⴽⴽⵙⵖ",
     "arabic": "قلعتُ"
   },
   {
-    "id": "992",
+    "id": "991",
     "romanized": "ra3igh",
     "tifinagh": "ⵕⴰⵄⵉⵖ",
     "arabic": "انتظرتُ"
   },
   {
-    "id": "993",
+    "id": "992",
     "romanized": "achcharn",
     "tifinagh": "ⴰⵛⵛⴰⵔⵏ",
     "arabic": "أظافر"
   },
   {
-    "id": "994",
+    "id": "993",
     "romanized": "targa",
     "tifinagh": "ⵜⴰⵔⴳⴰ",
     "arabic": "ساقية"
   },
   {
-    "id": "995",
+    "id": "994",
     "romanized": "ayyour",
     "tifinagh": "ⴰⵢⵢⵓⵔ",
     "arabic": "قمر"
   },
   {
-    "id": "996",
+    "id": "995",
     "romanized": "laghzagh",
     "tifinagh": "ⵍⴰⵖⵥⴰⵖ",
     "arabic": "التوى كاحلي"
   },
   {
-    "id": "997",
+    "id": "996",
     "romanized": "nsigh",
     "tifinagh": "ⵏⵙⵉⵖ",
     "arabic": "بِتُّ"
   },
   {
-    "id": "998",
+    "id": "997",
     "romanized": "amnyar",
     "tifinagh": "ⴰⵎⵏⵢⴰⵕ",
     "arabic": "خصية"
   },
   {
-    "id": "999",
+    "id": "998",
     "romanized": "ddwlgh",
     "tifinagh": "ⴷⴷⵡⵍⵖ",
     "arabic": "رجعت/أصبحت"
   },
   {
-    "id": "1000",
+    "id": "999",
     "romanized": "ḍḍrgh",
     "tifinagh": "ⴹⴹⵕⵖ",
     "arabic": "هبطت"
   },
   {
-    "id": "1001",
+    "id": "1000",
     "romanized": "khseghch",
     "tifinagh": "ⵅⵙⵖⵛ",
     "arabic": "احبك/ اريدك"
   },
   {
-    "id": "1002",
+    "id": "1001",
     "romanized": "az3ou9",
     "tifinagh": "ⴰⵣⵄⵓⵇ",
     "arabic": "جحش"
   },
   {
-    "id": "1003",
+    "id": "1002",
     "romanized": "sousm",
     "tifinagh": "ⵙⵓⵙⵎ",
     "arabic": "اسكت"
   },
   {
-    "id": "1004",
+    "id": "1003",
     "romanized": "kanoun",
     "tifinagh": "ⴽⴰⵏⵓⵏ",
     "arabic": "بيت مشكل من عدة أسر"
   },
   {
-    "id": "1005",
+    "id": "1004",
     "romanized": "ibzzegu",
     "tifinagh": "ⵉⴱⵥⵥⴻⴳ",
     "arabic": "مبتل"
   },
   {
-    "id": "1006",
+    "id": "1005",
     "romanized": "a9l9ol",
     "tifinagh": "ⴰⵇⵍⵇⵓⵍ",
     "arabic": "رأس"
   },
   {
-    "id": "1007",
+    "id": "1006",
     "romanized": "arssoḍ",
     "tifinagh": "ⴰⵕⵚⵚⵓⴹ",
     "arabic": "متسخ جدا"
   },
   {
-    "id": "1008",
+    "id": "1007",
     "romanized": "timmi/ tammiwin",
     "tifinagh": "ⵜⵉⵎⵎⵉ/ⵜⴰⵎⵎⵉⵡⵉⵏ",
     "arabic": "حاجب/حواجب"
   },
   {
-    "id": "1009",
+    "id": "1008",
     "romanized": "ablyoun",
     "tifinagh": "ⴰⴱⵍⵢⵓⵏ",
     "arabic": "رمش العين"
   },
   {
-    "id": "1010",
+    "id": "1009",
     "romanized": "daffargh",
     "tifinagh": "ⴹⴰⴼⴼⴰⵕⵖ",
     "arabic": "أتبعُ"
   },
   {
-    "id": "1011",
+    "id": "1010",
     "romanized": "azzlgh",
     "tifinagh": "ⴰⵣⵣⵍⴰⵖ",
     "arabic": "جريتُ"
   },
   {
-    "id": "1012",
+    "id": "1011",
     "romanized": "zadghagh",
     "tifinagh": "ⵣⴰⴷⵖⴰⵖ",
     "arabic": "سكنتُ"
   },
   {
-    "id": "1013",
+    "id": "1012",
     "romanized": "karrzagh",
     "tifinagh": "ⴽⴰⵔⵔⵣⴰⵖ",
     "arabic": "حرثت"
   },
   {
-    "id": "1014",
+    "id": "1013",
     "romanized": "ayenni",
     "tifinagh": "ⴰⵢⴻⵏⵏⵉ",
     "arabic": "ذلك أو كذلك"
   },
   {
-    "id": "1015",
+    "id": "1014",
     "romanized": "ifeffan",
     "tifinagh": "ⵉⴼⴻⴼⴼⴰⵏ",
     "arabic": "بزازل"
   },
   {
-    "id": "1016",
+    "id": "1015",
     "romanized": "ggin",
     "tifinagh": "ⴳⴳⵉⵏ",
     "arabic": "يكونون"
   },
   {
-    "id": "1017",
+    "id": "1016",
     "romanized": "timntal",
     "tifinagh": "ⵜⵉⵎⵏⵜⴰⵍ",
     "arabic": "أسباب"
   },
   {
-    "id": "1018",
+    "id": "1017",
     "romanized": "tazwart",
     "tifinagh": "ⵜⴰⵣⵡⴰⵔⵜ",
     "arabic": "مشادة كلامية"
   },
   {
-    "id": "1019",
+    "id": "1018",
     "romanized": "tikkra",
     "tifinagh": "ⵜⵉⴽⴽⵯⵔⴰ",
     "arabic": "سب الصريح"
   },
   {
-    "id": "1020",
+    "id": "1019",
     "romanized": "talkhsa",
     "tifinagh": "ⵜⴰⵍⵅⵙⴰ",
     "arabic": "بيصارة"
   },
   {
-    "id": "1021",
+    "id": "1020",
     "romanized": "s39rgh",
     "tifinagh": "ⵙⵄⵇⵔⵖ",
     "arabic": "أحتقر"
   },
   {
-    "id": "1022",
+    "id": "1021",
     "romanized": "tkhsi",
     "tifinagh": "ⵜⵅⵙⵉ",
     "arabic": "نعجة"
   },
   {
-    "id": "1023",
+    "id": "1022",
     "romanized": "wwilgh",
     "tifinagh": "ⵡⵡⵉⵍⵖ",
     "arabic": "علّقتُ"
   },
   {
-    "id": "1024",
+    "id": "1023",
     "romanized": "msrmasgh",
     "tifinagh": "ⵎⵙⵔⵎⴰⵙⵖ",
     "arabic": "أتعاركُ"
   },
   {
-    "id": "1025",
+    "id": "1024",
     "romanized": "ṭṭfgh",
     "tifinagh": "ⵟⵟⴼⵖ",
     "arabic": "قبضتُ"
   },
   {
-    "id": "1026",
+    "id": "1025",
     "romanized": "azbbouj",
     "tifinagh": "ⴰⵣⴱⴱⵓⵊ",
     "arabic": "زيتون بري"
   },
   {
-    "id": "1027",
+    "id": "1026",
     "romanized": "tazmmourt",
     "tifinagh": "ⵜⴰⵣⵎⵎⵓⵔⵜ",
     "arabic": "شجرة الزيتون"
   },
   {
-    "id": "1028",
+    "id": "1027",
     "romanized": "agdal",
     "tifinagh": "ⴰⴳⴷⴰⵍ",
     "arabic": "حقل رعي محدود و مقسم بين القبائل"
   },
   {
-    "id": "1029",
+    "id": "1028",
     "romanized": "tisidlt",
     "tifinagh": "ⵜⵉⵙⵉⴷⵍⵜ",
     "arabic": "قلعة مقدسة و محمية فوق الجبل"
   },
   {
-    "id": "1030",
+    "id": "1029",
     "romanized": "ajdir",
     "tifinagh": "ⴰⵊⴷⵉⵔ",
     "arabic": "حصن"
   },
   {
-    "id": "1031",
+    "id": "1030",
     "romanized": "tmourghi",
     "tifinagh": "ⵜⵎⵓⵔⵖⵉ",
     "arabic": "جراد"
   },
   {
-    "id": "1032",
+    "id": "1031",
     "romanized": "ouguigh",
     "tifinagh": "ⵓⴳⵉⵖ",
     "arabic": "رفضتُ"
   },
   {
-    "id": "1033",
+    "id": "1032",
     "romanized": "tmaguit",
     "tifinagh": "ⵜⵎⴰⴳⵉⵜ",
     "arabic": "هوية"
   },
   {
-    "id": "1034",
+    "id": "1033",
     "romanized": "zayyragh",
     "tifinagh": "ⵣⴰⵢⵢⵕⴰⵖ",
     "arabic": "شددتُ"
   },
   {
-    "id": "1035",
+    "id": "1034",
     "romanized": "ttawgh",
     "tifinagh": "ⵟⵟⴰⵡⵖ",
     "arabic": "أطير"
   },
   {
-    "id": "1036",
+    "id": "1035",
     "romanized": "dzigh",
     "tifinagh": "ⴹⵥⵉⵖ",
     "arabic": "قنعت او اعتزلت"
   },
   {
-    "id": "1037",
+    "id": "1036",
     "romanized": "alowwi9",
     "tifinagh": "ⴰⵍⵓⵡⵡⵉⵇ",
     "arabic": "صفعة"
   },
   {
-    "id": "1038",
+    "id": "1037",
     "romanized": "ttawigh",
     "tifinagh": "ⵜⵜⴰⵡⵉⵖ",
     "arabic": "أشبهُ"
   },
   {
-    "id": "1039",
+    "id": "1038",
     "romanized": "rwsgh",
     "tifinagh": "ⵔⵡⵙⵖ",
     "arabic": "أشبهُ"
   },
   {
-    "id": "1040",
+    "id": "1039",
     "romanized": "tirwas",
     "tifinagh": "ⵜⵉⵔⵡⴰⵙ",
     "arabic": "شبه"
   },
   {
-    "id": "1041",
+    "id": "1040",
     "romanized": "awri",
     "tifinagh": "ⴰⵡⵔⵉ",
     "arabic": "حيوان الاوري"
   },
   {
-    "id": "1042",
+    "id": "1041",
     "romanized": "ytchour",
     "tifinagh": "ⵢⵜⵛⵓⵕ",
     "arabic": "ممتلئ"
   },
   {
-    "id": "1043",
+    "id": "1042",
     "romanized": "wḍḍrgh",
     "tifinagh": "ⵡⴹⴹⵔⵖ",
     "arabic": "هملت"
   },
   {
-    "id": "1044",
+    "id": "1043",
     "romanized": "wtgh",
     "tifinagh": "ⵡⵜⵖ",
     "arabic": "ضربتُ"
   },
   {
-    "id": "1045",
+    "id": "1044",
     "romanized": "tl3gh",
     "tifinagh": "ⵜⵍⵄⵖ",
     "arabic": "رحلت بحرقة"
   },
   {
-    "id": "1046",
+    "id": "1045",
     "romanized": "inyan",
     "tifinagh": "ⵉⵏⵢⴰⵏ",
     "arabic": "حجارة التي يوضع عليها قدر الطهي"
   },
   {
-    "id": "1047",
+    "id": "1046",
     "romanized": "frwaymal",
     "tifinagh": "ⴼⵔⵡⴰⵢⵎⴰⵍ",
     "arabic": "عام بعد العام المقبل"
   },
   {
-    "id": "1048",
+    "id": "1047",
     "romanized": "frważżghaṭ",
     "tifinagh": "ⴼⵔⵡⴰⵥⵥⵖⴰⵟ",
     "arabic": "عام قبل العام الماضي"
   },
   {
-    "id": "1049",
+    "id": "1048",
     "romanized": "ażghaṭ",
     "tifinagh": "ⴰⵥⵖⴰⵟ",
     "arabic": "عام الماضي"
   },
   {
-    "id": "1050",
+    "id": "1049",
     "romanized": "anḍaw",
     "tifinagh": "ⴰⵏⴹⴰⵡ",
     "arabic": "قفز"
   },
   {
-    "id": "1051",
+    "id": "1050",
     "romanized": "tiddi",
     "tifinagh": "ⵜⵉⴷⴷⵉ",
     "arabic": "قامة"
   },
   {
-    "id": "1052",
+    "id": "1051",
     "romanized": "amnntrou",
     "tifinagh": "ⴰⵎⵏⵏⵜⵔⵓ",
     "arabic": "متسول"
   },
   {
-    "id": "1053",
+    "id": "1052",
     "romanized": "Twachoult/tiwachulin",
     "tifinagh": "ⵜⵡⴰⵛⵓⵍⵜ/ⵜⵉⵡⴰⵛⵓⵍⵉⵏ",
     "arabic": "عائلة/عائلات"
   },
   {
-    "id": "1054",
+    "id": "1053",
     "romanized": "Tayetti",
     "tifinagh": "ⵜⴰⵢⵜⵜⵉ",
     "arabic": "نظر"
   },
   {
-    "id": "1055",
+    "id": "1054",
     "romanized": "Sfsygh",
     "tifinagh": "ⵙⴼⵙⵢⵖ",
     "arabic": "أُذوّب"
   },
   {
-    "id": "1056",
+    "id": "1055",
     "romanized": "tagant",
     "tifinagh": "ⵜⴰⴳⴰⵏⵜ",
     "arabic": "غابة"
   },
   {
-    "id": "1057",
+    "id": "1056",
     "romanized": "tizgui",
     "tifinagh": "ⵜⵉⵣⴳⵉ",
     "arabic": "غابة"
   },
   {
-    "id": "1058",
+    "id": "1057",
     "romanized": "tasraft",
     "tifinagh": "ⵜⴰⵙⵔⴰⴼⵜ",
     "arabic": "مطمورة"
   },
   {
-    "id": "1059",
+    "id": "1058",
     "romanized": "amnous",
     "tifinagh": "ⴰⵎⵏⵓⵙ",
     "arabic": "هم"
   },
   {
-    "id": "1060",
+    "id": "1059",
     "romanized": "sousmgh",
     "tifinagh": "ⵙⵓⵙⵎⵖ",
     "arabic": "سكتتُ"
   },
   {
-    "id": "1061",
+    "id": "1060",
     "romanized": "ghzough",
     "tifinagh": "ⵖⵣⵓⵖ",
     "arabic": "استحق ذلك التعامل مني"
   },
   {
-    "id": "1062",
+    "id": "1061",
     "romanized": "żwigh",
     "tifinagh": "ⵥⵡⵉⵖ",
     "arabic": "قطعتُ"
   },
   {
-    "id": "1063",
+    "id": "1062",
     "romanized": "amzil",
     "tifinagh": "ⴰⵎⵣⵉⵍ",
     "arabic": "حدّاد"
   },
   {
-    "id": "1064",
+    "id": "1063",
     "romanized": "bouhllgh",
     "tifinagh": "ⴱⵓⵀⵍⵍⵖ",
     "arabic": "جُننتُ"
   },
   {
-    "id": "1065",
+    "id": "1064",
     "romanized": "sskngh",
     "tifinagh": "ⵙⵙⴽⵏⵖ",
     "arabic": "أبينُ"
   },
   {
-    "id": "1066",
+    "id": "1065",
     "romanized": "ttrgh",
     "tifinagh": "ⵜⵜⵔⵖ",
     "arabic": "طلبتُ"
   },
   {
-    "id": "1067",
+    "id": "1066",
     "romanized": "neflegh",
     "tifinagh": "ⵏⴼⵍⵖ",
     "arabic": "بدلتُ"
   },
   {
-    "id": "1068",
+    "id": "1067",
     "romanized": "uṭṭun",
     "tifinagh": "ⵓⵟⵟⵓⵏ",
     "arabic": "رقم"
   },
   {
-    "id": "1069",
+    "id": "1068",
     "romanized": "9ch3",
     "tifinagh": "ⵇⵛⵄ",
     "arabic": "أشعِل"
   },
   {
-    "id": "1070",
+    "id": "1069",
     "romanized": "asnsi",
     "tifinagh": "ⴰⵙⵏⵙⵉ",
     "arabic": "مبيت"
   },
   {
-    "id": "1071",
+    "id": "1070",
     "romanized": "irad",
     "tifinagh": "ⵉⵕⴰⴷ",
     "arabic": "ليث"
   },
   {
-    "id": "1072",
+    "id": "1071",
     "romanized": "djiwngh",
     "tifinagh": "ⴷⵊⵉⵡⵏⵖ",
     "arabic": "شبعتُ"
   },
   {
-    "id": "1073",
+    "id": "1072",
     "romanized": "awssar/tawssart",
     "tifinagh": "ⴰⵡⵙⵙⴰⵔ/ⵜⴰⵡⵙⵙⴰⵔⵜ",
     "arabic": "عجوز/عجوزة"
   },
   {
-    "id": "1074",
+    "id": "1073",
     "romanized": "fighar",
     "tifinagh": "ⴼⵉⵖⴰⵕ",
     "arabic": "أفعى"
   },
   {
-    "id": "1075",
+    "id": "1074",
     "romanized": "gaḍragh",
     "tifinagh": "ⴳⴰⴹⵕⴰⵖ",
     "arabic": "سمِنتُ"
   },
   {
-    "id": "1076",
+    "id": "1075",
     "romanized": "żżogh",
     "tifinagh": "ⵥⵥⵓⵖ",
     "arabic": "غرستُ"
   },
   {
-    "id": "1077",
+    "id": "1076",
     "romanized": "99imgh",
     "tifinagh": "ⵇⵇⵉⵎⵖ",
     "arabic": "جلستُ"
   },
   {
-    "id": "1078",
+    "id": "1077",
     "romanized": "aghimi",
     "tifinagh": "ⴰⵖⵉⵎⵉ",
     "arabic": "جلوس"
   },
   {
-    "id": "1079",
+    "id": "1078",
     "romanized": "asoughl",
     "tifinagh": "ⴰⵙⵓⵖⵍ",
     "arabic": "ترجمة"
   },
   {
-    "id": "1080",
+    "id": "1079",
     "romanized": "nghigh",
     "tifinagh": "ⵏⵖⵉⵖ",
     "arabic": "قتلتُ"
   },
   {
-    "id": "1081",
+    "id": "1080",
     "romanized": "zzourgh",
     "tifinagh": "ⵣⵣⵓⵔⵖ",
     "arabic": "جُرَّ"
   },
   {
-    "id": "1082",
+    "id": "1081",
     "romanized": "oumdwil",
     "tifinagh": "ⵓⵎⴷⵡⵉⵍ",
     "arabic": "نعال بالية"
   },
   {
-    "id": "1083",
+    "id": "1082",
     "romanized": "ahrkous",
     "tifinagh": "ⴰⵀⵔⴽⵓⵙ",
     "arabic": "حذاء"
   },
   {
-    "id": "1084",
+    "id": "1083",
     "romanized": "asaṭer",
     "tifinagh": "ⴰⵚⴰⵟⵔ",
     "arabic": "ألم"
   },
   {
-    "id": "1085",
+    "id": "1084",
     "romanized": "ażbar",
     "tifinagh": "ⴰⵥⴱⴰⵕ",
     "arabic": "ألم"
   },
   {
-    "id": "1086",
+    "id": "1085",
     "romanized": "tborjt",
     "tifinagh": "ⵜⴱⵓⵕⵊⵜ",
     "arabic": "نافذة صغيرة"
   },
   {
-    "id": "1087",
+    "id": "1086",
     "romanized": "inbdan",
     "tifinagh": "ⵉⵏⴱⴷⴰⵏ",
     "arabic": "جمال ؟"
   },
   {
-    "id": "1088",
+    "id": "1087",
     "romanized": "rwlagh",
     "tifinagh": "ⵕⴰⵡⵍⴰⵖ",
     "arabic": "هربت"
   },
   {
-    "id": "1089",
+    "id": "1088",
     "romanized": "taghnjayt",
     "tifinagh": "ⵜⴰⵖⵏⵊⴰⵢⵜ",
     "arabic": "ملعقة"
   },
   {
-    "id": "1090",
+    "id": "1089",
     "romanized": "sghigh",
     "tifinagh": "ⵙⵖⵉⵖ",
     "arabic": "ُاشتريت"
   },
   {
-    "id": "1091",
+    "id": "1090",
     "romanized": "achawn",
     "tifinagh": "ⴰⵛⴰⵡⵏ",
     "arabic": "قرون"
   },
   {
-    "id": "1092",
+    "id": "1091",
     "romanized": "gharsagh",
     "tifinagh": "ⵖⴰⵕⵚⴰⵖ",
     "arabic": "ُذبحت"
   },
   {
-    "id": "1093",
+    "id": "1092",
     "romanized": "chrwḍgh",
     "tifinagh": "ⵛⵕⵡⴹ",
     "arabic": "قطعتُ"
   },
   {
-    "id": "1094",
+    "id": "1093",
     "romanized": "chbrkght",
     "tifinagh": "ⵛⴱⵔⴽⵖⵜ",
     "arabic": "خيطتها"
   },
   {
-    "id": "1095",
+    "id": "1094",
     "romanized": "chrrggh",
     "tifinagh": "ⵛⵔⵔⴳⵖ",
     "arabic": "قطّعت"
   },
   {
-    "id": "1096",
+    "id": "1095",
     "romanized": "ychwwr",
     "tifinagh": "ⵢⵛⵡⵡⵕ",
     "arabic": "صالح"
   },
   {
-    "id": "1097",
+    "id": "1096",
     "romanized": "99an",
     "tifinagh": "ⵇⵇⴰⵏ",
     "arabic": "ربط"
   },
   {
-    "id": "1098",
+    "id": "1097",
     "romanized": "99l",
     "tifinagh": "ⵇⵇⵍ",
     "arabic": "انظر"
   },
   {
-    "id": "1099",
+    "id": "1098",
     "romanized": "99sgh",
     "tifinagh": "ⵇⵇⵙⵖ",
     "arabic": "أريد"
   },
   {
-    "id": "1100",
+    "id": "1099",
     "romanized": "9arrmegh",
     "tifinagh": "ⵇⴰⵔⵔⵎⵖ",
     "arabic": "عظامي تؤلمني"
   },
   {
-    "id": "1101",
+    "id": "1100",
     "romanized": "9nn",
     "tifinagh": "ⵇⵏⵏ",
     "arabic": "سد"
   },
   {
-    "id": "1102",
+    "id": "1101",
     "romanized": "a3rour",
     "tifinagh": "ⴰⵄⵔⵓⵔ",
     "arabic": "ظهر"
   },
   {
-    "id": "1103",
+    "id": "1102",
     "romanized": "a3rrim",
     "tifinagh": "ⴰⵄⵔⵔⵉⵎ",
     "arabic": "حفنة كبيرة"
   },
   {
-    "id": "1104",
+    "id": "1103",
     "romanized": "a7chouch",
     "tifinagh": "ⴰⵃⵛⵓⵛ",
     "arabic": "حِضن"
   },
   {
-    "id": "1105",
+    "id": "1104",
     "romanized": "a7rir",
     "tifinagh": "ⴰⵃⵔⵉⵔ",
     "arabic": "بركوكش"
   },
   {
-    "id": "1106",
+    "id": "1105",
     "romanized": "a9oḍaḍ",
     "tifinagh": "ⴰⵇⵓⴹⴰⴹ",
     "arabic": "قصير"
   },
   {
-    "id": "1107",
+    "id": "1106",
     "romanized": "a9wir",
     "tifinagh": "ⴰⵇⵡⵉⵔ",
     "arabic": "سياج"
   },
   {
-    "id": "1108",
+    "id": "1107",
     "romanized": "abchich/ibchichn",
     "tifinagh": "ⴰⴱⵛⵉⵛ/ⵉⴱⵛⵉⵛⵏ",
     "arabic": "بول"
   },
   {
-    "id": "1109",
+    "id": "1108",
     "romanized": "abeddi",
     "tifinagh": "ⴰⴱⴷⴷⵉ",
     "arabic": "وقوف"
   },
   {
-    "id": "1110",
+    "id": "1109",
     "romanized": "abenner",
     "tifinagh": "ⴰⴱⵏⵏⵔ",
     "arabic": "مضاجعة"
   },
   {
-    "id": "1111",
+    "id": "1110",
     "romanized": "aberkan",
     "tifinagh": "ⴰⴱⵔⴽⴰⵏ",
     "arabic": "أسود"
   },
   {
-    "id": "1112",
+    "id": "1111",
     "romanized": "abnji",
     "tifinagh": "ⴰⴱⵏⵊⵉ",
     "arabic": "مضيف"
   },
   {
-    "id": "1113",
+    "id": "1112",
     "romanized": "abrach",
     "tifinagh": "ⴰⴱⵕⴰⵛ",
     "arabic": "رمادي"
   },
   {
-    "id": "1114",
+    "id": "1113",
     "romanized": "abrid/ibrdan",
     "tifinagh": "ⴰⴱⵔⵉⴷ/ⵉⴱⵔⴷⴰⵏ",
     "arabic": "طريق/طرق"
   },
   {
-    "id": "1115",
+    "id": "1114",
     "romanized": "ach3kouk",
     "tifinagh": "ⴰⵛⵄⴽⵓⴽ",
     "arabic": "شعر طويل غير ممشوط"
   },
   {
-    "id": "1116",
+    "id": "1115",
     "romanized": "achar/ichcharn",
     "tifinagh": "ⴰⵛⴰⵔ/ⵉⵛⵛⴰⵔⵏ",
     "arabic": "ظفر/أظافر"
   },
   {
-    "id": "1117",
+    "id": "1116",
     "romanized": "achffar",
     "tifinagh": "ⴰⵛⴼⴼⴰⵕ",
     "arabic": "لص"
   },
   {
-    "id": "1118",
+    "id": "1117",
     "romanized": "achlaf",
     "tifinagh": "ⴰⵛⵍⴰⴼ",
     "arabic": "تسلق"
   },
   {
-    "id": "1119",
+    "id": "1118",
     "romanized": "achnyal/ichnyaln",
     "tifinagh": "ⴰⵛⵏⵢⴰⵍ/ⵉⵛⵏⵢⴰⵍⵏ",
     "arabic": "عَلم"
   },
   {
-    "id": "1120",
+    "id": "1119",
     "romanized": "admr",
     "tifinagh": "ⴰⴷⵎⵔ",
     "arabic": "نصف صدر"
   },
   {
-    "id": "1121",
+    "id": "1120",
     "romanized": "adrar/idourar",
     "tifinagh": "ⴰⴷⵔⴰⵔ/ⵉⴷⵓⵔⴰⵔ",
     "arabic": "جبل/جبال"
   },
   {
-    "id": "1122",
+    "id": "1121",
     "romanized": "afermach",
     "tifinagh": "ⴰⴼⵔⵎⴰⵛ",
     "arabic": "بدون أسنان"
   },
   {
-    "id": "1123",
+    "id": "1122",
     "romanized": "afghoul",
     "tifinagh": "ⴰⴼⵖⵓⵍ",
     "arabic": "أبله"
   },
   {
-    "id": "1124",
+    "id": "1123",
     "romanized": "afoussi",
     "tifinagh": "ⴰⴼⵓⵙⵉ",
     "arabic": "أيمن"
   },
   {
-    "id": "1125",
+    "id": "1124",
     "romanized": "afraḍ",
     "tifinagh": "ⴰⴼⵔⴰⴹ",
     "arabic": "أزبال"
   },
   {
-    "id": "1126",
+    "id": "1125",
     "romanized": "afrn",
     "tifinagh": "ⴰⴼⵔⵏ",
     "arabic": "تنقية"
   },
   {
-    "id": "1127",
+    "id": "1126",
     "romanized": "afrṭeṭṭou",
     "tifinagh": "ⴰⴼⵔⵟⴻⵟⵟⵓ",
     "arabic": "فراشة"
   },
   {
-    "id": "1128",
+    "id": "1127",
     "romanized": "aghi asemmam",
     "tifinagh": "ⴰⵖⵉ ⴰⵙⵎⴰⵎ",
     "arabic": "لبن"
   },
   {
-    "id": "1129",
+    "id": "1128",
     "romanized": "aghidou",
     "tifinagh": "ⴰⵖⵉⴷⵓ",
     "arabic": "وردة"
   },
   {
-    "id": "1130",
+    "id": "1129",
     "romanized": "aghilas",
     "tifinagh": "ⴰⵖⵉⵍⴰⵙ",
     "arabic": "نمر"
   },
   {
-    "id": "1131",
+    "id": "1130",
     "romanized": "aghrrabou",
     "tifinagh": "ⴰⵖⵕⵕⴰⴱⵓ",
     "arabic": "باخرة"
   },
   {
-    "id": "1132",
+    "id": "1131",
     "romanized": "agmmaḍ",
     "tifinagh": "ⴰⴳⵎⵎⴰⴹ",
     "arabic": "ضفة الأخرى"
   },
   {
-    "id": "1133",
+    "id": "1132",
     "romanized": "ahrmouch",
     "tifinagh": "ⴰⵃⵔⵎⵓⵛ",
     "arabic": "غزال"
   },
   {
-    "id": "1134",
+    "id": "1133",
     "romanized": "ajdig/tajdigt",
     "tifinagh": "ⴰⵊⴷⵉⴳ",
     "arabic": "وردة"
   },
   {
-    "id": "1135",
+    "id": "1134",
     "romanized": "ijidr",
     "tifinagh": "ⵉⵊⵉⴷⵔ/ⵉⵊⵉⴷⵔⵏ",
     "arabic": "نسر"
   },
   {
-    "id": "1136",
+    "id": "1135",
     "romanized": "ajnwi",
     "tifinagh": "ⴰⵊⵏⵡⵉ",
     "arabic": "سكين"
   },
   {
-    "id": "1137",
+    "id": "1136",
     "romanized": "aknif",
     "tifinagh": "ⴰⴽⵏⵉⴼ",
     "arabic": "شواء"
   },
   {
-    "id": "1138",
+    "id": "1137",
     "romanized": "akrkor",
     "tifinagh": "ⴰⴽⵔⴽⵓⵕ",
     "arabic": "حجارة فوق بعضها"
   },
   {
-    "id": "1139",
+    "id": "1138",
     "romanized": "alim",
     "tifinagh": "ⴰⵍⵉⵎ",
     "arabic": "تبن"
   },
   {
-    "id": "1140",
+    "id": "1139",
     "romanized": "alloun",
     "tifinagh": "ⴰⵍⵍⵓⵏ",
     "arabic": "دف او بندير"
   },
   {
-    "id": "1141",
+    "id": "1140",
     "romanized": "am99ran",
     "tifinagh": "ⴰⵎⵇⵇⵕⴰⵏ",
     "arabic": "رئيس، الأكبر"
   },
   {
-    "id": "1142",
+    "id": "1141",
     "romanized": "amazr/imouzzar",
     "tifinagh": "ⴰⵎⴰⵣⵔ/ⵉⵎⵓⵣⵣⴰⵔ",
     "arabic": "شلال/شلالات"
   },
   {
-    "id": "1143",
+    "id": "1142",
     "romanized": "amchoum",
     "tifinagh": "ⴰⵎⵛⵓⵎ",
     "arabic": "لئيم"
   },
   {
-    "id": "1144",
+    "id": "1143",
     "romanized": "amellal",
     "tifinagh": "ⴰⵎⵍⵍⴰⵍ",
     "arabic": "أبيض"
   },
   {
-    "id": "1145",
+    "id": "1144",
     "romanized": "amghar",
     "tifinagh": "ⴰⵎⵖⴰⵔ",
     "arabic": "شيخ"
   },
   {
-    "id": "1146",
+    "id": "1145",
     "romanized": "amjjiw",
     "tifinagh": "ⴰⵎⵊⵊⵉⵡ",
     "arabic": "أذن"
   },
   {
-    "id": "1147",
+    "id": "1146",
     "romanized": "amjjoḍ",
     "tifinagh": "ⴰⵎⵊⵊⵓⴹ",
     "arabic": "أصلع"
   },
   {
-    "id": "1148",
+    "id": "1147",
     "romanized": "amouzr",
     "tifinagh": "ⴰⵎⵓⵣⵔ",
     "arabic": "رئيس"
   },
   {
-    "id": "1149",
+    "id": "1148",
     "romanized": "amoḍil",
     "tifinagh": "ⴰⵎⵓⴹⵉⵍ",
     "arabic": "ممرض"
   },
   {
-    "id": "1150",
+    "id": "1149",
     "romanized": "amsfar",
     "tifinagh": "ⴰⵎⵙⴼⴰⵔ",
     "arabic": "صيدلي"
   },
   {
-    "id": "1151",
+    "id": "1150",
     "romanized": "amssesfar",
     "tifinagh": "ⴰⵎⵙⵙⴻⵙⴼⴰⵔ",
     "arabic": "طبيب"
   },
   {
-    "id": "1152",
+    "id": "1151",
     "romanized": "amzrouy",
     "tifinagh": "ⴰⵎⵣⵔⵓⵢ",
     "arabic": "تاريخ"
   },
   {
-    "id": "1153",
+    "id": "1152",
     "romanized": "amzwar",
     "tifinagh": "ⴰⵎⵣⵡⴰⵔ",
     "arabic": "رئيس، الأول،"
   },
   {
-    "id": "1154",
+    "id": "1153",
     "romanized": "amṭṭa/imṭṭwn",
     "tifinagh": "ⴰⵎⵟⵟⴰ/ⵉⵎⵟⵟⴰⵡⵏ",
     "arabic": "دمعة، دموع"
   },
   {
-    "id": "1155",
+    "id": "1154",
     "romanized": "anamk",
     "tifinagh": "ⴰⵏⴰⵎⴽ",
     "arabic": "معنى"
   },
   {
-    "id": "1156",
+    "id": "1155",
     "romanized": "anbdou",
     "tifinagh": "ⴰⵏⴱⴷⵓ",
     "arabic": "صيف"
   },
   {
-    "id": "1157",
+    "id": "1156",
     "romanized": "anfrar",
     "tifinagh": "ⴰⵏⴼⵔⴰⵔ",
     "arabic": "مهم"
   },
   {
-    "id": "1158",
+    "id": "1157",
     "romanized": "anghour",
     "tifinagh": "ⴰⵏⵖⵓⵔ",
     "arabic": "فناء/لمراح"
   },
   {
-    "id": "1159",
+    "id": "1158",
     "romanized": "anoujiw",
     "tifinagh": "ⴰⵏⵓⵊⵉⵡ",
     "arabic": "ضيف"
   },
   {
-    "id": "1160",
+    "id": "1159",
     "romanized": "anssikhf",
     "tifinagh": "ⴰⵏⵙⵙⵉⵅⴼ",
     "arabic": "رئيس"
   },
   {
-    "id": "1161",
+    "id": "1160",
     "romanized": "arkkouth",
     "tifinagh": "ⴰⵔⴽⴽⵓⵝ",
     "arabic": "غربال من جلد الماعز مثقوب بالمخيط"
   },
   {
-    "id": "1162",
+    "id": "1161",
     "romanized": "arnan",
     "tifinagh": "ⴰⵔⵏⴰⵏ",
     "arabic": "بيدر"
   },
   {
-    "id": "1163",
+    "id": "1162",
     "romanized": "arraw",
     "tifinagh": "ⴰⵕⵕⴰⵡ",
     "arabic": "نسل"
   },
   {
-    "id": "1164",
+    "id": "1163",
     "romanized": "arrouḍ",
     "tifinagh": "ⴰⵕⵕⵓⴹ",
     "arabic": "لباس"
   },
   {
-    "id": "1165",
+    "id": "1164",
     "romanized": "aserdoun/isrdan",
     "tifinagh": "ⴰⵙⵔⴷⵓⵏ/ⵉⵙⵔⴷⴰⵏ",
     "arabic": "بغل/بغال"
   },
   {
-    "id": "1166",
+    "id": "1165",
     "romanized": "aserwat",
     "tifinagh": "ⴰⵙⵕⵡⴰⵟ",
     "arabic": "درس الزرع"
   },
   {
-    "id": "1167",
+    "id": "1166",
     "romanized": "asfar",
     "tifinagh": "ⴰⵙⴼⴰⵔ",
     "arabic": "دواء"
   },
   {
-    "id": "1168",
+    "id": "1167",
     "romanized": "asghouyyou",
     "tifinagh": "ⴰⵙⵖⵓⵢⵢⵓ",
     "arabic": "صراخ"
   },
   {
-    "id": "1169",
+    "id": "1168",
     "romanized": "askkil/iskkiln",
     "tifinagh": "ⴰⵙⴽⴽⵉⵍ",
     "arabic": "حرف"
   },
   {
-    "id": "1170",
+    "id": "1169",
     "romanized": "asough",
     "tifinagh": "ⴰⵙⵓⵖ",
     "arabic": "هاوية السحيقة"
   },
   {
-    "id": "1171",
+    "id": "1170",
     "romanized": "assam",
     "tifinagh": "ⴰⵙⵙⴰⵎ",
     "arabic": "برق"
   },
   {
-    "id": "1172",
+    "id": "1171",
     "romanized": "asserwat",
     "tifinagh": "ⴰⵙⵔⵡⴰⵟ",
     "arabic": "دريس"
   },
   {
-    "id": "1173",
+    "id": "1172",
     "romanized": "assif",
     "tifinagh": "ⴰⵙⵉⴼ",
     "arabic": "واد النهر"
   },
   {
-    "id": "1174",
+    "id": "1173",
     "romanized": "assimi",
     "tifinagh": "ⴰⵙⵉⵎⵉ",
     "arabic": "رضيع"
   },
   {
-    "id": "1175",
+    "id": "1174",
     "romanized": "assrghoud",
     "tifinagh": "ⴰⵙⵙⵔⵖⵓⴷ",
     "arabic": "تهنئة"
   },
   {
-    "id": "1176",
+    "id": "1175",
     "romanized": "atbir/tatbirt",
     "tifinagh": "ⴰⵜⴱⵉⵔ/ⵜⴰⵜⴱⵉⵔⵜ",
     "arabic": "حمام/حمامة"
   },
   {
-    "id": "1177",
+    "id": "1176",
     "romanized": "atchini",
     "tifinagh": "ⴰⵜⵛⵉⵏⵉ",
     "arabic": "لتشيني"
   },
   {
-    "id": "1178",
+    "id": "1177",
     "romanized": "aterras",
     "tifinagh": "ⴰⵜⵔⵔⴰⵙ",
     "arabic": "رجل"
   },
   {
-    "id": "1179",
+    "id": "1178",
     "romanized": "atti",
     "tifinagh": "ⴰⵜⵜⵉ",
     "arabic": "يطير"
   },
   {
-    "id": "1180",
+    "id": "1179",
     "romanized": "awi",
     "tifinagh": "ⴰⵡⵉ",
     "arabic": "اجلب"
   },
   {
-    "id": "1181",
+    "id": "1180",
     "romanized": "awragh",
     "tifinagh": "ⴰⵡⵕⴰⵖ",
     "arabic": "أصفر"
   },
   {
-    "id": "1182",
+    "id": "1181",
     "romanized": "awrjij",
     "tifinagh": "ⴰⵡⵕⵊⵉⵊ",
     "arabic": "زيزية/cigale"
   },
   {
-    "id": "1183",
+    "id": "1182",
     "romanized": "awssar",
     "tifinagh": "ⴰⵡⵙⵙⴰⵔ",
     "arabic": "عجوز"
   },
   {
-    "id": "1184",
+    "id": "1183",
     "romanized": "awtm",
     "tifinagh": "ⴰⵡⵜⵎ",
     "arabic": "ذكر"
   },
   {
-    "id": "1185",
+    "id": "1184",
     "romanized": "ayddoud",
     "tifinagh": "ⴰⵢⴷⴷⵓⴷ",
     "arabic": "شعب"
   },
   {
-    "id": "1186",
+    "id": "1185",
     "romanized": "aydi/iyḍan",
     "tifinagh": "ⴰⵢⴷⵉ/ⵉⵢⴹⴰⵏ",
     "arabic": "كلب/كلاب"
   },
   {
-    "id": "1187",
+    "id": "1186",
     "romanized": "ayllim",
     "tifinagh": "ⴰⵢⵍⵍⵉⵎ",
     "arabic": "جلد/peau"
   },
   {
-    "id": "1188",
+    "id": "1187",
     "romanized": "ayr/iyran",
     "tifinagh": "ⴰⵢⵔ/ⵉⵢⵔⴰⵏ",
     "arabic": "حقل/حقول"
   },
   {
-    "id": "1189",
+    "id": "1188",
     "romanized": "ayrouḍ",
     "tifinagh": "ⴰⵢⵔⵓⴹ",
     "arabic": "ثور"
   },
   {
-    "id": "1190",
+    "id": "1189",
     "romanized": "aytmas",
     "tifinagh": "ⴰⵢⵜⵎⴰⵙ",
     "arabic": "إخوته"
   },
   {
-    "id": "1191",
+    "id": "1190",
     "romanized": "ayyis",
     "tifinagh": "ⴰⵢⵢⵉⵙ",
     "arabic": "فرس"
   },
   {
-    "id": "1192",
+    "id": "1191",
     "romanized": "az99or",
     "tifinagh": "ⴰⵣⵇⵇⵓⵕ",
     "arabic": "جذع الشجرة"
   },
   {
-    "id": "1193",
+    "id": "1192",
     "romanized": "azaghar",
     "tifinagh": "ⴰⵣⴰⵖⴰⵔ",
     "arabic": "سهل"
   },
   {
-    "id": "1194",
+    "id": "1193",
     "romanized": "azerwal",
     "tifinagh": "ⴰⵣⵕⵡⴰⵍ",
     "arabic": "أزرق"
   },
   {
-    "id": "1195",
+    "id": "1194",
     "romanized": "azil",
     "tifinagh": "ⴰⵣⵉⵍ",
     "arabic": "بعد الظهر"
   },
   {
-    "id": "1196",
+    "id": "1195",
     "romanized": "azizaw",
     "tifinagh": "ⴰⵣⵉⵣⴰⵡ",
     "arabic": "أخضر"
   },
   {
-    "id": "1197",
+    "id": "1196",
     "romanized": "azlaf",
     "tifinagh": "ⴰⵣⵍⴰⴼ",
     "arabic": "حلفاء نهرية"
   },
   {
-    "id": "1198",
+    "id": "1197",
     "romanized": "azn",
     "tifinagh": "ⴰⵣⵏ",
     "arabic": "أرسل"
   },
   {
-    "id": "1199",
+    "id": "1198",
     "romanized": "azouzzr",
     "tifinagh": "ⴰⵣⵓⵣⵣⵔ",
     "arabic": "تدرية او فصل الحبوب عن التبن"
   },
   {
-    "id": "1200",
+    "id": "1199",
     "romanized": "azro",
     "tifinagh": "ⴰⵥⵕⵓ",
     "arabic": "حجر"
   },
   {
-    "id": "1201",
+    "id": "1200",
     "romanized": "ażrf",
     "tifinagh": "ⴰⵥⵔⴼ",
     "arabic": "فضة"
   },
   {
-    "id": "1202",
+    "id": "1201",
     "romanized": "aḍggal",
     "tifinagh": "ⴰⴹⴳⴳⵯⴰⵍ",
     "arabic": "نسيب"
   },
   {
-    "id": "1203",
+    "id": "1202",
     "romanized": "aḍlib",
     "tifinagh": "ⴰⴹⵍⵉⴱ",
     "arabic": "عدو"
   },
   {
-    "id": "1204",
+    "id": "1203",
     "romanized": "aḍrghal",
     "tifinagh": "ⴰⴹⵔⵖⴰⵍ",
     "arabic": "أعمى"
   },
   {
-    "id": "1205",
+    "id": "1204",
     "romanized": "bedd",
     "tifinagh": "ⴱⴷⴷ",
     "arabic": "انهض"
   },
   {
-    "id": "1206",
+    "id": "1205",
     "romanized": "bouhyyouf",
     "tifinagh": "ⴱⵓⵀⵢⵢⵓⴼ",
     "arabic": "جوع شديد"
   },
   {
-    "id": "1207",
+    "id": "1206",
     "romanized": "bouykerkas",
     "tifinagh": "ⴱⵓⵢⴽⵔⴽⴰⵙ",
     "arabic": "كذاب"
   },
   {
-    "id": "1208",
+    "id": "1207",
     "romanized": "che7loufgh",
     "tifinagh": "ⵛⵛⵃⵍⵓⴼⵖ",
     "arabic": "تحطُب، تجمع الحطب"
   },
   {
-    "id": "1209",
+    "id": "1208",
     "romanized": "chmchr",
     "tifinagh": "ⵛⵎⵛⵔ",
     "arabic": "جرَحَ بشكل عنيف"
   },
   {
-    "id": "1210",
+    "id": "1209",
     "romanized": "chtattou",
     "tifinagh": "ⵛⵟⵟⴰⵟⵓ",
     "arabic": "غربال دقيق"
   },
   {
-    "id": "1211",
+    "id": "1210",
     "romanized": "djiyyi",
     "tifinagh": "ⴷⵊⵉⵢⵢⵉ",
     "arabic": "اتركني"
   },
   {
-    "id": "1212",
+    "id": "1211",
     "romanized": "djoullegh",
     "tifinagh": "ⴷⵊⵓⵍⵍⵖ",
     "arabic": "حلفت/أقسمت"
   },
   {
-    "id": "1213",
+    "id": "1212",
     "romanized": "drous",
     "tifinagh": "ⴷⵔⵓⵙ",
     "arabic": "قليل"
   },
   {
-    "id": "1214",
+    "id": "1213",
     "romanized": "foud/ifaddn",
     "tifinagh": "ⴼⵓⴷ/ⵉⴼⴰⴷⴷⵏ",
     "arabic": "ركبة/ركبات"
   },
   {
-    "id": "1215",
+    "id": "1214",
     "romanized": "ggzegh",
     "tifinagh": "ⴳⴳⵣⵖ",
     "arabic": "أفهم"
   },
   {
-    "id": "1216",
+    "id": "1215",
     "romanized": "ghrwmt!",
     "tifinagh": "ⵖⵔⵡⵎⵜ!",
     "arabic": "احذرن"
   },
   {
-    "id": "1217",
+    "id": "1216",
     "romanized": "ghrwn!",
     "tifinagh": "ⵖⵔⵡⵏ!",
     "arabic": "احذروا"
   },
   {
-    "id": "1218",
+    "id": "1217",
     "romanized": "goggo",
     "tifinagh": "ⴳⵓⴳⴳⵓ",
     "arabic": "عقل"
   },
   {
-    "id": "1219",
+    "id": "1218",
     "romanized": "i9arridn",
     "tifinagh": "ⵉⵇⴰⵔⵔⵉⴹⵏ",
     "arabic": "أموال"
   },
   {
-    "id": "1220",
+    "id": "1219",
     "romanized": "i9chchodn",
     "tifinagh": "ⵉⵇⵛⵛⵓⴹⵏ",
     "arabic": "حطب"
   },
   {
-    "id": "1221",
+    "id": "1220",
     "romanized": "ich7laf",
     "tifinagh": "ⵉⵛⵃⵍⴰⴼ",
     "arabic": "حطب"
   },
   {
-    "id": "1222",
+    "id": "1221",
     "romanized": "idarn",
     "tifinagh": "ⵉⴹⴰⵔⵏ",
     "arabic": "أرجل"
   },
   {
-    "id": "1223",
+    "id": "1222",
     "romanized": "idil",
     "tifinagh": "ⵉⴷⵉⵍ",
     "arabic": "شجرة أرز"
   },
   {
-    "id": "1224",
+    "id": "1223",
     "romanized": "idmarn",
     "tifinagh": "ⵉⴷⵎⴰⵔⵏ",
     "arabic": "صدر ( جمع نصف صدر )"
   },
   {
-    "id": "1225",
+    "id": "1224",
     "romanized": "ighs/ighsan",
     "tifinagh": "ⵉⵖⵙ/ⵉⵖⵙⴰⵏ",
     "arabic": "عظم/عظام"
   },
   {
-    "id": "1226",
+    "id": "1225",
     "romanized": "ighzr",
     "tifinagh": "ⵉⵖⵥⵕ",
     "arabic": "واد النهر"
   },
   {
-    "id": "1227",
+    "id": "1226",
     "romanized": "ihnjirn",
     "tifinagh": "ⵉⵃⵏⵊⵉⵔⵏ",
     "arabic": "أطفال"
   },
   {
-    "id": "1228",
+    "id": "1227",
     "romanized": "ikhiyye9",
     "tifinagh": "ⵉⵅⵉⵢⵇ",
     "arabic": "غضِب"
   },
   {
-    "id": "1229",
+    "id": "1228",
     "romanized": "ikikd",
     "tifinagh": "ⵉⴽⵉⴽⴷ",
     "arabic": "لوز"
   },
   {
-    "id": "1230",
+    "id": "1229",
     "romanized": "ikniwn",
     "tifinagh": "ⵉⴽⵏⵉⵡⵏ",
     "arabic": "توأم"
   },
   {
-    "id": "1231",
+    "id": "1230",
     "romanized": "ils",
     "tifinagh": "ⵉⵍⵙ",
     "arabic": "لسان"
   },
   {
-    "id": "1232",
+    "id": "1231",
     "romanized": "imalas",
     "tifinagh": "ⵉⵎⴰⵍⴰⵙ",
     "arabic": "أسبوع"
   },
   {
-    "id": "1233",
+    "id": "1232",
     "romanized": "imdayn",
     "tifinagh": "ⵉⵎⴷⴰⵢⵏ",
     "arabic": "لعاب"
   },
   {
-    "id": "1234",
+    "id": "1233",
     "romanized": "imjjan",
     "tifinagh": "ⵉⵎⵊⵊⴰⵏ",
     "arabic": "أذان"
   },
   {
-    "id": "1235",
+    "id": "1234",
     "romanized": "imrmz",
     "tifinagh": "ⵉⵎⵔⵎⵣ",
     "arabic": "قمح ديميطة"
   },
   {
-    "id": "1236",
+    "id": "1235",
     "romanized": "imtmi",
     "tifinagh": "ⵢⵎⵜⵎⵉ",
     "arabic": "لعاب"
   },
   {
-    "id": "1237",
+    "id": "1236",
     "romanized": "ineddi",
     "tifinagh": "ⵉⵏⴷⴷⵉ",
     "arabic": "يعطب"
   },
   {
-    "id": "1238",
+    "id": "1237",
     "romanized": "ineflass",
     "tifinagh": "ⵉⵏⴼⵍⴰⵙⵙ",
     "arabic": "مؤمنين"
   },
   {
-    "id": "1239",
+    "id": "1238",
     "romanized": "irrwegh",
     "tifinagh": "ⵉⵕⵕⵡⵖ",
     "arabic": "أجمع"
   },
   {
-    "id": "1240",
+    "id": "1239",
     "romanized": "isirs",
     "tifinagh": "ⵉⵙⵉⵔⵙ",
     "arabic": "كيس من صوف مزركش يعلق حول فم الخيل لإطعامه واقفا"
   },
   {
-    "id": "1241",
+    "id": "1240",
     "romanized": "isamḍan",
     "tifinagh": "ⵉⵚⴰⵎⴹⴰⵏ",
     "arabic": "بارد"
   },
   {
-    "id": "1242",
+    "id": "1241",
     "romanized": "isoufgha",
     "tifinagh": "ⵉⵙⵓⴼⵖⴰ",
     "arabic": "طرد"
   },
   {
-    "id": "1243",
+    "id": "1242",
     "romanized": "iwdan",
     "tifinagh": "ⵉⵡⴷⴰⵏ",
     "arabic": "ناس"
   },
   {
-    "id": "1244",
+    "id": "1243",
     "romanized": "izlmad",
     "tifinagh": "ⵉⵣⵍⵎⴰⴹ",
     "arabic": "أيسر"
   },
   {
-    "id": "1245",
+    "id": "1244",
     "romanized": "izmr",
     "tifinagh": "ⵉⵣⵎⵔ",
     "arabic": "خروف"
   },
   {
-    "id": "1246",
+    "id": "1245",
     "romanized": "iḍnnaḍ",
     "tifinagh": "ⵉⴹⵏⵏⴰⴹ",
     "arabic": "أمس"
   },
   {
-    "id": "1247",
+    "id": "1246",
     "romanized": "iḍoḍan",
     "tifinagh": "ⵉⴹⵓⴹⴰⵏ",
     "arabic": "أصابع"
   },
   {
-    "id": "1248",
+    "id": "1247",
     "romanized": "jarouf",
     "tifinagh": "ⵊⴰⵔⵓⴼ",
     "arabic": "غراب"
   },
   {
-    "id": "1249",
+    "id": "1248",
     "romanized": "khzr",
     "tifinagh": "ⵅⵣⵔ",
     "arabic": "انظر"
   },
   {
-    "id": "1250",
+    "id": "1249",
     "romanized": "kker",
     "tifinagh": "ⴽⴽⵔ",
     "arabic": "انهض"
   },
   {
-    "id": "1251",
+    "id": "1250",
     "romanized": "kkregh",
     "tifinagh": "ⴽⴽⵔⵖ",
     "arabic": "استفقت"
   },
   {
-    "id": "1252",
+    "id": "1251",
     "romanized": "krfgh",
     "tifinagh": "ⴽⵔⴼⵖ",
     "arabic": "ربطت"
   },
   {
-    "id": "1253",
+    "id": "1252",
     "romanized": "l3ri",
     "tifinagh": "ⵍⵄⵔⵉ",
     "arabic": "غابة"
   },
   {
-    "id": "1254",
+    "id": "1253",
     "romanized": "l7em",
     "tifinagh": "ⵍⵃⵎ",
     "arabic": "اقترب"
   },
   {
-    "id": "1255",
+    "id": "1254",
     "romanized": "ldoudan",
     "tifinagh": "ⵉⴷⵓⴷⴰⵏ",
     "arabic": "دافئ"
   },
   {
-    "id": "1256",
+    "id": "1255",
     "romanized": "lmdegh",
     "tifinagh": "ⵍⵎⴷⵖ",
     "arabic": "تعلمت"
   },
   {
-    "id": "1257",
+    "id": "1256",
     "romanized": "mad",
     "tifinagh": "ⵎⴰⴷ",
     "arabic": "إنسان"
   },
   {
-    "id": "1258",
+    "id": "1257",
     "romanized": "manstou",
     "tifinagh": "ⵎⴰⵏⵙⵜⵓ",
     "arabic": "من تكون هذه السيدة/البنت"
   },
   {
-    "id": "1259",
+    "id": "1258",
     "romanized": "manswou",
     "tifinagh": "ⵎⴰⵏⵙⵡⵓ",
     "arabic": "من يكون هذا الرجل/الولد"
   },
   {
-    "id": "1260",
+    "id": "1259",
     "romanized": "maynjaras",
     "tifinagh": "ⵎⴰⵢⵏⵊⴰⵔⴰⵙ",
     "arabic": "ماذا وقع له"
   },
   {
-    "id": "1261",
+    "id": "1260",
     "romanized": "mazigh",
     "tifinagh": "ⵎⴰⵣⵉⵖ",
     "arabic": "أمازيغي"
   },
   {
-    "id": "1262",
+    "id": "1261",
     "romanized": "memmis",
     "tifinagh": "ⵎⴻⵎⵎⵉⵙ",
     "arabic": "ابنه"
   },
   {
-    "id": "1263",
+    "id": "1262",
     "romanized": "moużour",
     "tifinagh": "ⵎⵓⵥⵓⵔ",
     "arabic": "غليظ"
   },
   {
-    "id": "1264",
+    "id": "1263",
     "romanized": "nanam",
     "tifinagh": "ⵏⴰⵏⴰⵎ",
     "arabic": "قالو/يُقال"
   },
   {
-    "id": "1265",
+    "id": "1264",
     "romanized": "neffer",
     "tifinagh": "ⵏⴼⴼⵔ",
     "arabic": "ندُسُّ"
   },
   {
-    "id": "1266",
+    "id": "1265",
     "romanized": "nnoumgh",
     "tifinagh": "ⵏⵏⵓⵎⵖ",
     "arabic": "ألفتُ"
   },
   {
-    "id": "1267",
+    "id": "1266",
     "romanized": "ouchouchf",
     "tifinagh": "ⵓⵛⵓⵛⴼ",
     "arabic": "سباحة"
   },
   {
-    "id": "1268",
+    "id": "1267",
     "romanized": "oultmas",
     "tifinagh": "ⵓⵍⵜⵎⴰⵙ",
     "arabic": "أخته"
   },
   {
-    "id": "1269",
+    "id": "1268",
     "romanized": "oumas",
     "tifinagh": "ⵓⵎⴰⵙ",
     "arabic": "أخوه"
   },
   {
-    "id": "1270",
+    "id": "1269",
     "romanized": "ourar",
     "tifinagh": "ⵓⵔⴰⵔ",
     "arabic": "حفل/زواج"
   },
   {
-    "id": "1271",
+    "id": "1270",
     "romanized": "ourjigh",
     "tifinagh": "ⵓⵔⵊⵉⵖ",
     "arabic": "حلمت"
   },
   {
-    "id": "1272",
+    "id": "1271",
     "romanized": "ourjighchk",
     "tifinagh": "ⵓⵔⵊⵉⵖⵛⴽ",
     "arabic": "حلمت بكَ"
   },
   {
-    "id": "1273",
+    "id": "1272",
     "romanized": "ourtou",
     "tifinagh": "ⵓⵔⵝⵓ",
     "arabic": "شجرة التين"
   },
   {
-    "id": "1274",
+    "id": "1273",
     "romanized": "out yilan",
     "tifinagh": "ⵓⵜ ⵢⵉⵍⴰⵏ",
     "arabic": "من يكون"
   },
   {
-    "id": "1275",
+    "id": "1274",
     "romanized": "rdlayyi",
     "tifinagh": "ⵔⴹⵍⴰⵢⵢⵉ",
     "arabic": "أقرضني"
   },
   {
-    "id": "1276",
+    "id": "1275",
     "romanized": "rghan",
     "tifinagh": "ⵔⵖⴰⵏ",
     "arabic": "ساخن"
   },
   {
-    "id": "1277",
+    "id": "1276",
     "romanized": "sarout",
     "tifinagh": "ⵙⴰⵔⵓⵜ",
     "arabic": "مفتاح"
   },
   {
-    "id": "1278",
+    "id": "1277",
     "romanized": "sekked",
     "tifinagh": "ⵙⴻⴽⴽⴻⴷ",
     "arabic": "أرسل"
   },
   {
-    "id": "1279",
+    "id": "1278",
     "romanized": "sghlygh",
     "tifinagh": "ⵙⵖⵍⵢⵖ",
     "arabic": "أبتلع"
   },
   {
-    "id": "1280",
+    "id": "1279",
     "romanized": "sghouyyough",
     "tifinagh": "ⵙⵖⵓⵢⵢⵓⵖ",
     "arabic": "أصرخ"
   },
   {
-    "id": "1281",
+    "id": "1280",
     "romanized": "sifd",
     "tifinagh": "ⵙⵉⴼⴹ",
     "arabic": "أرسل"
   },
   {
-    "id": "1282",
+    "id": "1281",
     "romanized": "sloullyouw",
     "tifinagh": "ⵙⵍⵓⵍⵢⵓⵢ",
     "arabic": "زغردي"
   },
   {
-    "id": "1283",
+    "id": "1282",
     "romanized": "sriwriwgh",
     "tifinagh": "ⵙⵔⵉⵡⵔⵉⵡⵖ",
     "arabic": "زغردت"
   },
   {
-    "id": "1284",
+    "id": "1283",
     "romanized": "ssfeye",
     "tifinagh": "ⵙⵙⴼⴻⵢⵢ",
     "arabic": "غلّي"
   },
   {
-    "id": "1285",
+    "id": "1284",
     "romanized": "ssmḍeḍ",
     "tifinagh": "ⵙⵚⵎⴻⴹ",
     "arabic": "برّد"
   },
   {
-    "id": "1286",
+    "id": "1285",
     "romanized": "ssnw",
     "tifinagh": "ⵙⵙⵏⵡ",
     "arabic": "طيّب"
   },
   {
-    "id": "1287",
+    "id": "1286",
     "romanized": "ssrghigh",
     "tifinagh": "ⵙⵙⵔⵖⵉⵖ",
     "arabic": "أشعلت"
   },
   {
-    "id": "1288",
+    "id": "1287",
     "romanized": "sszghl",
     "tifinagh": "ⵙⵣⵖⵍ",
     "arabic": "دفّي"
   },
   {
-    "id": "1289",
+    "id": "1288",
     "romanized": "ta7ndourt",
     "tifinagh": "ⵜⴰⵃⵏⴷⵓⵔⵜ",
     "arabic": "بيت صغير متواضع"
   },
   {
-    "id": "1290",
+    "id": "1289",
     "romanized": "ta99out",
     "tifinagh": "ⵜⴰⵇⵇⵓⵜ",
     "arabic": "مضاجعة"
   },
   {
-    "id": "1291",
+    "id": "1290",
     "romanized": "ta9ttount",
     "tifinagh": "ⵜⴰⵇⵟⵟⵓⵏⵜ",
     "arabic": "كومة حطب"
   },
   {
-    "id": "1292",
+    "id": "1291",
     "romanized": "taddart",
     "tifinagh": "ⵜⴰⴷⴷⴰⵔⵜ",
     "arabic": "منزل"
   },
   {
-    "id": "1293",
+    "id": "1292",
     "romanized": "tadoukat",
     "tifinagh": "ⵜⴰⴷⵓⴽⴰⵜ",
     "arabic": "مساء"
   },
   {
-    "id": "1294",
+    "id": "1293",
     "romanized": "tafougla n ouknaf",
     "tifinagh": "ⵜⴰⴼⵓⴳⵍⴰ ⵏ ⵓⴽⵏⴰⴼ",
     "arabic": "حفل شواء"
   },
   {
-    "id": "1295",
+    "id": "1294",
     "romanized": "tafounast",
     "tifinagh": "ⵝⴰⴼⵓⵏⴰⵙⵜ",
     "arabic": "بقرة"
   },
   {
-    "id": "1296",
+    "id": "1295",
     "romanized": "tafza",
     "tifinagh": "ⵜⴰⴼⵣⴰ",
     "arabic": "كلس"
   },
   {
-    "id": "1297",
+    "id": "1296",
     "romanized": "taghnant",
     "tifinagh": "ⵜⴰⵖⵏⴰⵏⵜ",
     "arabic": "عناد"
   },
   {
-    "id": "1298",
+    "id": "1297",
     "romanized": "taghrabot",
     "tifinagh": "ⵜⴰⵖⵔⴰⴱⵓⵜ",
     "arabic": "فلوكة"
   },
   {
-    "id": "1299",
+    "id": "1298",
     "romanized": "tamghart",
     "tifinagh": "ⵜⴰⵎⵖⴰⵔⵜ",
     "arabic": "امرأة"
   },
   {
-    "id": "1300",
+    "id": "1299",
     "romanized": "tamghra",
     "tifinagh": "ⵜⴰⵎⵖⵔⴰ",
     "arabic": "زواج"
   },
   {
-    "id": "1301",
+    "id": "1300",
     "romanized": "tamja",
     "tifinagh": "ⵜⴰⵎⵊⴰ",
     "arabic": "ناي"
   },
   {
-    "id": "1302",
+    "id": "1301",
     "romanized": "tamjjouṭ",
     "tifinagh": "ⵜⴰⵎⵊⵊⵓⵟ",
     "arabic": "صلعاء"
   },
   {
-    "id": "1303",
+    "id": "1302",
     "romanized": "tammnt",
     "tifinagh": "ⵜⴰⵎⵎⵏⵜ",
     "arabic": "عسل"
   },
   {
-    "id": "1304",
+    "id": "1303",
     "romanized": "tamoḍilt",
     "tifinagh": "ⵜⴰⵎⵓⴹⵉⵍⵜ",
     "arabic": "ممرضة"
   },
   {
-    "id": "1305",
+    "id": "1304",
     "romanized": "tamssaṭ",
     "tifinagh": "ⵜⴰⵎⵚⵚⴰⵟ/ⵜⵉⵎⵚⴹⵉⵏ",
     "arabic": "فخذ/أفخاذ"
   },
   {
-    "id": "1306",
+    "id": "1305",
     "romanized": "tamssesfart",
     "tifinagh": "ⵜⴰⵎⵙⵙⴻⵙⴼⴰⵔⵜ",
     "arabic": "طبيبة"
   },
   {
-    "id": "1307",
+    "id": "1306",
     "romanized": "tamḍlt",
     "tifinagh": "ⵜⴰⵎⴹⵍⵜ",
     "arabic": "مقبرة"
   },
   {
-    "id": "1308",
+    "id": "1307",
     "romanized": "tamṭṭoṭ",
     "tifinagh": "ⵜⴰⵎⵟⵟⵓⵟ",
     "arabic": "امرأة"
   },
   {
-    "id": "1309",
+    "id": "1308",
     "romanized": "tandut",
     "tifinagh": "ⵜⴰⵏⴷⵓⵜ",
     "arabic": "طبك صغير"
   },
   {
-    "id": "1310",
+    "id": "1309",
     "romanized": "tanwwalt",
     "tifinagh": "ⵜⴰⵏⵡⵡⴰⵍⵜ",
     "arabic": "بيت الخزين"
   },
   {
-    "id": "1311",
+    "id": "1310",
     "romanized": "tar7",
     "tifinagh": "ⵟⴰⵕⵃ",
     "arabic": "اجلس"
   },
   {
-    "id": "1312",
+    "id": "1311",
     "romanized": "tarddazt",
     "tifinagh": "ⵜⴰⵔⴷⴷⴰⵣⵜ",
     "arabic": "شبر"
   },
   {
-    "id": "1313",
+    "id": "1312",
     "romanized": "tarid",
     "tifinagh": "ⵜⴰⵔⵉⴷ",
     "arabic": "تَكتب"
   },
   {
-    "id": "1314",
+    "id": "1313",
     "romanized": "tarout",
     "tifinagh": "ⵜⴰⵕⵓⵜ/ⵜⵉⵕⵜⵉⵏ",
     "arabic": "رئة/رئتين"
   },
   {
-    "id": "1315",
+    "id": "1314",
     "romanized": "tarzzift",
     "tifinagh": "ⵜⴰⵔⵣⵣⵉⴼⵜ",
     "arabic": "هدية"
   },
   {
-    "id": "1316",
+    "id": "1315",
     "romanized": "tasffart",
     "tifinagh": "ⵜⴰⵙⴼⴼⴰⵔⵜ",
     "arabic": "صيدلية"
   },
   {
-    "id": "1317",
+    "id": "1316",
     "romanized": "tasirth",
     "tifinagh": "ⵜⴰⵙⵉⵔⵝ",
     "arabic": "مطحنة يدوية للزرع"
   },
   {
-    "id": "1318",
+    "id": "1317",
     "romanized": "tasklut",
     "tifinagh": "ⵜⴰⵙⴽⵍⵓⵜ",
     "arabic": "شجرة"
   },
   {
-    "id": "1319",
+    "id": "1318",
     "romanized": "tassa",
     "tifinagh": "ⵜⴰⵙⴰ",
     "arabic": "كبد"
   },
   {
-    "id": "1320",
+    "id": "1319",
     "romanized": "tawinst",
     "tifinagh": "ⵜⴰⵡⵉⵏⵙⵜ",
     "arabic": "جملة"
   },
   {
-    "id": "1321",
+    "id": "1320",
     "romanized": "tawouri",
     "tifinagh": "ⵜⴰⵡⵓⵔⵉ",
     "arabic": "عمل"
   },
   {
-    "id": "1322",
+    "id": "1321",
     "romanized": "tawtmt",
     "tifinagh": "ⵜⴰⵡⵜⵎⵜ",
     "arabic": "أنثى"
   },
   {
-    "id": "1323",
+    "id": "1322",
     "romanized": "tayda",
     "tifinagh": "ⵜⴰⵢⴷⴰ",
     "arabic": "صنوبر"
   },
   {
-    "id": "1324",
+    "id": "1323",
     "romanized": "tayttoft",
     "tifinagh": "ⵜⴰⵢⵟⵟⵓⴼⵜ",
     "arabic": "نملة"
   },
   {
-    "id": "1325",
+    "id": "1324",
     "romanized": "tazdouyi",
     "tifinagh": "ⵜⴰⵣⴷⵓⵢⵉ",
     "arabic": "نظافة"
   },
   {
-    "id": "1326",
+    "id": "1325",
     "romanized": "tazizwit",
     "tifinagh": "ⵜⴰⵣⵉⵣⵡⵜ",
     "arabic": "نحلة"
   },
   {
-    "id": "1327",
+    "id": "1326",
     "romanized": "tazkkrt",
     "tifinagh": "ⵝⴰⵣⴽⵯⵕⵝ",
     "arabic": "سدر"
   },
   {
-    "id": "1328",
+    "id": "1327",
     "romanized": "tazkṭa",
     "tifinagh": "ⵜⴰⵣⴽⵟⴰ",
     "arabic": "حيوان الرباح أو السبسب"
   },
   {
-    "id": "1329",
+    "id": "1328",
     "romanized": "tazlit",
     "tifinagh": "ⵜⴰⵥⵍⵉⵜ",
     "arabic": "أغنية"
   },
   {
-    "id": "1330",
+    "id": "1329",
     "romanized": "tazmmit",
     "tifinagh": "ⵟⴰⵣⵎⵎⵉⵜ",
     "arabic": "زميطة"
   },
   {
-    "id": "1331",
+    "id": "1330",
     "romanized": "tazolt",
     "tifinagh": "ⵜⴰⵥⵓⵍⵜ",
     "arabic": "كحل للتزيين"
   },
   {
-    "id": "1332",
+    "id": "1331",
     "romanized": "tazrart",
     "tifinagh": "ⵜⴰⵣⵔⴰⵔⵜ",
     "arabic": "سلسلة"
   },
   {
-    "id": "1333",
+    "id": "1332",
     "romanized": "tazurit/tazarit/tazarin",
     "tifinagh": "ⵜⴰⵥⵓⵔⵉⵜ",
     "arabic": "دالية"
   },
   {
-    "id": "1334",
+    "id": "1333",
     "romanized": "tazzart",
     "tifinagh": "ⵜⴰⵣⵣⴰⵔⵜ",
     "arabic": "مدراة"
   },
   {
-    "id": "1335",
+    "id": "1334",
     "romanized": "tazzla",
     "tifinagh": "ⵜⴰⵣⵣⵍⴰ",
     "arabic": "جري"
   },
   {
-    "id": "1336",
+    "id": "1335",
     "romanized": "taż99a",
     "tifinagh": "ⵜⴰⵥⵇⵇⴰ",
     "arabic": "سطح"
   },
   {
-    "id": "1337",
+    "id": "1336",
     "romanized": "tbby/ybby",
     "tifinagh": "ⵜⴱⴱⵢ",
     "arabic": "تقطع"
   },
   {
-    "id": "1338",
+    "id": "1337",
     "romanized": "tbḍiḍ",
     "tifinagh": "ⵜⴱⴹⵉⴹ",
     "arabic": "تُفرق"
   },
   {
-    "id": "1339",
+    "id": "1338",
     "romanized": "tchichd",
     "tifinagh": "ⵜⵛⵉⵛⴷ",
     "arabic": "تعطي"
   },
   {
-    "id": "1340",
+    "id": "1339",
     "romanized": "tchna3",
     "tifinagh": "ⵜⵛⵏⴰⵄ",
     "arabic": "لها قيمة"
   },
   {
-    "id": "1341",
+    "id": "1340",
     "romanized": "tebbou",
     "tifinagh": "ⵝⴻⴱⴱⵓ",
     "arabic": "تحمل صغيرها على ظهرها"
   },
   {
-    "id": "1342",
+    "id": "1341",
     "romanized": "tebchegh",
     "tifinagh": "ⵟⴰⴱⴱⵛⴰⵖ",
     "arabic": "فزكت بزاف"
   },
   {
-    "id": "1343",
+    "id": "1342",
     "romanized": "teklid",
     "tifinagh": "ⵜⴻⴽⵍⵉⴷ",
     "arabic": "ظللت"
   },
   {
-    "id": "1344",
+    "id": "1343",
     "romanized": "teltlegh",
     "tifinagh": "ⵜⵣⵍⵜⵍⵖ",
     "arabic": "فزكَت"
   },
   {
-    "id": "1345",
+    "id": "1344",
     "romanized": "tghirdemt",
     "tifinagh": "ⵜⵖⵉⵔⴷⵎⵜ",
     "arabic": "عقرب صفراء"
   },
   {
-    "id": "1346",
+    "id": "1345",
     "romanized": "tghirḍmt",
     "tifinagh": "ⵜⵖⵉⵔⴹⵎⵜ",
     "arabic": "عقرب"
   },
   {
-    "id": "1347",
+    "id": "1346",
     "romanized": "tgouriwin",
     "tifinagh": "ⵜⴳⵓⵔⵉⵡⵉⵏ",
     "arabic": "كلمات"
   },
   {
-    "id": "1348",
+    "id": "1347",
     "romanized": "tha9zzint",
     "tifinagh": "ⵝⴰⵇⵣⵣⵉⵏⵜ",
     "arabic": "حريكَة"
   },
   {
-    "id": "1349",
+    "id": "1348",
     "romanized": "thayda",
     "tifinagh": "ⵝⴰⵢⴷⴰ",
     "arabic": "شجرة الصنوبر"
   },
   {
-    "id": "1350",
+    "id": "1349",
     "romanized": "thizourin",
     "tifinagh": "ⵝⵉⵣⵓⵔⵉⵏ",
     "arabic": "عنب"
   },
   {
-    "id": "1351",
+    "id": "1350",
     "romanized": "tidi",
     "tifinagh": "ⵜⵉⴷⵉ",
     "arabic": "عَرَق"
   },
   {
-    "id": "1352",
+    "id": "1351",
     "romanized": "tifdnin",
     "tifinagh": "ⵜⵉⴼⴷⵏⵉⵏ",
     "arabic": "أصابع الأرجل"
   },
   {
-    "id": "1353",
+    "id": "1352",
     "romanized": "tifgh",
     "tifinagh": "ⵜⵉⴼⵖ",
     "arabic": "ألقى"
   },
   {
-    "id": "1354",
+    "id": "1353",
     "romanized": "tifikt",
     "tifinagh": "ⵜⵉⴼⵉⴽⵜ",
     "arabic": "محقن"
   },
   {
-    "id": "1355",
+    "id": "1354",
     "romanized": "tiflellest",
     "tifinagh": "ⵝⵉⴼⵍⴻⵍⵍⴻⵙⵜ",
     "arabic": "طائر السنونو"
   },
   {
-    "id": "1356",
+    "id": "1355",
     "romanized": "tigaz",
     "tifinagh": "ⵜⵉⴳⴰⵣ",
     "arabic": "وشم"
   },
   {
-    "id": "1357",
+    "id": "1356",
     "romanized": "tighmrt",
     "tifinagh": "ⵜⵉⵖⵎⵔⵜ",
     "arabic": "زاوية"
   },
   {
-    "id": "1358",
+    "id": "1357",
     "romanized": "tighmst/tighmas",
     "tifinagh": "ⵜⵉⵖⵎⵙⵜ/ⵜⵉⵖⵎⴰⵙ",
     "arabic": "سن/أسنان"
   },
   {
-    "id": "1359",
+    "id": "1358",
     "romanized": "tihnjirin",
     "tifinagh": "ⵜⵉⵃⵏⵊⵉⵔⵉⵏ",
     "arabic": "طفلات"
   },
   {
-    "id": "1360",
+    "id": "1359",
     "romanized": "tikrkas",
     "tifinagh": "ⵜⵉⴽⵔⴽⴰⵙ",
     "arabic": "كذب"
   },
   {
-    "id": "1361",
+    "id": "1360",
     "romanized": "tilelli",
     "tifinagh": "ⵜⵉⵍⴻⵍⵍⵉ",
     "arabic": "حرية"
   },
   {
-    "id": "1362",
+    "id": "1361",
     "romanized": "timlilaye",
     "tifinagh": "ⵜⵉⵎⵍⵉⵍⴰⵢ",
     "arabic": "دوخة"
   },
   {
-    "id": "1363",
+    "id": "1362",
     "romanized": "timoutcha",
     "tifinagh": "ⵜⵉⵎⵓⵜⵛⴰ",
     "arabic": "عطاء"
   },
   {
-    "id": "1364",
+    "id": "1363",
     "romanized": "timouzounin",
     "tifinagh": "ⵜⵉⵎⵓⵣⵓⵏⵉⵏ",
     "arabic": "أموال"
   },
   {
-    "id": "1365",
+    "id": "1364",
     "romanized": "tin3achin",
     "tifinagh": "ⵜⵉⵏⵄⴰⵛⵉⵏ",
     "arabic": "أموال"
   },
   {
-    "id": "1366",
+    "id": "1365",
     "romanized": "tiniri",
     "tifinagh": "ⵜⵉⵏⵉⵔⵉ",
     "arabic": "صحراء"
   },
   {
-    "id": "1367",
+    "id": "1366",
     "romanized": "tislit",
     "tifinagh": "ⵜⵉⵙⵍⵉⵜ",
     "arabic": "عروس"
   },
   {
-    "id": "1368",
+    "id": "1367",
     "romanized": "tiwast",
     "tifinagh": "ⵜⵉⵡⴰⵙⵜ",
     "arabic": "شجرة اللوز"
   },
   {
-    "id": "1369",
+    "id": "1368",
     "romanized": "tizi",
     "tifinagh": "ⵜⵉⵣⵉ",
     "arabic": "فج"
   },
   {
-    "id": "1370",
+    "id": "1369",
     "romanized": "tizit",
     "tifinagh": "ⵝⵉⵥⵉⵜ",
     "arabic": "شجرة التين"
   },
   {
-    "id": "1371",
+    "id": "1370",
     "romanized": "tkhancht",
     "tifinagh": "ⵜⵅⴰⵏⵛⵜ",
     "arabic": "كيس"
   },
   {
-    "id": "1372",
+    "id": "1371",
     "romanized": "tlla",
     "tifinagh": "ⵜⵍⵍⴰ",
     "arabic": "تكون/توجد"
   },
   {
-    "id": "1373",
+    "id": "1372",
     "romanized": "tloussi",
     "tifinagh": "ⵜⵍⵓⵙⵉ",
     "arabic": "زبدة"
   },
   {
-    "id": "1374",
+    "id": "1373",
     "romanized": "tmalla",
     "tifinagh": "ⵜⵎⴰⵍⵍⴰ",
     "arabic": "يمامة"
   },
   {
-    "id": "1375",
+    "id": "1374",
     "romanized": "tmijja",
     "tifinagh": "ⵜⵎⵉⵊⵊⴰ",
     "arabic": "حلاقم"
   },
   {
-    "id": "1376",
+    "id": "1375",
     "romanized": "tmourt",
     "tifinagh": "ⵜⵎⵓⵔⵜ",
     "arabic": "أرض"
   },
   {
-    "id": "1377",
+    "id": "1376",
     "romanized": "tne99d",
     "tifinagh": "ⵜⵏⴻⵇⵇⴷ",
     "arabic": "تُنهك نفسك"
   },
   {
-    "id": "1378",
+    "id": "1377",
     "romanized": "toudimt",
     "tifinagh": "ⵜⵓⴷⵉⵎⵜ",
     "arabic": "قطرة"
   },
   {
-    "id": "1379",
+    "id": "1378",
     "romanized": "toudmt",
     "tifinagh": "ⵜⵓⴷⵎⵔⵜ",
     "arabic": "شخصية أو هيئة"
   },
   {
-    "id": "1380",
+    "id": "1379",
     "romanized": "touggnfa",
     "tifinagh": "ⵜⵓⴳⴳⵏⴼⴰ",
     "arabic": "طب عام"
   },
   {
-    "id": "1381",
+    "id": "1380",
     "romanized": "toumrt",
     "tifinagh": "ⵜⵓⵎⵔⵜ",
     "arabic": "فرح"
   },
   {
-    "id": "1382",
+    "id": "1381",
     "romanized": "toura",
     "tifinagh": "ⵜⵓⵔⴰ",
     "arabic": "الآن"
   },
   {
-    "id": "1383",
+    "id": "1382",
     "romanized": "trdzough",
     "tifinagh": "ⵜⵔⴷⵣⵓⵖ",
     "arabic": "أبحث"
   },
   {
-    "id": "1384",
+    "id": "1383",
     "romanized": "tregg7ed",
     "tifinagh": "ⵜⵕⴳⴳⵯⵃⴷ",
     "arabic": "ترجع إلى البيت"
   },
   {
-    "id": "1385",
+    "id": "1384",
     "romanized": "trough",
     "tifinagh": "ⵜⵔⵓⵖ",
     "arabic": "أبكي"
   },
   {
-    "id": "1386",
+    "id": "1385",
     "romanized": "trrid",
     "tifinagh": "ⵜⵔⵔⵉⴷ",
     "arabic": "تربح"
   },
   {
-    "id": "1387",
+    "id": "1386",
     "romanized": "trrou",
     "tifinagh": "ⵜⵔⵔⵓ",
     "arabic": "كثير"
   },
   {
-    "id": "1388",
+    "id": "1387",
     "romanized": "tsawnt",
     "tifinagh": "ⵜⵙⴰⵡⵏⵜ",
     "arabic": "عقبة"
   },
   {
-    "id": "1389",
+    "id": "1388",
     "romanized": "tsegh",
     "tifinagh": "ⵟⵙⵖ",
     "arabic": "نِمت"
   },
   {
-    "id": "1390",
+    "id": "1389",
     "romanized": "ttaçigh",
     "tifinagh": "ⵜⵜⴰⴽⵉⵖ",
     "arabic": "أحس"
   },
   {
-    "id": "1391",
+    "id": "1390",
     "romanized": "ttedjegh",
     "tifinagh": "ⵜⵜⴷⵊⵖ",
     "arabic": "أترك"
   },
   {
-    "id": "1392",
+    "id": "1391",
     "romanized": "tteggd",
     "tifinagh": "ⵜⵜⵯⵓⴳⴷ",
     "arabic": "تخاف"
   },
   {
-    "id": "1393",
+    "id": "1392",
     "romanized": "tżżi",
     "tifinagh": "ⵜⵥⵥⵉ",
     "arabic": "تحلب"
   },
   {
-    "id": "1394",
+    "id": "1393",
     "romanized": "udi",
     "tifinagh": "ⵓⴷⵉ",
     "arabic": "سمن"
   },
   {
-    "id": "1395",
+    "id": "1394",
     "romanized": "unzwi",
     "tifinagh": "ⵓⵏⵣⵡⵉ",
     "arabic": "وجع"
   },
   {
-    "id": "1396",
+    "id": "1395",
     "romanized": "w7did",
     "tifinagh": "ⵡⵃⴹⵉⴹ",
     "arabic": "رضيع"
   },
   {
-    "id": "1397",
+    "id": "1396",
     "romanized": "wcha",
     "tifinagh": "ⵡⵛⴰ",
     "arabic": "أعطى"
   },
   {
-    "id": "1398",
+    "id": "1397",
     "romanized": "wkka",
     "tifinagh": "ⵡⴽⴽⴰ",
     "arabic": "أعاد فعل الشيء"
   },
   {
-    "id": "1399",
+    "id": "1398",
     "romanized": "wla7",
     "tifinagh": "ⵡⵍⴰⵃ",
     "arabic": "لا يوجد"
   },
   {
-    "id": "1400",
+    "id": "1399",
     "romanized": "99imgh",
     "tifinagh": "ⵇⵇⵉⵎⵖ",
     "arabic": "بقيت"
   },
   {
-    "id": "1401",
+    "id": "1400",
     "romanized": "99orgh",
     "tifinagh": "ⵇⵇⵓⵕⵖ",
     "arabic": "يبست"
   },
   {
-    "id": "1402",
+    "id": "1401",
     "romanized": "99igh",
     "tifinagh": "ⵇⵇⵉⵖ",
     "arabic": "ضاجعت"
   },
   {
-    "id": "1403",
+    "id": "1402",
     "romanized": "ddragh",
     "tifinagh": "ⴹⴹⵕⴰⵖ",
     "arabic": "نزل"
   },
   {
-    "id": "1404",
+    "id": "1403",
     "romanized": "yasba7",
     "tifinagh": "ⵢⴰⵚⴱⴰⵃ",
     "arabic": "جميل"
   },
   {
-    "id": "1405",
+    "id": "1404",
     "romanized": "azngh",
     "tifinagh": "ⴰⵣⵏⵖ",
     "arabic": "بعثت"
   },
   {
-    "id": "1406",
+    "id": "1405",
     "romanized": "yażiḍ",
     "tifinagh": "ⵢⴰⵥⵉⴹ",
     "arabic": "ديك"
   },
   {
-    "id": "1407",
+    "id": "1406",
     "romanized": "chenniwgh",
     "tifinagh": "ⵛⵏⵏⵉⵡⵖ",
     "arabic": "غنيت"
   },
   {
-    "id": "1408",
+    "id": "1407",
     "romanized": "yellis",
     "tifinagh": "ⵢⵍⵍⵉⵙ",
     "arabic": "بنته/بنتها"
   },
   {
-    "id": "1409",
+    "id": "1408",
     "romanized": "yemmas",
     "tifinagh": "ⵢⵎⵎⴰⵙ",
     "arabic": "والدته"
   },
   {
-    "id": "1410",
+    "id": "1409",
     "romanized": "yendou",
     "tifinagh": "ⵢⵏⴷⵓ",
     "arabic": "ممخوض"
   },
   {
-    "id": "1411",
+    "id": "1410",
     "romanized": "rechlzgh",
     "tifinagh": "ⵔⵛⵍⵖ",
     "arabic": "تزوجت"
   },
   {
-    "id": "1412",
+    "id": "1411",
     "romanized": "yessis",
     "tifinagh": "ⵢⵙⵙⵉⵙ",
     "arabic": "بناته"
   },
   {
-    "id": "1413",
+    "id": "1412",
     "romanized": "yessmas",
     "tifinagh": "ⵢⵙⵎⴰⵙ",
     "arabic": "أخواته"
   },
   {
-    "id": "1414",
+    "id": "1413",
     "romanized": "ffghagh",
     "tifinagh": "ⴼⴼⵖⴰⵖ",
     "arabic": "خرجت"
   },
   {
-    "id": "1415",
+    "id": "1414",
     "romanized": "ffrgh",
     "tifinagh": "ⴼⴼⵔⵖ",
     "arabic": "دسست"
   },
   {
-    "id": "1416",
+    "id": "1415",
     "romanized": "yggj",
     "tifinagh": "ⵢⴳⴳⵯⵊ",
     "arabic": "بعيد"
   },
   {
-    "id": "1417",
+    "id": "1416",
     "romanized": "ggourgh",
     "tifinagh": "ⴳⴳⵓⵔⵖ",
     "arabic": "مشيت"
   },
   {
-    "id": "1418",
+    "id": "1417",
     "romanized": "ghrsgh",
     "tifinagh": "ⵖⵕⵚⵖ",
     "arabic": "ذبحت"
   },
   {
-    "id": "1419",
+    "id": "1418",
     "romanized": "7oufgh",
     "tifinagh": "ⵃⵓⴼⵖ",
     "arabic": "سقطت"
   },
   {
-    "id": "1420",
+    "id": "1419",
     "romanized": "imḍgh",
     "tifinagh": "ⵉⵎⴹⵖ",
     "arabic": "مررت"
   },
   {
-    "id": "1421",
+    "id": "1420",
     "romanized": "yissint",
     "tifinagh": "ⵢⵉⵙⵙⵉⵏⵜ",
     "arabic": "أخذوها"
   },
   {
-    "id": "1422",
+    "id": "1421",
     "romanized": "iwigh",
     "tifinagh": "ⵉⵡⵉⵖ",
     "arabic": "جلبت"
   },
   {
-    "id": "1423",
+    "id": "1422",
     "romanized": "iwḍgh",
     "tifinagh": "ⵉⵡⴹⵖ",
     "arabic": "وصلت"
   },
   {
-    "id": "1424",
+    "id": "1423",
     "romanized": "lghzmgh",
     "tifinagh": "ⵍⵖⵥⵎⵖ",
     "arabic": "التوى مفصلي"
   },
   {
-    "id": "1425",
+    "id": "1424",
     "romanized": "mmouzzrgh",
     "tifinagh": "ⵎⵎⵓⵣⵣⵔⵖ",
     "arabic": "خرجت عن جادة صوابي"
   },
   {
-    "id": "1426",
+    "id": "1425",
     "romanized": "mḍrgh",
     "tifinagh": "ⵎⴹⵕⵖ",
     "arabic": "رميت"
   },
   {
-    "id": "1427",
+    "id": "1426",
     "romanized": "yndf",
     "tifinagh": "ⵢⵏⴷⴼ",
     "arabic": "مجروح"
   },
   {
-    "id": "1428",
+    "id": "1427",
     "romanized": "nnoumgh",
     "tifinagh": "ⵏⵏⵓⵎⵖ",
     "arabic": "اعتدت"
   },
   {
-    "id": "1429",
+    "id": "1428",
     "romanized": "nyigh",
     "tifinagh": "ⵏⵢⵉⵖ",
     "arabic": "ركبت"
   },
   {
-    "id": "1430",
+    "id": "1429",
     "romanized": "oudfgh",
     "tifinagh": "ⵓⴷⴼⵖ",
     "arabic": "دخلت"
   },
   {
-    "id": "1431",
+    "id": "1430",
     "romanized": "ouḍngh",
     "tifinagh": "ⵓⴹⵏⵖ",
     "arabic": "مَرِضَ"
   },
   {
-    "id": "1432",
+    "id": "1431",
     "romanized": "rwlgh",
     "tifinagh": "ⵕⵡⵍⵖ",
     "arabic": "هربت"
   },
   {
-    "id": "1433",
+    "id": "1432",
     "romanized": "ssfghagh",
     "tifinagh": "ⵙⵙⴼⴼⵖⴰⵖ",
     "arabic": "أخرجت"
   },
   {
-    "id": "1434",
+    "id": "1433",
     "romanized": "ssidfgh",
     "tifinagh": "ⵙⵙⵉⴷⴼⵖ",
     "arabic": "أدخلت"
   },
   {
-    "id": "1435",
+    "id": "1434",
     "romanized": "ssimḍgh",
     "tifinagh": "ⵙⵙⵉⵎⴹⵖ",
     "arabic": "ذهبت لزيارة الطبيب"
   },
   {
-    "id": "1436",
+    "id": "1435",
     "romanized": "ssirdgh",
     "tifinagh": "ⵙⵙⵉⵔⴷⵖ",
     "arabic": "غسلت"
   },
   {
-    "id": "1437",
+    "id": "1436",
     "romanized": "ssoughlgh",
     "tifinagh": "ⵙⵙⵓⵖⵍⵖ",
     "arabic": "أترجم"
   },
   {
-    "id": "1438",
+    "id": "1437",
     "romanized": "ytkessa",
     "tifinagh": "ⵢⵜⴽⵙⵙⴰ",
     "arabic": "يأخذ/يتحمل/يمكن أن يحتوي"
   },
   {
-    "id": "1439",
+    "id": "1438",
     "romanized": "tloulouchgh",
     "tifinagh": "ⵜⵍⵓⵍⵓⵛⵖ",
     "arabic": "أمشي ببطء"
   },
   {
-    "id": "1440",
+    "id": "1439",
     "romanized": "ytmater",
     "tifinagh": "ⵢⵜⵎⴰⵜⵔ",
     "arabic": "يترامى/كثير"
   },
   {
-    "id": "1441",
+    "id": "1440",
     "romanized": "ytratzam",
     "tifinagh": "ⵢⵜⵕⴰⵜⵥⴰⵎ",
     "arabic": "ينفتح"
   },
   {
-    "id": "1442",
+    "id": "1441",
     "romanized": "tradżagh",
     "tifinagh": "ⵜⵔⴰⴷⵥⴰⵖ",
     "arabic": "أكسر"
   },
   {
-    "id": "1443",
+    "id": "1442",
     "romanized": "trough",
     "tifinagh": "ⵜⵔⵓⵖ",
     "arabic": "أبكي"
   },
   {
-    "id": "1444",
+    "id": "1443",
     "romanized": "ytstwa",
     "tifinagh": "ⵢⵜⵙⵟⵡⴰ",
     "arabic": "خاو"
   },
   {
-    "id": "1445",
+    "id": "1444",
     "romanized": "ttazlgh",
     "tifinagh": "ⵜⵜⴰⵣⵍⵖ",
     "arabic": "أجري"
   },
   {
-    "id": "1446",
+    "id": "1445",
     "romanized": "irḍgh",
     "tifinagh": "ⵉⵕⴹⵖ",
     "arabic": "ألبس"
   },
   {
-    "id": "1447",
+    "id": "1446",
     "romanized": "tkkrgh",
     "tifinagh": "ⵜⵜⴽⴽⵯⵔⵖ",
     "arabic": "أسب"
   },
   {
-    "id": "1448",
+    "id": "1447",
     "romanized": "waddragh",
     "tifinagh": "ⵡⴰⴹⴹⵕⴰⵖ",
     "arabic": "أتلف"
   },
   {
-    "id": "1449",
+    "id": "1448",
     "romanized": "wsrgh",
     "tifinagh": "ⵡⵙⵔⵖ",
     "arabic": "شخت"
   },
   {
-    "id": "1450",
+    "id": "1449",
     "romanized": "z3fgh",
     "tifinagh": "ⵣⵄⴼⵖ",
     "arabic": "عضضت"
   },
   {
-    "id": "1451",
+    "id": "1450",
     "romanized": "znouzigh",
     "tifinagh": "ⵣⵏⵓⵣⵉⵖ",
     "arabic": "بعت"
   },
   {
-    "id": "1452",
+    "id": "1451",
     "romanized": "yzwa",
     "tifinagh": "ⵢⵣⵡⴰ",
     "arabic": "جف"
   },
   {
-    "id": "1453",
+    "id": "1452",
     "romanized": "yzze3ret",
     "tifinagh": "ⵢⵣⵣⵄⵔⵜ",
     "arabic": "يقفز يهيجان ( كالحمار)"
   },
   {
-    "id": "1454",
+    "id": "1453",
     "romanized": "ḍfrgh",
     "tifinagh": "ⴹⴼⵕⵖ",
     "arabic": "تبعت"
   },
   {
-    "id": "1455",
+    "id": "1454",
     "romanized": "ḍḍrgh",
     "tifinagh": "ⴹⴹⵕⵖ",
     "arabic": "نزلت"
   },
   {
-    "id": "1456",
+    "id": "1455",
     "romanized": "ṭḍgh",
     "tifinagh": "ⵟⴹⵖ",
     "arabic": "أرضع"
   },
   {
-    "id": "1457",
+    "id": "1456",
     "romanized": "zinzr",
     "tifinagh": "ⵣⵉⵏⵣⵔ",
     "arabic": "خنفساء"
   },
   {
-    "id": "1458",
+    "id": "1457",
     "romanized": "zzanzagh",
     "tifinagh": "ⵣⵣⴰⵏⵣⴰⵖ",
     "arabic": "بعت"
   },
   {
-    "id": "1459",
+    "id": "1458",
     "romanized": "ḍar",
     "tifinagh": "ⴹⴰⵕ",
     "arabic": "رجل"
   },
   {
-    "id": "1460",
+    "id": "1459",
     "romanized": "amya",
     "tifinagh": "ⴰⵎⵢⴰ",
     "arabic": "صفر"
   },
   {
-    "id": "1461",
+    "id": "1460",
     "romanized": "yan",
     "tifinagh": "ⵢⴰⵏ",
     "arabic": "واحد"
   },
   {
-    "id": "1462",
+    "id": "1461",
     "romanized": "sin",
     "tifinagh": "ⵙⵉⵏ",
     "arabic": "إثنان"
   },
   {
-    "id": "1463",
+    "id": "1462",
     "romanized": "kṛaḍ",
     "tifinagh": "ⴽⵕⴰⴹ",
     "arabic": "ثلاثة"
   },
   {
-    "id": "1464",
+    "id": "1463",
     "romanized": "kkuẓ",
     "tifinagh": "ⴽⴽⵓⵥ",
     "arabic": "أربعة"
   },
   {
-    "id": "1465",
+    "id": "1464",
     "romanized": "smmus",
     "tifinagh": "ⵙⵎⵎⵓⵙ",
     "arabic": "خمسة"
   },
   {
-    "id": "1466",
+    "id": "1465",
     "romanized": "ṣḍiṣ",
     "tifinagh": "ⵚⴹⵉⵚ",
     "arabic": "ستة"
   },
   {
-    "id": "1467",
+    "id": "1466",
     "romanized": "sa",
     "tifinagh": "ⵙⴰ",
     "arabic": "سبعة"
   },
   {
-    "id": "1468",
+    "id": "1467",
     "romanized": "tam",
     "tifinagh": "ⵜⴰⵎ",
     "arabic": "ثمانية"
   },
   {
-    "id": "1469",
+    "id": "1468",
     "romanized": "tẓa",
     "tifinagh": "ⵜⵥⴰ",
     "arabic": "تسعة"
   },
   {
-    "id": "1470",
+    "id": "1469",
     "romanized": "mraw",
     "tifinagh": "ⵎⵔⴰⵡ",
     "arabic": "عشرة"
   },
   {
-    "id": "1471",
+    "id": "1470",
     "romanized": "yan d mraw",
     "tifinagh": "ⵢⴰⵏ ⴷ ⵎⵔⴰⵡ",
     "arabic": "إحدى عشر"
   },
   {
-    "id": "1472",
+    "id": "1471",
     "romanized": "sin d mraw",
     "tifinagh": "ⵙⵉⵏ ⴷ ⵎⵔⴰⵡ",
     "arabic": "إثنى عشر"
   },
   {
-    "id": "1473",
+    "id": "1472",
     "romanized": "kraḍ d mraw",
     "tifinagh": "ⴽⵕⴰⴹ ⴷ ⵎⵔⴰ",
     "arabic": "ثلاثة عشر"
   },
   {
-    "id": "1474",
+    "id": "1473",
     "romanized": "kkuẓ d mraw",
     "tifinagh": "ⴽⴽⵓⵥ ⴷ ⵎⵔⴰⵡ",
     "arabic": "أربعة عشر"
   },
   {
-    "id": "1475",
+    "id": "1474",
     "romanized": "smmus d mraw",
     "tifinagh": "ⵙⵎⵎⵓⵙ ⴷ ⵎⵔⴰⵡ",
     "arabic": "خمسة عشر"
   },
   {
-    "id": "1476",
+    "id": "1475",
     "romanized": "ṣḍiṣ d mraw",
     "tifinagh": "ⵚⴹⵉⵚ ⴷ ⵎⵔⴰⵡ",
     "arabic": "ستة عشر"
   },
   {
-    "id": "1477",
+    "id": "1476",
     "romanized": "sa d mraw",
     "tifinagh": "ⵙⴰ ⴷ ⵎⵔⴰⵡ",
     "arabic": "سبعة عشر"
   },
   {
-    "id": "1478",
+    "id": "1477",
     "romanized": "tam d mraw",
     "tifinagh": "ⵜⴰⵎ ⴷ ⵎⵔⴰⵡ",
     "arabic": "ثمانية عشر"
   },
   {
-    "id": "1479",
+    "id": "1478",
     "romanized": "tẓa d mraw",
     "tifinagh": "ⵜⵥⴰ ⴷ ⵎⵔⴰⵡ",
     "arabic": "تسعة عشر"
   },
   {
-    "id": "1480",
+    "id": "1479",
     "romanized": "simraw",
     "tifinagh": "ⵙⵉⵎⵔⴰⵡ",
     "arabic": "عشرون"
   },
   {
-    "id": "1481",
+    "id": "1480",
     "romanized": "simraw d yan",
     "tifinagh": "ⵙⵉⵎⵔⴰⵡ ⴷ ⵢⴰⵏ",
     "arabic": "واحد و عشرون"
   },
   {
-    "id": "1482",
+    "id": "1481",
     "romanized": "simraw d sin",
     "tifinagh": "ⵙⵉⵎⵔⴰⵡ ⴷ ⵙⵉⵏ",
     "arabic": "إثنان و عشرون"
   },
   {
-    "id": "1483",
+    "id": "1482",
     "romanized": "simraw d kraḍ",
     "tifinagh": "ⵙⵉⵎⵔⴰⵡ ⴷ ⴽⵕⴰⴹ",
     "arabic": "ثلاثة و عشرون"
   },
   {
-    "id": "1484",
+    "id": "1483",
     "romanized": "kṛamraw",
     "tifinagh": "ⴽⵕⴰⵎⵔⴰⵡ",
     "arabic": "ثلاثون"
   },
   {
-    "id": "1485",
+    "id": "1484",
     "romanized": "kkumraw",
     "tifinagh": "ⴽⴽⵓⵎⵔⴰⵡ",
     "arabic": "أربعون"
   },
   {
-    "id": "1486",
+    "id": "1485",
     "romanized": "smmumraw",
     "tifinagh": "ⵙⵎⵎⵓⵎⵔⴰⵡ",
     "arabic": "خمسون"
   },
   {
-    "id": "1487",
+    "id": "1486",
     "romanized": "ṣḍimraw",
     "tifinagh": "ⵚⴹⵉⵎⵔⴰⵡ",
     "arabic": "ستون"
   },
   {
-    "id": "1488",
+    "id": "1487",
     "romanized": "samraw",
     "tifinagh": "ⵙⴰⵎⵔⴰⵡ",
     "arabic": "سبعون"
   },
   {
-    "id": "1489",
+    "id": "1488",
     "romanized": "Tamraw",
     "tifinagh": "ⵜⴰⵎⵔⴰⵡ",
     "arabic": "ثمانون"
   },
   {
-    "id": "1490",
+    "id": "1489",
     "romanized": "tẓamraw",
     "tifinagh": "ⵜⵥⴰⵎⵔⴰⵡ",
     "arabic": "تسعون"
   },
   {
-    "id": "1491",
+    "id": "1490",
     "romanized": "timiḍi",
     "tifinagh": "ⵜⵉⵎⵉⴹⵉ",
     "arabic": "مائة"
   },
   {
-    "id": "1492",
+    "id": "1491",
     "romanized": "timiḍi d yan",
     "tifinagh": "ⵜⵉⵎⵉⴹⵉ ⴷ ⵢⴰⵏ",
     "arabic": "مائة وواحد"
   },
   {
-    "id": "1493",
+    "id": "1492",
     "romanized": "timiḍi d sin",
     "tifinagh": "ⵜⵉⵎⵉⴹⵉ ⴷ ⵙⵉⵏ",
     "arabic": "مائة واثنان"
   },
   {
-    "id": "1494",
+    "id": "1493",
     "romanized": "timiḍi d kṛaḍ",
     "tifinagh": "ⵜⵉⵎⵉⴹⵉ ⴷ ⴽⵕⴰⴹ",
     "arabic": "مائة وثلاثة"
   },
   {
-    "id": "1495",
+    "id": "1494",
     "romanized": "timiḍi d kkuẓ",
     "tifinagh": "ⵜⵉⵎⵉⴹⵉ ⴷ ⴽⴽⵓⵥ",
     "arabic": "مائة وأربعة"
   },
   {
-    "id": "1496",
+    "id": "1495",
     "romanized": "timiḍi d smmus",
     "tifinagh": "ⵜⵉⵎⵉⴹⵉ ⴷ ⵙⵎⵎⵓⵙ",
     "arabic": "مائة وخمسة"
   },
   {
-    "id": "1497",
+    "id": "1496",
     "romanized": "timiḍi d ṣḍiṣ",
     "tifinagh": "ⵜⵉⵎⵉⴹⵉ ⴷ ⵚⴹⵉⵚ",
     "arabic": "مائة وستة"
   },
   {
-    "id": "1498",
+    "id": "1497",
     "romanized": "timiḍi d sa",
     "tifinagh": "ⵜⵉⵎⵉⴹⵉ ⴷ ⵙⴰ",
     "arabic": "مائة وسبعة"
   },
   {
-    "id": "1499",
+    "id": "1498",
     "romanized": "timiḍi d tam",
     "tifinagh": "ⵜⵉⵎⵉⴹⵉ ⴷ ⵜⴰⵎ",
     "arabic": "مائة وثمانية"
   },
   {
-    "id": "1500",
+    "id": "1499",
     "romanized": "timiḍi d tẓa",
     "tifinagh": "ⵜⵉⵎⵉⴹⵉ ⴷ ⵜⵥⴰ",
     "arabic": "مائة وتسعة"
   },
   {
-    "id": "1501",
+    "id": "1500",
     "romanized": "timiḍi d mraw",
     "tifinagh": "ⵜⵉⵎⵉⴹⵉ ⴷ ⵎⵔⴰⵡ",
     "arabic": "مائة وعشرة"
   },
   {
-    "id": "1502",
+    "id": "1501",
     "romanized": "snat tmaḍ",
     "tifinagh": "ⵙⵏⴰⵜ ⵜⵎⴰⴹ",
     "arabic": "مائتان"
   },
   {
-    "id": "1503",
+    "id": "1502",
     "romanized": "kraḍt tmaḍ",
     "tifinagh": "ⴽⵕⴰⴹⵜ ⵜⵎⴰⴹ",
     "arabic": "ثلاثمائة"
   },
   {
-    "id": "1504",
+    "id": "1503",
     "romanized": "kkuẓt tmaḍ",
     "tifinagh": "ⴽⴽⵓⵥⵜ ⵜⵎⴰⴹ",
     "arabic": "أربعمائة"
   },
   {
-    "id": "1505",
+    "id": "1504",
     "romanized": "smmust tmaḍ",
     "tifinagh": "ⵙⵎⵎⵓⵙⵜ ⵜⵎⴰⴹ",
     "arabic": "خمسمائة"
   },
   {
-    "id": "1506",
+    "id": "1505",
     "romanized": "ifḍ",
     "tifinagh": "ⵉⴼⴹ",
     "arabic": "ألف"
   },
   {
-    "id": "1507",
+    "id": "1506",
     "romanized": "mraw n ifḍn",
     "tifinagh": "ⵎⵔⴰⵡ ⵏ ⵉⴼⴹⵏ",
     "arabic": "عشرة آلاف"
   },
   {
-    "id": "1508",
+    "id": "1507",
     "romanized": "timiḍi n ifḍn",
     "tifinagh": "ⵜⵉⵎⵉⴹⵉ ⵏ ⵉⴼⴹⵏ",
     "arabic": "مائة ألف"
   },
   {
-    "id": "1509",
+    "id": "1508",
     "romanized": "Agndid",
     "tifinagh": "ⴰⴳⵏⴷⵉⴷ",
     "arabic": "مليون"
   },
   {
-    "id": "1510",
+    "id": "1509",
     "romanized": "ifḍ n igndad",
     "tifinagh": "ⵉⴼⴹ ⵏ ⵉⴳⵏⴷⴰⴷ",
     "arabic": "مليار"
   },
   {
-    "id": "1511",
+    "id": "1510",
     "romanized": "Azyan",
     "tifinagh": "ⴰⵣⵢⵏ",
     "arabic": "نصف"
   },
   {
-    "id": "1512",
+    "id": "1511",
     "romanized": "ha99at",
     "tifinagh": "ⵀⴰⵇⵇⴰⵜ",
     "arabic": "ها هي"
   },
   {
-    "id": "1513",
+    "id": "1512",
     "romanized": "Zouyenni",
     "tifinagh": "ⵣⵓⵢⵏⵏⵉ",
     "arabic": "لذلك"
   },
   {
-    "id": "1514",
+    "id": "1513",
     "romanized": "Zouya",
     "tifinagh": "ⵣⵓⵢⴰ",
     "arabic": "لهذا"
   },
   {
-    "id": "1515",
+    "id": "1514",
     "romanized": "akd",
     "tifinagh": "ⴰⴽⴷ",
     "arabic": "على التوقيت"
   },
   {
-    "id": "1516",
+    "id": "1515",
     "romanized": "imanns",
     "tifinagh": "ⵉⵎⴰⵏⵏⵙ",
     "arabic": "وحده/وحدها"
   },
   {
-    "id": "1517",
+    "id": "1516",
     "romanized": "ssa",
     "tifinagh": "ⵙⵙⴰ",
     "arabic": "من هنا"
   },
   {
-    "id": "1518",
+    "id": "1517",
     "romanized": "mala",
     "tifinagh": "ⵎⴰⵍⴰ",
     "arabic": "إذا"
   },
   {
-    "id": "1519",
+    "id": "1518",
     "romanized": "zggami",
     "tifinagh": "ⵣⴳⴳⵯⴰⵎⵉ",
     "arabic": "منذ"
   },
   {
-    "id": "1520",
+    "id": "1519",
     "romanized": "il9nni",
     "tifinagh": "ⵉⵍⵇⵏⵏⵉ",
     "arabic": "ذلك الوقت"
   },
   {
-    "id": "1521",
+    "id": "1520",
     "romanized": "winat",
     "tifinagh": "ⵡⵉⵏⴰⵜ",
     "arabic": "فلان/ذلك الشيء"
   },
   {
-    "id": "1522",
+    "id": "1521",
     "romanized": "tinat",
     "tifinagh": "ⵜⵉⵏⴰⵜ",
     "arabic": "فلانة/تلك الحاجة"
   },
   {
-    "id": "1523",
+    "id": "1522",
     "romanized": "mindi",
     "tifinagh": "ⵎⵉⵏⴷⵉ",
     "arabic": "ما"
   },
   {
-    "id": "1524",
+    "id": "1523",
     "romanized": "akidk",
     "tifinagh": "ⴰⴽⵉⴷⴽ",
     "arabic": "معكَ"
   },
   {
-    "id": "1525",
+    "id": "1524",
     "romanized": "akidm",
     "tifinagh": "ⴰⴽⵉⴷⵎ",
     "arabic": "معكِ"
   },
   {
-    "id": "1526",
+    "id": "1525",
     "romanized": "akids",
     "tifinagh": "ⴰⴽⵉⴷⵙ",
     "arabic": "معه"
   },
   {
-    "id": "1527",
+    "id": "1526",
     "romanized": "akidwn",
     "tifinagh": "ⴰⴽⵉⴷⵡⵏ",
     "arabic": "معكم"
   },
   {
-    "id": "1528",
+    "id": "1527",
     "romanized": "akidngh",
     "tifinagh": "ⴰⴽⵉⴷⵏⵖ",
     "arabic": "معنا"
   },
   {
-    "id": "1529",
+    "id": "1528",
     "romanized": "akidsn",
     "tifinagh": "ⴰⴽⵉⴷⵙⵏ",
     "arabic": "معهم"
   },
   {
-    "id": "1530",
+    "id": "1529",
     "romanized": "akidsnt",
     "tifinagh": "ⴰⴽⵉⴷⵙⵏⵜ",
     "arabic": "معهن"
   },
   {
-    "id": "1531",
+    "id": "1530",
     "romanized": "ayou",
     "tifinagh": "ⴰⵢⵓ",
     "arabic": "لهذا"
   },
   {
-    "id": "1532",
+    "id": "1531",
     "romanized": "maynzi",
     "tifinagh": "ⵎⴰⵢⵏⵣⵉ",
     "arabic": "لأن"
   },
   {
-    "id": "1533",
+    "id": "1532",
     "romanized": "manswouyi yssghrn",
     "tifinagh": "ⵎⴰⵏⵙⵡⵓⵢⵉ",
     "arabic": "من درسني ؟"
   },
   {
-    "id": "1534",
+    "id": "1533",
     "romanized": "manswouch yssghrn",
     "tifinagh": "ⵎⴰⵏⵙⵡⵓⵛ",
     "arabic": "من درسك ؟"
   },
   {
-    "id": "1535",
+    "id": "1534",
     "romanized": "manswouchm yssghrn",
     "tifinagh": "ⵎⴰⵏⵙⵡⵓⵛⵎ",
     "arabic": "من درسكِ ؟"
   },
   {
-    "id": "1536",
+    "id": "1535",
     "romanized": "manswout yssghrn",
     "tifinagh": "ⵎⴰⵏⵙⵡⵓⵜ",
     "arabic": "من درسه ؟"
   },
   {
-    "id": "1537",
+    "id": "1536",
     "romanized": "manswout yssghrn",
     "tifinagh": "ⵎⴰⵏⵙⵡⵓⵜ",
     "arabic": "من درسها ؟"
   },
   {
-    "id": "1538",
+    "id": "1537",
     "romanized": "manswoungh yssghrn",
     "tifinagh": "ⵎⴰⵏⵙⵡⵓⵏⵖ",
     "arabic": "من درسنا ؟"
   },
   {
-    "id": "1539",
+    "id": "1538",
     "romanized": "manswoum yssghrn",
     "tifinagh": "ⵎⴰⵏⵙⵡⵓⵎ",
     "arabic": "من درسكم ؟"
   },
   {
-    "id": "1540",
+    "id": "1539",
     "romanized": "manswoutn yssghrn",
     "tifinagh": "ⵎⴰⵏⵙⵡⵓⵜⵏ",
     "arabic": "من درسهم ؟"
   },
   {
-    "id": "1541",
+    "id": "1540",
     "romanized": "manswoutn yssghrn",
     "tifinagh": "ⵎⴰⵏⵙⵡⵓⵜⵏ",
     "arabic": "من درسهن ؟"
   },
   {
-    "id": "1542",
+    "id": "1541",
     "romanized": "awrras",
     "tifinagh": "ⴰⵡⵔⵔⴰⵙ",
     "arabic": "خلفه"
   },
   {
-    "id": "1543",
+    "id": "1542",
     "romanized": "zzis",
     "tifinagh": "ⵣⵣⵉⵙ",
     "arabic": "منه"
   },
   {
-    "id": "1544",
+    "id": "1543",
     "romanized": "tlaghriyyi",
     "tifinagh": "ⵜⵍⴰⵖⵔⵉⵢⵢⵉ",
     "arabic": "اعتقدت"
   },
   {
-    "id": "1545",
+    "id": "1544",
     "romanized": "waha",
     "tifinagh": "ⵡⴰⵀⴰ",
     "arabic": "فقط"
   },
   {
-    "id": "1546",
+    "id": "1545",
     "romanized": "illinni",
     "tifinagh": "ⵉⵍⵍⵉⵏⵏⵉ",
     "arabic": "قبل مدة قصيرة"
   },
   {
-    "id": "1547",
+    "id": "1546",
     "romanized": "9mmi",
     "tifinagh": "ⵇⵎⵎⵉ",
     "arabic": "لما"
   },
   {
-    "id": "1548",
+    "id": "1547",
     "romanized": "adwi",
     "tifinagh": "ⴰⴷⵡⵉ",
     "arabic": "تحت"
   },
   {
-    "id": "1549",
+    "id": "1548",
     "romanized": "aghirin",
     "tifinagh": "ⴰⵖⵓⵔⵉⵏ",
     "arabic": "بعد/فوق"
   },
   {
-    "id": "1550",
+    "id": "1549",
     "romanized": "amech",
     "tifinagh": "ⴰⵎⵛ",
     "arabic": "مثلما"
   },
   {
-    "id": "1551",
+    "id": "1550",
     "romanized": "awrin",
     "tifinagh": "ⴰⵡⵔⵉⵏ",
     "arabic": "بعد"
   },
   {
-    "id": "1552",
+    "id": "1551",
     "romanized": "awrn",
     "tifinagh": "ⴰⵡⵔⵏ",
     "arabic": "قبل"
   },
   {
-    "id": "1553",
+    "id": "1552",
     "romanized": "chekk",
     "tifinagh": "ⵛⴽ",
     "arabic": "أنتَ"
   },
   {
-    "id": "1554",
+    "id": "1553",
     "romanized": "chemm",
     "tifinagh": "ⵛⵎ",
     "arabic": "أنتِ"
   },
   {
-    "id": "1555",
+    "id": "1554",
     "romanized": "chra",
     "tifinagh": "ⵛⵕⴰ",
     "arabic": "شيء"
   },
   {
-    "id": "1556",
+    "id": "1555",
     "romanized": "daffar",
     "tifinagh": "ⴷⴰⴼⴼⴰⵔ",
     "arabic": "خلف"
   },
   {
-    "id": "1557",
+    "id": "1556",
     "romanized": "dffr",
     "tifinagh": "ⴷⴼⴼⵔ",
     "arabic": "وراء"
   },
   {
-    "id": "1558",
+    "id": "1557",
     "romanized": "dinni",
     "tifinagh": "ⴷⵉⵏⵏⵉ",
     "arabic": "هناك"
   },
   {
-    "id": "1559",
+    "id": "1558",
     "romanized": "frwaytcha",
     "tifinagh": "ⴼⵔⵡⴰⵢⵜⵛⴰ",
     "arabic": "بعد غد"
   },
   {
-    "id": "1560",
+    "id": "1559",
     "romanized": "fr frwaytcha",
     "tifinagh": "ⴼⵔ ⴼⵔⵡⴰⵢⵜⵛⴰ",
     "arabic": "بعد بعد غد"
   },
   {
-    "id": "1561",
+    "id": "1560",
     "romanized": "fryiḍnnaḍ",
     "tifinagh": "ⴼⵔⵢⵉⴹⵏⵏⴰⴹ",
     "arabic": "قبل أمس"
   },
   {
-    "id": "1562",
+    "id": "1561",
     "romanized": "ghri",
     "tifinagh": "ⵖⵔⵉ",
     "arabic": "عندي"
   },
   {
-    "id": "1563",
+    "id": "1562",
     "romanized": "ghrkmt",
     "tifinagh": "ⵖⵔⴽⵎⵜ",
     "arabic": "عندكن"
   },
   {
-    "id": "1564",
+    "id": "1563",
     "romanized": "ghrm!",
     "tifinagh": "ⵖⵔⵎ!",
     "arabic": "احذري"
   },
   {
-    "id": "1565",
+    "id": "1564",
     "romanized": "ghrnegh",
     "tifinagh": "ⵖⵔⵏⵖ",
     "arabic": "عندنا"
   },
   {
-    "id": "1566",
+    "id": "1565",
     "romanized": "ghrs",
     "tifinagh": "ⵖⵔⵙ",
     "arabic": "عندها"
   },
   {
-    "id": "1567",
+    "id": "1566",
     "romanized": "ghrsn",
     "tifinagh": "ⵖⵔⵙⵏ",
     "arabic": "عندهم"
   },
   {
-    "id": "1568",
+    "id": "1567",
     "romanized": "ghrwen",
     "tifinagh": "ⵖⵔⵡⵏ",
     "arabic": "عندكم"
   },
   {
-    "id": "1569",
+    "id": "1568",
     "romanized": "jaj",
     "tifinagh": "ⵊⴰⵊ",
     "arabic": "داخل"
   },
   {
-    "id": "1570",
+    "id": "1569",
     "romanized": "ma",
     "tifinagh": "ⵎⴰ",
     "arabic": "هل"
   },
   {
-    "id": "1571",
+    "id": "1570",
     "romanized": "macha",
     "tifinagh": "ⵎⴰⵛⴰ",
     "arabic": "لكن"
   },
   {
-    "id": "1572",
+    "id": "1571",
     "romanized": "mamk",
     "tifinagh": "ⵎⴰⵎⴽ",
     "arabic": "ماذا"
   },
   {
-    "id": "1573",
+    "id": "1572",
     "romanized": "mani",
     "tifinagh": "ⵎⴰⵏⵉ",
     "arabic": "أين"
   },
   {
-    "id": "1574",
+    "id": "1573",
     "romanized": "manis",
     "tifinagh": "ⵎⴰⵏⵉⵙ",
     "arabic": "من أين"
   },
   {
-    "id": "1575",
+    "id": "1574",
     "romanized": "marra",
     "tifinagh": "ⵎⴰⵕⵕⴰ",
     "arabic": "كل"
   },
   {
-    "id": "1576",
+    "id": "1575",
     "romanized": "maymmi",
     "tifinagh": "ⵎⴰⵢⵎⵎⵉ",
     "arabic": "لماذا"
   },
   {
-    "id": "1577",
+    "id": "1576",
     "romanized": "melmi",
     "tifinagh": "ⵎⵍⵎⵉ",
     "arabic": "متى"
   },
   {
-    "id": "1578",
+    "id": "1577",
     "romanized": "netch",
     "tifinagh": "ⵏⵏⵜⵛ",
     "arabic": "أنا"
   },
   {
-    "id": "1579",
+    "id": "1578",
     "romanized": "netchin",
     "tifinagh": "ⵏⵜⵛⵉⵏ",
     "arabic": "نحن"
   },
   {
-    "id": "1580",
+    "id": "1579",
     "romanized": "netnin/ nehnin",
     "tifinagh": "ⵏⵀⵏⵉⵏ",
     "arabic": "هم"
   },
   {
-    "id": "1581",
+    "id": "1580",
     "romanized": "netta",
     "tifinagh": "ⵏⵜⵜⴰ",
     "arabic": "هو"
   },
   {
-    "id": "1582",
+    "id": "1581",
     "romanized": "nettat",
     "tifinagh": "ⵏⵜⵜⴰⵜ",
     "arabic": "هي"
   },
   {
-    "id": "1583",
+    "id": "1582",
     "romanized": "nitnti / nnhninti",
     "tifinagh": "ⵏⵏⵀⵏⵉⵏⵜⵉ",
     "arabic": "هن"
   },
   {
-    "id": "1584",
+    "id": "1583",
     "romanized": "nngh",
     "tifinagh": "ⵏⵏⵖ",
     "arabic": "ملكنا"
   },
   {
-    "id": "1585",
+    "id": "1584",
     "romanized": "nniḍn",
     "tifinagh": "ⵏⵏⵉⴹⵏ",
     "arabic": "آخر"
   },
   {
-    "id": "1586",
+    "id": "1585",
     "romanized": "nnk",
     "tifinagh": "ⵏⵏⴽ",
     "arabic": "ملكك"
   },
   {
-    "id": "1587",
+    "id": "1586",
     "romanized": "nnoun",
     "tifinagh": "ⵏⵏⵓⵏ",
     "arabic": "ملككم"
   },
   {
-    "id": "1588",
+    "id": "1587",
     "romanized": "nns",
     "tifinagh": "ⵏⵏⵙ",
     "arabic": "ملكه"
   },
   {
-    "id": "1589",
+    "id": "1588",
     "romanized": "nnsn",
     "tifinagh": "ⵏⵏⵙⵏ",
     "arabic": "ملكهم"
   },
   {
-    "id": "1590",
+    "id": "1589",
     "romanized": "ntta alam",
     "tifinagh": "ⵏⵜⵜⴰ ⴰⵍⴰⵎ",
     "arabic": "هي التي"
   },
   {
-    "id": "1591",
+    "id": "1590",
     "romanized": "oussawn",
     "tifinagh": "ⵓⵙⴰⵡⵏ",
     "arabic": "فوق"
   },
   {
-    "id": "1592",
+    "id": "1591",
     "romanized": "snnaj",
     "tifinagh": "ⵙⵏⵏⴰⵊ",
     "arabic": "فوق"
   },
   {
-    "id": "1593",
+    "id": "1592",
     "romanized": "swadday",
     "tifinagh": "ⵙⵡⴰⴷⴷⴰⵢ",
     "arabic": "تحت"
   },
   {
-    "id": "1594",
+    "id": "1593",
     "romanized": "tennin",
     "tifinagh": "ⵜⵏⵏⵉⵏ",
     "arabic": "اولائك بنات"
   },
   {
-    "id": "1595",
+    "id": "1594",
     "romanized": "walaynni",
     "tifinagh": "ⵡⴰⵍⴰⵢⵏⵏⵉ",
     "arabic": "لكن"
   },
   {
-    "id": "1596",
+    "id": "1595",
     "romanized": "wennin",
     "tifinagh": "ⵡⵏⵏⵉⵏ",
     "arabic": "اولائك"
   },
   {
-    "id": "1597",
+    "id": "1596",
     "romanized": "wou",
     "tifinagh": "ⵡⵓ",
     "arabic": "هادا"
   },
   {
-    "id": "1598",
+    "id": "1597",
     "romanized": "yal asggas",
     "tifinagh": "ⵢⴰⵍ ⴰⵙⴳⴳⵯⴰⵙ",
     "arabic": "سنويا"
   },
   {
-    "id": "1599",
+    "id": "1598",
     "romanized": "yal ass",
     "tifinagh": "ⵢⴰⵍ ⴰⵙⵙ",
     "arabic": "يوميا/كل يوم"
   },
   {
-    "id": "1600",
+    "id": "1599",
     "romanized": "yal ayyour",
     "tifinagh": "ⵢⴰⵍ ⴰⵢⵢⵓⵔ",
     "arabic": "شهريا"
   },
   {
-    "id": "1601",
+    "id": "1600",
     "romanized": "yal imalas",
     "tifinagh": "ⵢⴰⵍ ⵉⵎⴰⵍⴰⵙ",
     "arabic": "أسبوعيا"
   },
   {
-    "id": "1602",
+    "id": "1601",
     "romanized": "zat",
     "tifinagh": "ⵣⴰⵜ",
     "arabic": "قرب"
   },
   {
-    "id": "1603",
+    "id": "1602",
     "romanized": "zzath",
     "tifinagh": "ⵣⵣⴰⵜ",
     "arabic": "أمام"
   },
   {
-    "id": "1604",
+    "id": "1603",
     "romanized": "zzik",
     "tifinagh": "ⵣⵉⴽ",
     "arabic": "بكَ"
   },
   {
-    "id": "1605",
+    "id": "1604",
     "romanized": "zzim",
     "tifinagh": "ⵣⵉⵎ",
     "arabic": "بكِ"
   },
   {
-    "id": "1606",
+    "id": "1605",
     "romanized": "çnnimti",
     "tifinagh": "ⴿⵏⵏⵉⵎⵜⵉ",
     "arabic": "أنتن ( ç= ch germanique)"
   },
   {
-    "id": "1607",
+    "id": "1606",
     "romanized": "çnniw",
     "tifinagh": "ⴿⵏⵏⵉⵡ",
     "arabic": "أنتم (ç = ch germanique)"
   },
   {
-    "id": "1608",
+    "id": "1607",
     "romanized": "achkou",
     "tifinagh": "ⴰⵛⴽⵓ",
     "arabic": "لأن"
   },
   {
-    "id": "1609",
+    "id": "1608",
     "romanized": "woun",
     "tifinagh": "ⵡⵓⵏ",
     "arabic": "الذي"
   },
   {
-    "id": "1610",
+    "id": "1609",
     "romanized": "Khangh",
     "tifinagh": "ⵅⴰⵏⵖ",
     "arabic": "علينا"
   },
   {
-    "id": "1611",
+    "id": "1610",
     "romanized": "toutlayt ta3rabt/tasrghint",
     "tifinagh": "ⵜⵉⵜⵍⴰⵢⵜ ⵜⴰⵄⵔⴰⴱⵜ/ⵜⴰⵙⵔⵖⵉⵏⵜ",
     "arabic": "اللغة العربية"
   },
   {
-    "id": "1612",
+    "id": "1611",
     "romanized": "achwwal/ichwwaln",
     "tifinagh": "ⴰⵛⵡⵡⴰⵍ/ⵉⵛⵡⵡⴰⵍⵏ",
     "arabic": "عامل حصاد/عمال حصاد"
   },
   {
-    "id": "1613",
+    "id": "1612",
     "romanized": "asrghi",
     "tifinagh": "ⴰⵙⵔⵖⵉ",
     "arabic": "حرقْ"
   },
   {
-    "id": "1614",
+    "id": "1613",
     "romanized": "asrghin",
     "tifinagh": "ⴰⵙⵔⵖⵉⵏ",
     "arabic": "عربي"
   },
   {
-    "id": "1615",
+    "id": "1614",
     "romanized": "askikḍ",
     "tifinagh": "ⴰⵙⴽⵉⴽⴹ",
     "arabic": "دغدغة"
   },
   {
-    "id": "1616",
+    "id": "1615",
     "romanized": "9arnnas",
     "tifinagh": "ⵇⵇⴰⵔⵏⵏⴰⵙ",
     "arabic": "يُسمى"
   },
   {
-    "id": "1617",
+    "id": "1616",
     "romanized": "oumas",
     "tifinagh": "ⵓⵎⴰⵙ",
     "arabic": "أخوه"
   },
   {
-    "id": "1618",
+    "id": "1617",
     "romanized": "oultmas",
     "tifinagh": "ⵓⵍⵜⵎⴰⵙ",
     "arabic": "أخته"
   },
   {
-    "id": "1619",
+    "id": "1618",
     "romanized": "tayrsa",
     "tifinagh": "ⵜⴰⵢⵔⵙⴰ",
     "arabic": "سكة المحراث"
   },
   {
-    "id": "1620",
+    "id": "1619",
     "romanized": "tighwawin",
     "tifinagh": "ⵜⵉⵖⵡⴰⵡⵉⵏ",
     "arabic": "قمح محمص"
   },
   {
-    "id": "1621",
+    "id": "1620",
     "romanized": "tinzar",
     "tifinagh": "ⵜⵉⵏⵣⴰⵔ",
     "arabic": "أنف"
   },
   {
-    "id": "1622",
+    "id": "1621",
     "romanized": "memmis",
     "tifinagh": "ⵎⴻⵎⵎⵉⵙ",
     "arabic": "ابنه/ابنها"
   },
   {
-    "id": "1623",
+    "id": "1622",
     "romanized": "yellis",
     "tifinagh": "ⵢⵍⵍⵉⵙ",
     "arabic": "ابنته/ابنتها"
   },
   {
-    "id": "1624",
+    "id": "1623",
     "romanized": "tabrat",
     "tifinagh": "ⵜⴰⴱⵔⴰⵜ",
     "arabic": "رسالة"
   },
   {
-    "id": "1625",
+    "id": "1624",
     "romanized": "ighs",
     "tifinagh": "ⵉⵖⵙ",
     "arabic": "عظم"
   },
   {
-    "id": "1626",
+    "id": "1625",
     "romanized": "tizit",
     "tifinagh": "ⵜⵉⵣⵉⵜ",
     "arabic": "بعوضة"
   },
   {
-    "id": "1627",
+    "id": "1626",
     "romanized": "tisit",
     "tifinagh": "ⵜⵉⵙⵉⵜ",
     "arabic": "مرآة"
   },
   {
-    "id": "1628",
+    "id": "1627",
     "romanized": "zzouytgh",
     "tifinagh": "ⵥⵥⵓⵢⵜⵖ",
     "arabic": "إشتقتُ"
   },
   {
-    "id": "1629",
+    "id": "1628",
     "romanized": "iwriji",
     "tifinagh": "ⵉⵡⵔⵉⵊⵉ",
     "arabic": "عنكبوت"
   },
   {
-    "id": "1630",
+    "id": "1629",
     "romanized": "tala",
     "tifinagh": "ⵜⴰⵍⴰ",
     "arabic": "منبع ماء"
   },
   {
-    "id": "1631",
+    "id": "1630",
     "romanized": "taziri",
     "tifinagh": "ⵜⴰⵣⵉⵔⵉ",
     "arabic": "قمر"
   },
   {
-    "id": "1632",
+    "id": "1631",
     "romanized": "iligh",
     "tifinagh": "ⵉⵍⵉⵖ",
     "arabic": "أكون"
+  },
+  {
+    "id": "1632",
+    "romanized": "tayzint",
+    "tifinagh": "ⵜⴰⵢⵣⵉⵏⵜ",
+    "arabic": "نبات حرِّيكة"
+  },
+  {
+    "id": "1633",
+    "romanized": "azoul",
+    "tifinagh": "ⴰⵣⵓⵍ",
+    "arabic": "سلام"
+  },
+  {
+    "id": "1634",
+    "romanized": "tanmmirt",
+    "tifinagh": "ⵜⴰⵏⵎⵎⵉⵔⵜ",
+    "arabic": "شكرا"
+  },
+  {
+    "id": "1635",
+    "romanized": "samigh",
+    "tifinagh": "ⵙⴰⵎⵉⵖ",
+    "arabic": "أحاول الإقناع بدبلوماسية/أترصد"
+  },
+  {
+    "id": "1636",
+    "romanized": "żmmgh",
+    "tifinagh": "ⵥⵎⵎⵖ",
+    "arabic": "أضغط/أعصر"
+  },
+  {
+    "id": "1637",
+    "romanized": "mmoungh",
+    "tifinagh": "ⵎⵎⵓⵏⵖ",
+    "arabic": "إجتمعت"
+  },
+  {
+    "id": "1638",
+    "romanized": "skkrgh",
+    "tifinagh": "ⵙⴽⴽⵔⵖ",
+    "arabic": "أفقت"
+  },
+  {
+    "id": "1639",
+    "romanized": "taghnnant",
+    "tifinagh": "ⵜⴰⵖⵏⵏⴰⵏⵜ",
+    "arabic": "عناد"
+  },
+  {
+    "id": "1640",
+    "romanized": "tachwicht",
+    "tifinagh": "ⵜⴰⵛⵡⵉⵛⵜ",
+    "arabic": "هبرة لحم"
+  },
+  {
+    "id": "1641",
+    "romanized": "ousawn",
+    "tifinagh": "ⵓⵙⴰⵡⵏ",
+    "arabic": "فوق"
+  },
+  {
+    "id": "1642",
+    "romanized": "ymmas",
+    "tifinagh": "ⵢⵎⵎⴰⵙ",
+    "arabic": "أمه/أمها"
+  },
+  {
+    "id": "1643",
+    "romanized": "ybbas",
+    "tifinagh": "ⵢⴱⴱⴰⵙ",
+    "arabic": "أبوه/أبوها"
+  },
+  {
+    "id": "1644",
+    "romanized": "taltchint",
+    "tifinagh": "ⵜⴰⵍⵜⵛⵉⵏⵜ",
+    "arabic": "مندرينة"
+  },
+  {
+    "id": "1645",
+    "romanized": "jjort",
+    "tifinagh": "ⵊⵊⵓⵕⵜ",
+    "arabic": "أثر"
+  },
+  {
+    "id": "1646",
+    "romanized": "ss9sigh",
+    "tifinagh": "ⵙⵙⵇⵙⵉⵖ",
+    "arabic": "أسألُ"
+  },
+  {
+    "id": "1647",
+    "romanized": "mrirt",
+    "tifinagh": "ⵎⵔⵉⵔⵜ",
+    "arabic": "مسار"
+  },
+  {
+    "id": "1648",
+    "romanized": "atay",
+    "tifinagh": "ⴰⵜⴰⵢ",
+    "arabic": "شاي"
+  },
+  {
+    "id": "1649",
+    "romanized": "atrar",
+    "tifinagh": "ⴰⵜⵔⴰⵔ",
+    "arabic": "حديث/جديد"
+  },
+  {
+    "id": "1650",
+    "romanized": "a3ddis",
+    "tifinagh": "ⴰⵄⴷⴷⵉⵙ",
+    "arabic": "بطن"
+  },
+  {
+    "id": "1651",
+    "romanized": "tisnt",
+    "tifinagh": "ⵜⵉⵙⵏⵜ",
+    "arabic": "ملح"
+  },
+  {
+    "id": "1652",
+    "romanized": "amn ykhs",
+    "tifinagh": "ⴰⵎⵏ ⵢⵅⵙ",
+    "arabic": "لا ضرر/ليست مشكلة"
+  },
+  {
+    "id": "1653",
+    "romanized": "yif",
+    "tifinagh": "ⵢⵉⴼ",
+    "arabic": "أفضل"
+  },
+  {
+    "id": "1654",
+    "romanized": "oujrgh",
+    "tifinagh": "ⵓⵊⵔⵖ",
+    "arabic": "فُقتُ"
+  },
+  {
+    "id": "1655",
+    "romanized": "tiddi",
+    "tifinagh": "ⵜⵉⴷⴷⵉ",
+    "arabic": "الطول/القامة"
+  },
+  {
+    "id": "1656",
+    "romanized": "9azz3agh",
+    "tifinagh": "ⵇⴰⵣⵣⵄⴰⵖ",
+    "arabic": "تغوطتُ"
+  },
+  {
+    "id": "1657",
+    "romanized": "barḍagh",
+    "tifinagh": "ⴱⴰⵕⴹⴰⵖ",
+    "arabic": "تغوطتُ"
   }
 ]
