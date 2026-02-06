@@ -121,8 +121,8 @@
   },
   {
     "id": "21",
-    "romanized": "admer",
-    "tifinagh": "ⴰⴷⵎⴻⵔ",
+    "romanized": "idmarn",
+    "tifinagh": "ⵉⴷⵎⴰⵔⵏ",
     "arabic": "صدر"
   },
   {
@@ -9934,5 +9934,53 @@
     "romanized": "barḍagh",
     "tifinagh": "ⴱⴰⵕⴹⴰⵖ",
     "arabic": "تغوطتُ"
+  },
+  {
+    "id": "1657",
+    "romanized": "9arrdagh",
+    "tifinagh": "ⵇⴰⵔⵔⴷⴰⵖ",
+    "arabic": "قرفصتُ"
+  },
+  {
+    "id": "1658",
+    "romanized": "ma3żagh",
+    "tifinagh": "ⵎⴰⵄⵥⴰⵖ",
+    "arabic": "ذكي و أتدبر أمري"
+  },
+  {
+    "id": "1659",
+    "romanized": "ḍahwragh",
+    "tifinagh": "ⴹⴰⵀⵡⵕⴰⵖ",
+    "arabic": "دختُ"
+  },
+  {
+    "id": "1660",
+    "romanized": "zanndagh",
+    "tifinagh": "ⵣⴰⵏⵏⴷⴰⵖ",
+    "arabic": "أكلتُ حتى الشبع"
+  },
+  {
+    "id": "1661",
+    "romanized": "khazragh",
+    "tifinagh": "ⵅⴰⵣⵔⴰⵖ",
+    "arabic": "أرى يتمعن"
+  },
+  {
+    "id": "1662",
+    "romanized": "boḍgh",
+    "tifinagh": "ⴱⵓⴹⵖ",
+    "arabic": "يبِستُ"
+  },
+  {
+    "id": "1663",
+    "romanized": "maḍlagh",
+    "tifinagh": "ⵎⴰⴹⵍⴰⵖ",
+    "arabic": "قبرتُ"
+  },
+  {
+    "id": "1664",
+    "romanized": "kssigh",
+    "tifinagh": "ⴽⵙⵙⵉⵖ",
+    "arabic": "أحمِلُ"
   }
 ]
