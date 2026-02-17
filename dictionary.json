@@ -10570,5 +10570,137 @@
     "romanized": "anggar",
     "tifinagh": "ⴰⵏⴳⴳⴰⵔ",
     "arabic": "الأخير"
+  },
+  {
+    "id": "1763",
+    "romanized": "ajriw",
+    "tifinagh": "ⴰⵊⵔⵉⵡ",
+    "arabic": "ضفدع"
+  },
+  {
+    "id": "1764",
+    "romanized": "arim",
+    "tifinagh": "ⴰⵔⵉⵎ",
+    "arabic": "إثنين"
+  },
+  {
+    "id": "1765",
+    "romanized": "aram",
+    "tifinagh": "ⴰⵔⴰⵎ",
+    "arabic": "ثلاثاء"
+  },
+  {
+    "id": "1766",
+    "romanized": "ahad",
+    "tifinagh": "ⴰⵀⴰⴷ",
+    "arabic": "أربعاء"
+  },
+  {
+    "id": "1767",
+    "romanized": "amhad",
+    "tifinagh": "ⴰⵎⵀⴰⴷ",
+    "arabic": "خميس"
+  },
+  {
+    "id": "1768",
+    "romanized": "sem",
+    "tifinagh": "ⵙⵎ",
+    "arabic": "جمعة"
+  },
+  {
+    "id": "1769",
+    "romanized": "sed",
+    "tifinagh": "ⵙⴷ",
+    "arabic": "سبت"
+  },
+  {
+    "id": "1770",
+    "romanized": "achr/adjer",
+    "tifinagh": "ⴰⵛⵔ/ⴰⴷⵊⵔ",
+    "arabic": "أحد"
+  },
+  {
+    "id": "1771",
+    "romanized": "zg ami",
+    "tifinagh": "ⵣⴳ ⴰⵎⵉ",
+    "arabic": "منذُ"
+  },
+  {
+    "id": "1772",
+    "romanized": "skhari9gh",
+    "tifinagh": "ⵙⵅⴰⵔⵉⵇⵖ",
+    "arabic": "أكذبُ"
+  },
+  {
+    "id": "1773",
+    "romanized": "rbough",
+    "tifinagh": "ⵔⴱⵓⵖ",
+    "arabic": "أحمل"
+  },
+  {
+    "id": "1774",
+    "romanized": "wllagh",
+    "tifinagh": "ⵡⵍⵍⴰⵖ",
+    "arabic": "عمق"
+  },
+  {
+    "id": "1775",
+    "romanized": "ukrurad",
+    "tifinagh": "ⵓⴽⵔⵓⵔⴰⴷ",
+    "arabic": "سِر"
+  },
+  {
+    "id": "1776",
+    "romanized": "abṭṭi9",
+    "tifinagh": "ⴰⴱⵟⵟⵉⵇ",
+    "arabic": "قطعة لحم كبيرة"
+  },
+  {
+    "id": "1777",
+    "romanized": "arouy",
+    "tifinagh": "ⴰⵔⵓⵢ",
+    "arabic": "نيص"
+  },
+  {
+    "id": "1778",
+    "romanized": "taghnnant",
+    "tifinagh": "ⵜⴰⵖⵏⵏⴰⵏⵜ",
+    "arabic": "عناد"
+  },
+  {
+    "id": "1779",
+    "romanized": "aghnnan",
+    "tifinagh": "ⴰⵖⵏⵏⴰⵏ",
+    "arabic": "عنيد"
+  },
+  {
+    "id": "1780",
+    "romanized": "tadjjalt",
+    "tifinagh": "ⵜⴰⴷⵊⵊⴰⵍⵜ",
+    "arabic": "أرملة"
+  },
+  {
+    "id": "1781",
+    "romanized": "oullouf/allaf",
+    "tifinagh": "ⵓⵍⵍⵓⴼ/ⴰⵍⵍⴰⴼ",
+    "arabic": "طلاق"
+  },
+  {
+    "id": "1782",
+    "romanized": "alfgh",
+    "tifinagh": "ⴰⵍⴼⵖ",
+    "arabic": "طلّقتُ"
+  },
+  {
+    "id": "1783",
+    "romanized": "ouftas",
+    "tifinagh": "ⵓⴼⵜⴰⵙ",
+    "arabic": "شاطئ"
+  },
+  {
+    "id": "1784",
+    "romanized": "oudmgh",
+    "tifinagh": "ⵓⴷⵎⵖ",
+    "arabic": "عذرتُ"
   }
 ]
