@@ -11404,5 +11404,293 @@
     "romanized": "taychoult",
     "tifinagh": "ⵜⴰⵢⵛⵛⵓⵍⵜ",
     "arabic": "ممخضة حليب يدوية"
+  },
+  {
+    "id": "1903",
+    "romanized": "Tummest",
+    "tifinagh": "ⵜⵓⵎⵎⵙⵜ",
+    "arabic": "حفنة"
+  },
+  {
+    "id": "1904",
+    "romanized": "Tardast",
+    "tifinagh": "ⵜⴰⵔⴷⴰⵙⵜ",
+    "arabic": "شبر"
+  },
+  {
+    "id": "1905",
+    "romanized": "taqurdeyt",
+    "tifinagh": "ⵜⴰⵇⵓⵔⴷⵉⵢⵜ",
+    "arabic": "صاع (وحدة قياس لمحاصيل الحبوب)"
+  },
+  {
+    "id": "1906",
+    "romanized": "a9llouch",
+    "tifinagh": "ⴰⵇⵍⵍⵓⵛ",
+    "arabic": "وعاء"
+  },
+  {
+    "id": "1907",
+    "romanized": "Taqbuçt",
+    "tifinagh": "ⵜⴰⵇⴱⵓⵛⵜ",
+    "arabic": "كأس"
+  },
+  {
+    "id": "1908",
+    "romanized": "inerz",
+    "tifinagh": "ⵉⵏⴻⵔⵣ",
+    "arabic": "كاحل القدم"
+  },
+  {
+    "id": "1909",
+    "romanized": "taghroudt",
+    "tifinagh": "ⵜⴰⵖⵔⵄⵓⴷⵜ",
+    "arabic": "كتف"
+  },
+  {
+    "id": "2003",
+    "romanized": "taghroudt",
+    "tifinagh": "ⵜⴰⵖⵔⵓⴷⵜ",
+    "arabic": "كتف"
+  },
+  {
+    "id": "2004",
+    "romanized": "ilmawn",
+    "tifinagh": "ⵉⵍⵎⴰⵡⵏ",
+    "arabic": "فارغون"
+  },
+  {
+    "id": "2005",
+    "romanized": "wmzaray",
+    "tifinagh": "ⵡⵎⵣⴰⵔⴰⵢ",
+    "arabic": "اختلاف"
+  },
+  {
+    "id": "2006",
+    "romanized": "yud",
+    "tifinagh": "ⵢⵓⴷ",
+    "arabic": "وقت"
+  },
+  {
+    "id": "2007",
+    "romanized": "ijj",
+    "tifinagh": "ⵉⵊⵊ",
+    "arabic": "بيسطاج"
+  },
+  {
+    "id": "2008",
+    "romanized": "iwzan",
+    "tifinagh": "ⵉⵡⵣⴰⵏ",
+    "arabic": "دشيشة"
+  },
+  {
+    "id": "2009",
+    "romanized": "hḍrgh",
+    "tifinagh": "ⵀⴹⵔⵖ",
+    "arabic": "تكلمتُ"
+  },
+  {
+    "id": "2010",
+    "romanized": "żayragh",
+    "tifinagh": "ⵥⴰⵢⵔⴰⵖ",
+    "arabic": "شددتُ"
+  },
+  {
+    "id": "2011",
+    "romanized": "sgheylegh",
+    "tifinagh": "ⵙⵖⴻⵢⵍⴻⵖ",
+    "arabic": "ابتلعتُ"
+  },
+  {
+    "id": "2012",
+    "romanized": "temzin",
+    "tifinagh": "ⵜⴻⵎⵣⵉⵏ",
+    "arabic": "شعير"
+  },
+  {
+    "id": "2013",
+    "romanized": "tizlfin",
+    "tifinagh": "ⵜⵉⵣⵍⴼⵉⵏ",
+    "arabic": "سبول"
+  },
+  {
+    "id": "2014",
+    "romanized": "tichwwadin",
+    "tifinagh": "ⵜⵉⵛⵡⵡⴰⴷⵉⵏ",
+    "arabic": "سبول"
+  },
+  {
+    "id": "2015",
+    "romanized": "asngar/tasngart",
+    "tifinagh": "ⴰⵙⵏⴳⴰⵔ/ⵜⴰⵙⵏⴳⴰⵔⵜ",
+    "arabic": "ذرة"
+  },
+  {
+    "id": "2016",
+    "romanized": "imendi",
+    "tifinagh": "ⵉⵎⴻⵏⴷⵉ",
+    "arabic": "حبوب"
+  },
+  {
+    "id": "2017",
+    "romanized": "khrṭal",
+    "tifinagh": "ⵅⵔⵟⴰⵍ",
+    "arabic": "شوفان"
+  },
+  {
+    "id": "2018",
+    "romanized": "imrmz",
+    "tifinagh": "ⵉⵎⵔⵎⵣ",
+    "arabic": "شعير أخضر ل تازميطت"
+  },
+  {
+    "id": "2019",
+    "romanized": "akbal",
+    "tifinagh": "ⴰⴽⴱⴰⵍ",
+    "arabic": "ثمرة ذرة"
+  },
+  {
+    "id": "2020",
+    "romanized": "irden",
+    "tifinagh": "ⵉⵔⴷⴻⵏ",
+    "arabic": "قمح"
+  },
+  {
+    "id": "2021",
+    "romanized": "arnan",
+    "tifinagh": "ⴰⵔⵏⴰⵏ",
+    "arabic": "كومة حبوب"
+  },
+  {
+    "id": "2022",
+    "romanized": "youds",
+    "tifinagh": "ⵢⵓⴷⵙ",
+    "arabic": "قريب"
+  },
+  {
+    "id": "2023",
+    "romanized": "ilellay",
+    "tifinagh": "ⵉⵍⴻⵍⵍⴰⵢ",
+    "arabic": "مقلاع ( سلاح لرمي الحجر الصغير )"
+  },
+  {
+    "id": "2024",
+    "romanized": "aghir",
+    "tifinagh": "ⴰⵖⵉⵔ",
+    "arabic": "الطرف"
+  },
+  {
+    "id": "2025",
+    "romanized": "aslghagh",
+    "tifinagh": "ⴰⵙⵍⵖⴰⵖ",
+    "arabic": "علكة الأشجار"
+  },
+  {
+    "id": "2026",
+    "romanized": "sgoujjegh",
+    "tifinagh": "ⵙⴳⵓⵊⵊⴻⵖ",
+    "arabic": "أُبعِدُ"
+  },
+  {
+    "id": "2027",
+    "romanized": "tisguin",
+    "tifinagh": "ⵜⵉⵙⴳⵉⵏ",
+    "arabic": "روث البقر"
+  },
+  {
+    "id": "2028",
+    "romanized": "izlafn",
+    "tifinagh": "ⵉⵣⵍⴰⴼⵏ",
+    "arabic": "حبوب القمح الخضراء"
+  },
+  {
+    "id": "2029",
+    "romanized": "kourdou/ikourdan",
+    "tifinagh": "ⴽⵓⵔⴷⵓ/ⵉⴽⵔⴷⴰⵏ",
+    "arabic": "برغوث/براغيث"
+  },
+  {
+    "id": "2030",
+    "romanized": "aza9ouf",
+    "tifinagh": "ⴰⵣⴰⵇⵓⴼ",
+    "arabic": "صانع سرج الحمار"
+  },
+  {
+    "id": "2031",
+    "romanized": "aghouchaf",
+    "tifinagh": "ⴰⵖⵓⵛⴰⴼ",
+    "arabic": "تمساح"
+  },
+  {
+    "id": "2032",
+    "romanized": "ighighch",
+    "tifinagh": "ⵉⵖⵉⵖⵛ",
+    "arabic": "شمبوان"
+  },
+  {
+    "id": "2033",
+    "romanized": "aritou",
+    "tifinagh": "ⴰⵔⵉⵜⵓ",
+    "arabic": "سرير من حجارة مغطى بالقصب و الصوف  أو الدوم"
+  },
+  {
+    "id": "2034",
+    "romanized": "ażżghar",
+    "tifinagh": "ⴰⵥⵥⵖⴰⵔ",
+    "arabic": "أرض منبسطة"
+  },
+  {
+    "id": "2035",
+    "romanized": "miżiḍ",
+    "tifinagh": "ⵎⵉⵥⵉⴹ",
+    "arabic": "حلو"
+  },
+  {
+    "id": "2036",
+    "romanized": "tghirḍmt",
+    "tifinagh": "ⵜⵖⵉⵔⴹⵎⵜ",
+    "arabic": "عقرب"
+  },
+  {
+    "id": "2037",
+    "romanized": "żwigh",
+    "tifinagh": "ⵥⵡⵉⵖ",
+    "arabic": "قطعتُ/عبرتُ"
+  },
+  {
+    "id": "2038",
+    "romanized": "akerri/ikerrarn",
+    "tifinagh": "ⴰⴽⵔⵔⵉ/ⵉⴽⵔⵔⴰⵔⵏ",
+    "arabic": "كبش/أكباش"
+  },
+  {
+    "id": "2039",
+    "romanized": "a7ouli/i7ouliyin",
+    "tifinagh": "ⴰⵃⵓⵍⵉ/ⵉⵃⵓⵍⵉⵢⵏ",
+    "arabic": "كبش/أكباش"
+  },
+  {
+    "id": "2040",
+    "romanized": "azmer",
+    "tifinagh": "ⴰⵣⵎⵔ",
+    "arabic": "خروف"
+  },
+  {
+    "id": "2041",
+    "romanized": "tagrjoumt",
+    "tifinagh": "ⵜⴰⴳⵔⵊⵓⵎⵜ",
+    "arabic": "حنجرة"
+  },
+  {
+    "id": "2042",
+    "romanized": "taghnst/tisghnas",
+    "tifinagh": "ⵜⴰⵖⵏⵙⵜ/ⵜⵉⵙⵖⵏⴰⵙ",
+    "arabic": "ملحفة توضع على ظهر المرأة لحمل الطفل أو كملحفة"
+  },
+  {
+    "id": "2043",
+    "romanized": "karfagh",
+    "tifinagh": "ⴽⴰⵔⴼⴰⵖ",
+    "arabic": "ربطتُ"
   }
 ]
