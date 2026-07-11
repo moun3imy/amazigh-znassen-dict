@@ -11692,5 +11692,329 @@
     "romanized": "karfagh",
     "tifinagh": "ⴽⴰⵔⴼⴰⵖ",
     "arabic": "ربطتُ"
+  },
+  {
+    "id": "2108",
+    "romanized": "amssżway",
+    "tifinagh": "ⴰⵎⵙⵙⵥⵡⴰⵢ",
+    "arabic": "جواز سفر"
+  },
+  {
+    "id": "2109",
+    "romanized": "asyyagh",
+    "tifinagh": "ⴰⵙⵢⵢⴰⵖ",
+    "arabic": "مجوهراتي"
+  },
+  {
+    "id": "2110",
+    "romanized": "isinaniyn",
+    "tifinagh": "ⵉⵙⵉⵏⴰⵏⵉⵢⵏ",
+    "arabic": "مدرجات زراعية على الجبل"
+  },
+  {
+    "id": "2111",
+    "romanized": "ffżagh",
+    "tifinagh": "ⴼⴼⵥⴰⵖ",
+    "arabic": "مضغتُ"
+  },
+  {
+    "id": "2112",
+    "romanized": "akskas",
+    "tifinagh": "ⴰⴽⵙⴽⴰⵙ",
+    "arabic": "قدر مثقوب لطهي الكسكس"
+  },
+  {
+    "id": "2113",
+    "romanized": "madoun",
+    "tifinagh": "ⵎⴰⴷⵓⵏ",
+    "arabic": "كسكاس لطهي الكسكس"
+  },
+  {
+    "id": "2114",
+    "romanized": "tayddourt",
+    "tifinagh": "ⵜⴰⵢⴷⴷⵓⵔⵜ",
+    "arabic": "قدرة"
+  },
+  {
+    "id": "2115",
+    "romanized": "timrsaḍ",
+    "tifinagh": "ⵜⵉⵎⵔⵚⴰⴹ",
+    "arabic": "نوع نباتي في الجبل"
+  },
+  {
+    "id": "2116",
+    "romanized": "7nanda",
+    "tifinagh": "ⵃⵏⴰⵏⴷⴰ",
+    "arabic": "معاناة كبيرة"
+  },
+  {
+    "id": "2117",
+    "romanized": "alghżm",
+    "tifinagh": "ⴰⵍⵖⵥⵎ",
+    "arabic": "التواء كاحل"
+  },
+  {
+    "id": "2118",
+    "romanized": "arraw nsn",
+    "tifinagh": "ⴰⵕⵕⴰⵡ ⵏⵙⵏ",
+    "arabic": "أولادهم"
+  },
+  {
+    "id": "2119",
+    "romanized": "iżrwan",
+    "tifinagh": "ⵉⵥⵕⵡⴰⵏ",
+    "arabic": ""
+  },
+  {
+    "id": "2120",
+    "romanized": "Tassout",
+    "tifinagh": "ⵜⴰⵙⵙⵓⵜ",
+    "arabic": ""
+  },
+  {
+    "id": "2121",
+    "romanized": "Tayyout",
+    "tifinagh": "ⵜⴰⵢⵢⵓⵜ",
+    "arabic": "مرض يصيب شجر اللوز"
+  },
+  {
+    "id": "2122",
+    "romanized": "imdyazn",
+    "tifinagh": "ⵉⵎⴷⵢⴰⵣⵏ",
+    "arabic": "شيوخ رقصة الركادة"
+  },
+  {
+    "id": "2123",
+    "romanized": "adif",
+    "tifinagh": "ⴰⴷⵉⴼ",
+    "arabic": "نخاع العظم"
+  },
+  {
+    "id": "2124",
+    "romanized": "athmourghi",
+    "tifinagh": "ⴰⵝⵎⵓⵔⵖⵉ",
+    "arabic": "جراد"
+  },
+  {
+    "id": "2125",
+    "romanized": "mism",
+    "tifinagh": "ⵎⵉⵙⵎ",
+    "arabic": "ماذا ؟"
+  },
+  {
+    "id": "2126",
+    "romanized": "i7lwach",
+    "tifinagh": "ⵉⵃⵍⵡⴰⵛ",
+    "arabic": "ملابس"
+  },
+  {
+    "id": "2143",
+    "romanized": "amssżway",
+    "tifinagh": "ⴰⵎⵙⵙⵥⵡⴰⵢ",
+    "arabic": "جواز سفر"
+  },
+  {
+    "id": "2144",
+    "romanized": "asyyagh",
+    "tifinagh": "ⴰⵙⵢⵢⴰⵖ",
+    "arabic": "مجوهراتي"
+  },
+  {
+    "id": "2145",
+    "romanized": "isinaniyn",
+    "tifinagh": "ⵉⵙⵉⵏⴰⵏⵉⵢⵏ",
+    "arabic": "مدرجات زراعية على الجبل"
+  },
+  {
+    "id": "2146",
+    "romanized": "ffżagh",
+    "tifinagh": "ⴼⴼⵥⴰⵖ",
+    "arabic": "مضغتُ"
+  },
+  {
+    "id": "2147",
+    "romanized": "akskas",
+    "tifinagh": "ⴰⴽⵙⴽⴰⵙ",
+    "arabic": "قدر مثقوب لطهي الكسكس"
+  },
+  {
+    "id": "2148",
+    "romanized": "madoun",
+    "tifinagh": "ⵎⴰⴷⵓⵏ",
+    "arabic": "كسكاس لطهي الكسكس"
+  },
+  {
+    "id": "2149",
+    "romanized": "tayddourt",
+    "tifinagh": "ⵜⴰⵢⴷⴷⵓⵔⵜ",
+    "arabic": "قدرة"
+  },
+  {
+    "id": "2150",
+    "romanized": "timrsaḍ",
+    "tifinagh": "ⵜⵉⵎⵔⵚⴰⴹ",
+    "arabic": "نوع نباتي في الجبل"
+  },
+  {
+    "id": "2151",
+    "romanized": "7nanda",
+    "tifinagh": "ⵃⵏⴰⵏⴷⴰ",
+    "arabic": "معاناة كبيرة"
+  },
+  {
+    "id": "2152",
+    "romanized": "alghżm",
+    "tifinagh": "ⴰⵍⵖⵥⵎ",
+    "arabic": "التواء كاحل"
+  },
+  {
+    "id": "2153",
+    "romanized": "arraw nsn",
+    "tifinagh": "ⴰⵕⵕⴰⵡ ⵏⵙⵏ",
+    "arabic": "أولادهم"
+  },
+  {
+    "id": "2154",
+    "romanized": "iżrwan",
+    "tifinagh": "ⵉⵥⵕⵡⴰⵏ",
+    "arabic": ""
+  },
+  {
+    "id": "2155",
+    "romanized": "Tassout",
+    "tifinagh": "ⵜⴰⵙⵙⵓⵜ",
+    "arabic": ""
+  },
+  {
+    "id": "2156",
+    "romanized": "Tayyout",
+    "tifinagh": "ⵜⴰⵢⵢⵓⵜ",
+    "arabic": "مرض يصيب شجر اللوز"
+  },
+  {
+    "id": "2157",
+    "romanized": "imdyazn",
+    "tifinagh": "ⵉⵎⴷⵢⴰⵣⵏ",
+    "arabic": "شيوخ رقصة الركادة"
+  },
+  {
+    "id": "2158",
+    "romanized": "adif",
+    "tifinagh": "ⴰⴷⵉⴼ",
+    "arabic": "نخاع العظم"
+  },
+  {
+    "id": "2159",
+    "romanized": "athmourghi",
+    "tifinagh": "ⴰⵝⵎⵓⵔⵖⵉ",
+    "arabic": "جراد"
+  },
+  {
+    "id": "2160",
+    "romanized": "mism",
+    "tifinagh": "ⵎⵉⵙⵎ",
+    "arabic": "ماذا ؟"
+  },
+  {
+    "id": "2161",
+    "romanized": "i7lwach",
+    "tifinagh": "ⵉⵃⵍⵡⴰⵛ",
+    "arabic": "ملابس"
+  },
+  {
+    "id": "2162",
+    "romanized": "asnnan",
+    "tifinagh": "ⴰⵙⵏⵏⴰⵏ",
+    "arabic": "شوكة"
+  },
+  {
+    "id": "2163",
+    "romanized": "warrdagh",
+    "tifinagh": "ⵡⴰⵔⵔⴷⴰⵖ",
+    "arabic": "سقيتُ"
+  },
+  {
+    "id": "2164",
+    "romanized": "achffay",
+    "tifinagh": "ⴰⵛⴼⴼⴰⵢ",
+    "arabic": "حليب"
+  },
+  {
+    "id": "2165",
+    "romanized": "9arrmagh",
+    "tifinagh": "ⵇⴰⵔⵔⵎⴰⵖ",
+    "arabic": "إحساس بتمزق عضلي"
+  },
+  {
+    "id": "2166",
+    "romanized": "9azzragh",
+    "tifinagh": "ⵇⴰⵣⵣⵔⴰⵖ",
+    "arabic": ""
+  },
+  {
+    "id": "2167",
+    "romanized": "ardlim",
+    "tifinagh": "ⴰⵔⴷⵍⵉⵎ",
+    "arabic": "حب الملوك"
+  },
+  {
+    "id": "2168",
+    "romanized": "ajrniḍ",
+    "tifinagh": "ⴰⵊⵕⵏⵉⴹ",
+    "arabic": "عنق"
+  },
+  {
+    "id": "2169",
+    "romanized": "tifras",
+    "tifinagh": "ⵜⵉⴼⵔⴰⵙ",
+    "arabic": "ملامح الوجه"
+  },
+  {
+    "id": "2170",
+    "romanized": "aṣghar",
+    "tifinagh": "ⴰⵚⵖⴰⵔ",
+    "arabic": "محراث"
+  },
+  {
+    "id": "2171",
+    "romanized": "ayjdour",
+    "tifinagh": "ⴰⵢⵊⴷⵓⵔ",
+    "arabic": "مصيبة"
+  },
+  {
+    "id": "2172",
+    "romanized": "tikerkaḍ",
+    "tifinagh": "ⵜⵉⴽⴻⵔⴽⴰⴹ",
+    "arabic": "دغدغة الأرجل"
+  },
+  {
+    "id": "2173",
+    "romanized": "tzawa",
+    "tifinagh": "ⵜⵣⴰⵡⴰ",
+    "arabic": "قحط"
+  },
+  {
+    "id": "2174",
+    "romanized": "adeddech",
+    "tifinagh": "ⴰⴷⴻⴷⴷⵛ",
+    "arabic": "حبو"
+  },
+  {
+    "id": "2175",
+    "romanized": "a3yyaḍ",
+    "tifinagh": "ⴰⵄⵢⵢⴰⴹ",
+    "arabic": "صراخ"
+  },
+  {
+    "id": "2176",
+    "romanized": "asghouyyou",
+    "tifinagh": "ⴰⵙⵖⵓⵢⵢⵓ",
+    "arabic": "صراخ"
+  },
+  {
+    "id": "2177",
+    "romanized": "djoullgh",
+    "tifinagh": "ⴷⵊⵓⵍⵍⵖ",
+    "arabic": "أقسمتُ"
   }
 ]
