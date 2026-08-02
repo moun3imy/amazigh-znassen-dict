@@ -12226,5 +12226,143 @@
     "romanized": "afttas",
     "tifinagh": "ⴰⴼⵜⵜⴰⵙ",
     "arabic": "شاطئ"
+  },
+  {
+    "id": "2057",
+    "romanized": "tasoumrt",
+    "tifinagh": "ⵜⴰⵙⵓⵎⵔⵜ",
+    "arabic": "اقتراح"
+  },
+  {
+    "id": "2058",
+    "romanized": "taghtast",
+    "tifinagh": "ⵜⴰⵖⵜⴰⵙⵜ",
+    "arabic": "قرار"
+  },
+  {
+    "id": "2059",
+    "romanized": "tadousrist",
+    "tifinagh": "ⵜⴰⴷⵓⵙⵔⵉⵙⵜ",
+    "arabic": "فرضية"
+  },
+  {
+    "id": "2060",
+    "romanized": "tousrist",
+    "tifinagh": "ⵜⵓⵙⵔⵉⵙⵜ",
+    "arabic": "أطروحة"
+  },
+  {
+    "id": "2061",
+    "romanized": "askkoud",
+    "tifinagh": "ⴰⵙⴽⴽⵓⴷ",
+    "arabic": "مبرهنة"
+  },
+  {
+    "id": "2062",
+    "romanized": "asnml",
+    "tifinagh": "ⴰⵙⵏⵎⵍ",
+    "arabic": "تعريف"
+  },
+  {
+    "id": "2063",
+    "romanized": "aglam",
+    "tifinagh": "ⴰⴳⵍⴰⵎ",
+    "arabic": "وصف"
+  },
+  {
+    "id": "2064",
+    "romanized": "tiżri",
+    "tifinagh": "ⵜⵉⵥⵕⵉ",
+    "arabic": "théorie"
+  },
+  {
+    "id": "2065",
+    "romanized": "asghżn",
+    "tifinagh": "ⴰⵙⵖⵥⵏ",
+    "arabic": "raisonnement"
+  },
+  {
+    "id": "2066",
+    "romanized": "anża",
+    "tifinagh": "ⴰⵏⵥⴰ",
+    "arabic": "حجة"
+  },
+  {
+    "id": "2067",
+    "romanized": "tafrist",
+    "tifinagh": "ⵜⴰⴼⵔⵉⵙⵜ",
+    "arabic": "سمة"
+  },
+  {
+    "id": "2068",
+    "romanized": "tamatart",
+    "tifinagh": "ⵜⴰⵎⴰⵜⴰⵔⵜ",
+    "arabic": "علامة"
+  },
+  {
+    "id": "2069",
+    "romanized": "toussna",
+    "tifinagh": "ⵜⵓⵙⵙⵏⴰ",
+    "arabic": "علم"
+  },
+  {
+    "id": "2070",
+    "romanized": "tourda",
+    "tifinagh": "ⵜⵓⵔⴷⴰ",
+    "arabic": "شك doute"
+  },
+  {
+    "id": "2071",
+    "romanized": "aḍkkouḍ",
+    "tifinagh": "ⴰⴹⴽⴽⵓⴹ",
+    "arabic": "توقع pronostic"
+  },
+  {
+    "id": "2072",
+    "romanized": "azlloug",
+    "tifinagh": "ⴰⵣⵍⵍⵓⴳ",
+    "arabic": "انزياح"
+  },
+  {
+    "id": "2073",
+    "romanized": "alkkoun",
+    "tifinagh": "ⴰⵍⴽⴽⵓⵏ",
+    "arabic": "يقين"
+  },
+  {
+    "id": "2074",
+    "romanized": "asnighs",
+    "tifinagh": "ⴰⵙⵏⵉⵖⵙ",
+    "arabic": "ملاحظة"
+  },
+  {
+    "id": "2075",
+    "romanized": "asmouttg",
+    "tifinagh": "ⴰⵙⵎⵓⵜⵜⴳ",
+    "arabic": "أعداد"
+  },
+  {
+    "id": "2076",
+    "romanized": "assilgh",
+    "tifinagh": "ⴰⵙⵙⵉⵍⵖ",
+    "arabic": "تكوين"
+  },
+  {
+    "id": "2077",
+    "romanized": "ammouttg",
+    "tifinagh": "ⴰⵎⵎⵓⵜⵜⴳ",
+    "arabic": "استعداد"
+  },
+  {
+    "id": "2078",
+    "romanized": "asmigl",
+    "tifinagh": "ⴰⵙⵎⵉⴳⵍ",
+    "arabic": "توصية"
+  },
+  {
+    "id": "2079",
+    "romanized": "asmmtr",
+    "tifinagh": "ⴰⵙⵎⵎⵜⵔ",
+    "arabic": "نصيحة"
   }
 ]
